@@ -1,0 +1,12 @@
+
+Experiment,Dataset,Image,instrument,instrument_part,PartType,setting
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:manufacturer_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:calibratedmagnification_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:workingdistance_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:iris_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:immersion_7
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:model_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:serialnumber_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:objectivesettings_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:nominalmagnification_objective_1
+EGFP-RAD51 Time-lapse with Bleomycin,EGFP-RAD51/mCherry-RAD54 time lapse,20180817_RAD51-EGFP_BLM_4h_10min.lif,repr:instrument_1,repr:objective_1,Objective,repr:lotnumber_objective_1

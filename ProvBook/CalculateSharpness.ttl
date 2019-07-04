@@ -1,0 +1,1405 @@
+@prefix p-plan: <http://purl.org/net/p-plan/#> .
+@prefix prov: <http://www.w3.org/ns/prov/#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix repr: <https://w3id.org/reproduceme#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+repr:Cell0 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source0 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 0 .
+
+repr:Cell1 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source1 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 1 .
+
+repr:Cell10Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:used repr:Cell10Execution0Source .
+
+repr:Cell10Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:endedAtTime "2018-08-27T15:06:14.044Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.201Z" ;
+    prov:used repr:Cell10Execution1Source ;
+    repr:executionTime "-157ms" .
+
+repr:Cell11 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source11 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 11 .
+
+repr:Cell12Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:used repr:Cell12Execution0Source .
+
+repr:Cell12Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:endedAtTime "2018-08-27T15:06:14.046Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.203Z" ;
+    prov:used repr:Cell12Execution1Source ;
+    repr:executionTime "-157ms" .
+
+repr:Cell13 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source13 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 13 .
+
+repr:Cell14Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell14 ;
+    prov:used repr:Cell14Execution0Source .
+
+repr:Cell14Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell14 ;
+    prov:endedAtTime "2018-08-27T15:06:14.048Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.204Z" ;
+    prov:used repr:Cell14Execution1Source ;
+    repr:executionTime "-156ms" .
+
+repr:Cell15 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source15 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 15 .
+
+repr:Cell16Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:used repr:Cell16Execution0Source .
+
+repr:Cell16Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:endedAtTime "2018-08-27T15:06:14.050Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.206Z" ;
+    prov:used repr:Cell16Execution1Source ;
+    repr:executionTime "-156ms" .
+
+repr:Cell17 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source17 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 17 .
+
+repr:Cell18Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:used repr:Cell18Execution0Source .
+
+repr:Cell18Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:endedAtTime "2018-08-27T15:06:14.052Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.209Z" ;
+    prov:used repr:Cell18Execution1Source ;
+    repr:executionTime "-157ms" .
+
+repr:Cell19 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source19 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 19 .
+
+repr:Cell2 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source2 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 2 .
+
+repr:Cell20Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:used repr:Cell20Execution0Source .
+
+repr:Cell20Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "2018-08-27T15:06:14.054Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.211Z" ;
+    prov:used repr:Cell20Execution1Source ;
+    repr:executionTime "-157ms" .
+
+repr:Cell21 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source21 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 21 .
+
+repr:Cell22Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell22 ;
+    prov:used repr:Cell22Execution0Source .
+
+repr:Cell22Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell22 ;
+    prov:endedAtTime "2018-08-27T15:06:14.059Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.221Z" ;
+    prov:used repr:Cell22Execution1Source ;
+    repr:executionTime "-162ms" .
+
+repr:Cell23Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:used repr:Cell23Execution0Source .
+
+repr:Cell23Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "2018-08-27T15:06:14.061Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.223Z" ;
+    prov:used repr:Cell23Execution1Source ;
+    repr:executionTime "-162ms" .
+
+repr:Cell24 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source24 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 24 .
+
+repr:Cell25Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:used repr:Cell25Execution0Source .
+
+repr:Cell25Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "2018-08-27T15:06:14.063Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.224Z" ;
+    prov:used repr:Cell25Execution1Source ;
+    repr:executionTime "-161ms" .
+
+repr:Cell26 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source26 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 26 .
+
+repr:Cell27 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source27 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 27 .
+
+repr:Cell28Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:used repr:Cell28Execution0Source .
+
+repr:Cell28Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:endedAtTime "2018-08-27T15:06:14.067Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.226Z" ;
+    prov:used repr:Cell28Execution1Source ;
+    repr:executionTime "-159ms" .
+
+repr:Cell29Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:used repr:Cell29Execution0Source .
+
+repr:Cell29Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:endedAtTime "2018-08-27T15:06:14.072Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.227Z" ;
+    prov:used repr:Cell29Execution1Source ;
+    repr:executionTime "-155ms" .
+
+repr:Cell3 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source3 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 3 .
+
+repr:Cell30 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source30 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 30 .
+
+repr:Cell31Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell31 ;
+    prov:used repr:Cell31Execution0Source .
+
+repr:Cell31Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell31 ;
+    prov:endedAtTime "2018-08-27T15:06:14.078Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.229Z" ;
+    prov:used repr:Cell31Execution1Source ;
+    repr:executionTime "-151ms" .
+
+repr:Cell32 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source32 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 32 .
+
+repr:Cell33Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell33 ;
+    prov:used repr:Cell33Execution0Source .
+
+repr:Cell33Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell33 ;
+    prov:endedAtTime "2018-08-27T15:06:14.082Z" ;
+    prov:startedAtTime "2018-08-27T15:06:14.232Z" ;
+    prov:used repr:Cell33Execution1Source ;
+    repr:executionTime "-150ms" .
+
+repr:Cell4 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source4 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 4 .
+
+repr:Cell5Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell5 ;
+    prov:used repr:Cell5Execution0Source .
+
+repr:Cell5Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell5 ;
+    prov:endedAtTime "2018-08-27T15:06:13.968Z" ;
+    prov:startedAtTime "2018-08-27T15:06:13.958Z" ;
+    prov:used repr:Cell5Execution1Source ;
+    repr:executionTime "10ms" .
+
+repr:Cell6 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source6 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 6 .
+
+repr:Cell7 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source7 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 7 .
+
+repr:Cell8Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:generated repr:Cell8Execution0Output0 ;
+    prov:used repr:Cell8Execution0Source .
+
+repr:Cell8Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2018-08-27T15:06:14.043Z" ;
+    prov:generated repr:Cell8Execution1Output0 ;
+    prov:startedAtTime "2018-08-27T15:06:13.973Z" ;
+    prov:used repr:Cell8Execution1Source ;
+    repr:executionTime "70ms" .
+
+repr:Cell8Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2018-08-27T15:12:56.651Z" ;
+    prov:generated repr:Cell8Execution2Output0 ;
+    prov:startedAtTime "2018-08-27T15:12:56.587Z" ;
+    prov:used repr:Cell8Execution2Source ;
+    repr:executionTime "64ms" .
+
+repr:Cell9 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source9 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 9 .
+
+repr:Cell10Execution0Source rdf:value """plate = conn.getObject("Plate", plateId)
+print "\\nNumber of fields:", plate.getNumberOfFields()
+print "\\nGrid size:", plate.getGridSize()
+print "\\nWells in Plate:", plate.getName()
+
+plate_rows = plate.getRows()
+plate_columns = plate.getColumns()
+plate_format = plate_rows * plate_columns
+
+print "\\nPlate Format:", plate_format""" .
+
+repr:Cell10Execution1Source rdf:value """plate = conn.getObject("Plate", plateId)
+print "\\nNumber of fields:", plate.getNumberOfFields()
+print "\\nGrid size:", plate.getGridSize()
+print "\\nWells in Plate:", plate.getName()
+
+plate_rows = plate.getRows()
+plate_columns = plate.getColumns()
+plate_format = plate_rows * plate_columns
+
+print "\\nPlate Format:", plate_format""" .
+
+repr:Cell12Execution0Source rdf:value """class AlgorithmList:
+    def fourierBasedSharpnessMetric(self):
+        fftimage = np.fft.fft2(plane)
+        fftshift = np.fft.fftshift(fftimage)
+        fftshift = np.absolute(fftshift)
+        M = np.amax(fftshift)
+        Th = (fftshift > (M/float(1000))).sum()
+        if 'image' in locals():
+            sharpness = Th/(float(image.getSizeX())*float(image.getSizeY()))
+            return sharpness*10000
+        else:
+            return Th
+    def gradientBasedSharpnessMetric(self):
+        gy, gx = np.gradient(plane)
+        gnorm = np.sqrt(gx**2 + gy**2)
+        sharpness = np.average(gnorm)
+        return sharpness
+    def edgeBasedSharpnessMetric(self):
+        edges1 = feature.canny(plane, sigma=3)
+        kernel = np.ones((3, 3))
+        kernel[1, 1] = 0
+        sharpness = convolve(edges1, kernel, mode="constant")
+        sharpness = sharpness[edges1 != 0].sum()
+        return sharpness
+print "loaded:", dir(AlgorithmList)""" .
+
+repr:Cell12Execution1Source rdf:value """class AlgorithmList:
+    def fourierBasedSharpnessMetric(self):
+        fftimage = np.fft.fft2(plane)
+        fftshift = np.fft.fftshift(fftimage)
+        fftshift = np.absolute(fftshift)
+        M = np.amax(fftshift)
+        Th = (fftshift > (M/float(1000))).sum()
+        if 'image' in locals():
+            sharpness = Th/(float(image.getSizeX())*float(image.getSizeY()))
+            return sharpness*10000
+        else:
+            return Th
+    def gradientBasedSharpnessMetric(self):
+        gy, gx = np.gradient(plane)
+        gnorm = np.sqrt(gx**2 + gy**2)
+        sharpness = np.average(gnorm)
+        return sharpness
+    def edgeBasedSharpnessMetric(self):
+        edges1 = feature.canny(plane, sigma=3)
+        kernel = np.ones((3, 3))
+        kernel[1, 1] = 0
+        sharpness = convolve(edges1, kernel, mode="constant")
+        sharpness = sharpness[edges1 != 0].sum()
+        return sharpness
+print "loaded:", dir(AlgorithmList)""" .
+
+repr:Cell14Execution0Source rdf:value """resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(face, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr= cntr + 1
+
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+
+plt.gcf().clear()""" .
+
+repr:Cell14Execution1Source rdf:value """resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(face, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr= cntr + 1
+
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+
+plt.gcf().clear()""" .
+
+repr:Cell16Execution0Source rdf:value """imageId = 171499
+image = conn.getObject("Image", imageId)
+print image.getName(), image.getDescription()
+
+pixels = image.getPrimaryPixels()
+image_plane = pixels.getPlane(0, 0, 0)
+
+resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(image_plane, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr = cntr + 1
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+plt.gcf().clear()""" .
+
+repr:Cell16Execution1Source rdf:value """imageId = 171499
+image = conn.getObject("Image", imageId)
+print image.getName(), image.getDescription()
+
+pixels = image.getPrimaryPixels()
+image_plane = pixels.getPlane(0, 0, 0)
+
+resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(image_plane, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr = cntr + 1
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+plt.gcf().clear()""" .
+
+repr:Cell18Execution0Source rdf:value """chnames = None
+cntr = 0
+fields = 0
+size_z = fields
+print "Iterating through wells..."
+for well in plate.listChildren():
+    index = well.countWellSample()
+    image = well.getImage(fields)
+    if chnames is None:
+        chnames = [ch.getLabel() for ch in image.getChannels(True)]
+    pixels = image.getPrimaryPixels()
+    size_c = image.getSizeC()
+    if cntr == 0:
+        result_array = np.zeros((plate_format, size_c), dtype=float)
+    for ch in xrange(0, size_c):
+        plane = pixels.getPlane(0, ch, 0)
+        sharpness = AlgorithmList().fourierBasedSharpnessMetric()
+        result_array[((well.row) * plate_columns) + well.column, ch] = sharpness
+        tempvalue = result_array[((well.row) * plate_columns) + well.column, ch]
+        wellid = ((well.row) * plate_columns) + well.column
+        fieldid = (fields + ch * size_c)
+        cntr = cntr + 1""" .
+
+repr:Cell18Execution1Source rdf:value """chnames = None
+cntr = 0
+fields = 0
+size_z = fields
+print "Iterating through wells..."
+for well in plate.listChildren():
+    index = well.countWellSample()
+    image = well.getImage(fields)
+    if chnames is None:
+        chnames = [ch.getLabel() for ch in image.getChannels(True)]
+    pixels = image.getPrimaryPixels()
+    size_c = image.getSizeC()
+    if cntr == 0:
+        result_array = np.zeros((plate_format, size_c), dtype=float)
+    for ch in xrange(0, size_c):
+        plane = pixels.getPlane(0, ch, 0)
+        sharpness = AlgorithmList().fourierBasedSharpnessMetric()
+        result_array[((well.row) * plate_columns) + well.column, ch] = sharpness
+        tempvalue = result_array[((well.row) * plate_columns) + well.column, ch]
+        wellid = ((well.row) * plate_columns) + well.column
+        fieldid = (fields + ch * size_c)
+        cntr = cntr + 1""" .
+
+repr:Cell20Execution0Source rdf:value """alphabets = list(string.ascii_uppercase)
+plate_name = plate.getName()
+colval = 0
+planes = []
+cntr = 0
+size_c = 3
+fig = plt.figure(figsize=(30, 15))
+for rowval in range (0, size_c):
+    data = result_array[:, rowval].reshape(plate_rows, plate_columns);
+    ax = plt.subplot(size_c,1,cntr+1)
+    plt.pcolor(data)
+    plt.colorbar()
+    ax.title.set_text(chnames[rowval])
+    plt.xticks(np.arange(0.5, plate_columns, 1.0))
+    plt.yticks(np.arange(0.5, plate_rows, 1.0))
+    xlabels = range(1, plate_columns+1) 
+    ax.set_xticklabels(xlabels)
+    ylabels = range(1, plate_rows+1)
+    ax.set_yticklabels([alphabets[i-1] for i in ylabels])
+    plt.gca().invert_yaxis()
+    plt.clim(0,40000)
+
+    data = np.repeat(data, 20, axis=1)
+    data = np.repeat(data, 20, axis=0)
+    planes.append(np.uint16(data))
+    cntr = cntr + 1
+
+plt.show()
+fig.savefig(plate_name + 'SharpnessHeatMaps.png')""" .
+
+repr:Cell20Execution1Source rdf:value """alphabets = list(string.ascii_uppercase)
+plate_name = plate.getName()
+colval = 0
+planes = []
+cntr = 0
+size_c = 3
+fig = plt.figure(figsize=(30, 15))
+for rowval in range (0, size_c):
+    data = result_array[:, rowval].reshape(plate_rows, plate_columns);
+    ax = plt.subplot(size_c,1,cntr+1)
+    plt.pcolor(data)
+    plt.colorbar()
+    ax.title.set_text(chnames[rowval])
+    plt.xticks(np.arange(0.5, plate_columns, 1.0))
+    plt.yticks(np.arange(0.5, plate_rows, 1.0))
+    xlabels = range(1, plate_columns+1) 
+    ax.set_xticklabels(xlabels)
+    ylabels = range(1, plate_rows+1)
+    ax.set_yticklabels([alphabets[i-1] for i in ylabels])
+    plt.gca().invert_yaxis()
+    plt.clim(0,40000)
+
+    data = np.repeat(data, 20, axis=1)
+    data = np.repeat(data, 20, axis=0)
+    planes.append(np.uint16(data))
+    cntr = cntr + 1
+
+plt.show()
+fig.savefig(plate_name + 'SharpnessHeatMaps.png')""" .
+
+repr:Cell22Execution0Source rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 2)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness <= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Cell22Execution1Source rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 2)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness <= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Cell23Execution0Source rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 98)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness >= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Cell23Execution1Source rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 98)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness >= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Cell25Execution0Source rdf:value "conn.close()" .
+
+repr:Cell25Execution1Source rdf:value "conn.close()" .
+
+repr:Cell28Execution0Source rdf:value "from omero.gateway import BlitzGateway" .
+
+repr:Cell28Execution1Source rdf:value "from omero.gateway import BlitzGateway" .
+
+repr:Cell29Execution0Source rdf:value """from getpass import getpass
+readAnnotateConn = BlitzGateway(
+    raw_input("Username: "), getpass("OMERO Password: "),
+    host=raw_input("Hostname: "))
+readAnnotateConn.connect()""" .
+
+repr:Cell29Execution1Source rdf:value """from getpass import getpass
+readAnnotateConn = BlitzGateway(
+    raw_input("Username: "), getpass("OMERO Password: "),
+    host=raw_input("Hostname: "))
+readAnnotateConn.connect()""" .
+
+repr:Cell31Execution0Source rdf:value """if readAnnotateConn.isConnected():
+
+    size_z = 1
+    size_t = 1
+    def planeGen():
+        \"\"\"generator will yield planes\"\"\"
+        for p in planes:
+            yield p
+
+    desc = "Image created from a hard-coded arrays"
+    i = readAnnotateConn.createImageFromNumpySeq(planeGen(), plate_name + "numpy image", size_z, size_c, size_t, description=desc,dataset=None)
+    print 'Created new Image:%s Name:"%s"' % (i.getId(), i.getName())
+    imageId = i.getId()""" .
+
+repr:Cell31Execution1Source rdf:value """if readAnnotateConn.isConnected():
+
+    size_z = 1
+    size_t = 1
+    def planeGen():
+        \"\"\"generator will yield planes\"\"\"
+        for p in planes:
+            yield p
+
+    desc = "Image created from a hard-coded arrays"
+    i = readAnnotateConn.createImageFromNumpySeq(planeGen(), plate_name + "numpy image", size_z, size_c, size_t, description=desc,dataset=None)
+    print 'Created new Image:%s Name:"%s"' % (i.getId(), i.getName())
+    imageId = i.getId()""" .
+
+repr:Cell33Execution0Source rdf:value """if readAnnotateConn.isConnected():
+
+    plate = readAnnotateConn.getObject("image", imageId)
+    file_to_upload = plate_name + 'SharpnessHeatMaps.png'   # This file should already exist
+    # create the original file and file annotation (uploads the file etc.)
+    namespace = "dundee.users.meeting.demo"
+    print "\\nCreating an OriginalFile and FileAnnotation"
+    file_ann = conn.createFileAnnfromLocalFile(
+        file_to_upload, mimetype="text/plain", ns=namespace, desc=None)
+    print "Attaching FileAnnotation to Plate: ", "File ID:", file_ann.getId(), \\
+        ",", file_ann.getFile().getName(), "Size:", file_ann.getFile().getSize()
+    plate.linkAnnotation(file_ann)
+    readAnnotateConn.close()""" .
+
+repr:Cell33Execution1Source rdf:value """if readAnnotateConn.isConnected():
+
+    plate = readAnnotateConn.getObject("image", imageId)
+    file_to_upload = plate_name + 'SharpnessHeatMaps.png'   # This file should already exist
+    # create the original file and file annotation (uploads the file etc.)
+    namespace = "dundee.users.meeting.demo"
+    print "\\nCreating an OriginalFile and FileAnnotation"
+    file_ann = conn.createFileAnnfromLocalFile(
+        file_to_upload, mimetype="text/plain", ns=namespace, desc=None)
+    print "Attaching FileAnnotation to Plate: ", "File ID:", file_ann.getId(), \\
+        ",", file_ann.getFile().getName(), "Size:", file_ann.getFile().getSize()
+    plate.linkAnnotation(file_ann)
+    readAnnotateConn.close()""" .
+
+repr:Cell5Execution0Source rdf:value """from PIL import Image
+import string
+import pandas as pd
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+from numpy import array, int8
+from skimage import feature
+from scipy import ndimage
+from scipy.ndimage import convolve
+from scipy import misc""" .
+
+repr:Cell5Execution1Source rdf:value """from PIL import Image
+import string
+import pandas as pd
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+from numpy import array, int8
+from skimage import feature
+from scipy import ndimage
+from scipy.ndimage import convolve
+from scipy import misc""" .
+
+repr:Cell8Execution0Output0 rdf:value "No module named idr" ;
+    repr:hasType "error" .
+
+repr:Cell8Execution0Source rdf:value """from idr import connection; 
+conn = connection()
+plateId = 408
+print conn""" .
+
+repr:Cell8Execution1Output0 rdf:value "No module named idr" ;
+    repr:hasType "error" .
+
+repr:Cell8Execution1Source rdf:value """from idr import connection; 
+conn = connection()
+plateId = 408
+print conn""" .
+
+repr:Cell8Execution2Output0 rdf:value "No module named omero" ;
+    repr:hasType "error" .
+
+repr:Cell8Execution2Source rdf:value """from idr import connection; 
+conn = connection()
+plateId = 408
+print conn""" .
+
+repr:Output8 a p-plan:Variable ;
+    rdf:value "No module named omero" ;
+    repr:hasErrorName "ImportError" ;
+    repr:hasErrorTraceback "[u'\\x1b[0;31m---------------------------------------------------------------------------\\x1b[0m', u'\\x1b[0;31mImportError\\x1b[0m                               Traceback (most recent call last)', u'\\x1b[0;32m<ipython-input-8-aa1eb3f37ac9>\\x1b[0m in \\x1b[0;36m<module>\\x1b[0;34m()\\x1b[0m\\n\\x1b[0;32m----> 1\\x1b[0;31m \\x1b[0;32mfrom\\x1b[0m \\x1b[0midr\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mconnection\\x1b[0m\\x1b[0;34m;\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0m\\x1b[1;32m      2\\x1b[0m \\x1b[0mconn\\x1b[0m \\x1b[0;34m=\\x1b[0m \\x1b[0mconnection\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      3\\x1b[0m \\x1b[0mplateId\\x1b[0m \\x1b[0;34m=\\x1b[0m \\x1b[0;36m408\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      4\\x1b[0m \\x1b[0;32mprint\\x1b[0m \\x1b[0mconn\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n', u'\\x1b[0;32m/usr/local/lib/python2.7/dist-packages/idr/__init__.py\\x1b[0m in \\x1b[0;36m<module>\\x1b[0;34m()\\x1b[0m\\n\\x1b[0;32m----> 1\\x1b[0;31m \\x1b[0;32mfrom\\x1b[0m \\x1b[0mconnections\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mconnection\\x1b[0m \\x1b[0;31m# NOQA\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0m\\x1b[1;32m      2\\x1b[0m \\x1b[0;32mfrom\\x1b[0m \\x1b[0mconnections\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mcreate_http_session\\x1b[0m \\x1b[0;31m# NOQA\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      3\\x1b[0m \\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      4\\x1b[0m \\x1b[0;32mfrom\\x1b[0m \\x1b[0mattributes\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mattributes_by_attributes\\x1b[0m \\x1b[0;31m# NOQA\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      5\\x1b[0m \\x1b[0;32mfrom\\x1b[0m \\x1b[0mattributes\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mannotation_ids_by_field\\x1b[0m \\x1b[0;31m# NOQA\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n', u'\\x1b[0;32m/usr/local/lib/python2.7/dist-packages/idr/connections.py\\x1b[0m in \\x1b[0;36m<module>\\x1b[0;34m()\\x1b[0m\\n\\x1b[1;32m      6\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mos\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      7\\x1b[0m \\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0;32m----> 8\\x1b[0;31m \\x1b[0;32mimport\\x1b[0m \\x1b[0momero\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0m\\x1b[1;32m      9\\x1b[0m \\x1b[0;32mfrom\\x1b[0m \\x1b[0momero\\x1b[0m\\x1b[0;34m.\\x1b[0m\\x1b[0mgateway\\x1b[0m \\x1b[0;32mimport\\x1b[0m \\x1b[0mBlitzGateway\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m     10\\x1b[0m \\x1b[0;34m\\x1b[0m\\x1b[0m\\n', u'\\x1b[0;31mImportError\\x1b[0m: No module named omero']" ;
+    repr:hasType "error" .
+
+repr:Source0 a p-plan:Variable ;
+    rdf:value "# QC script to calculate sharpness metric for images in a plate" .
+
+repr:Source1 a p-plan:Variable ;
+    rdf:value """The following script will access the IDR images in a facility manager's context,
+
+The QC script does the following,
+
+1. Extracts Images from IDR (read-only)
+2. Calculates sharpness based on the algorithm defined in the following publication,
+  * [Image Sharpness Measure for Blurred Images in Frequency Domain](https://doi.org/10.1016/j.proeng.2013.09.086)
+3. Creates a numpy array of the sharpness scores for every well, 
+  * seperately for every field and every channel
+  * the numpy array is then reshaped to the same dimensions of the plate, e.g. 96 well plates will have a numpy array 
+    with 8 rows and 12 columns.
+4. Plots a heatmap for every field and every channel, and arranges all plots within a subplot.
+5. Exports the heatmap back to OMERO in the following ways,
+  * Saves the ["plate_name" + "heatmap.png"] and attaches it to the appropriate plate as a file attachment.
+  * Saves the numpy array as an image back to OMERO and a secondary script "createOMEROFigures" can be used to create 
+    figures in OMERO.figure in the same layout as seen in the ["plate_name" + "heatmap.png"]""" .
+
+repr:Source10 a p-plan:Variable ;
+    rdf:value """plate = conn.getObject("Plate", plateId)
+print "\\nNumber of fields:", plate.getNumberOfFields()
+print "\\nGrid size:", plate.getGridSize()
+print "\\nWells in Plate:", plate.getName()
+
+plate_rows = plate.getRows()
+plate_columns = plate.getColumns()
+plate_format = plate_rows * plate_columns
+
+print "\\nPlate Format:", plate_format""" .
+
+repr:Source11 a p-plan:Variable ;
+    rdf:value "***Algorithm List***" .
+
+repr:Source12 a p-plan:Variable ;
+    rdf:value """class AlgorithmList:
+    def fourierBasedSharpnessMetric(self):
+        fftimage = np.fft.fft2(plane)
+        fftshift = np.fft.fftshift(fftimage)
+        fftshift = np.absolute(fftshift)
+        M = np.amax(fftshift)
+        Th = (fftshift > (M/float(1000))).sum()
+        if 'image' in locals():
+            sharpness = Th/(float(image.getSizeX())*float(image.getSizeY()))
+            return sharpness*10000
+        else:
+            return Th
+    def gradientBasedSharpnessMetric(self):
+        gy, gx = np.gradient(plane)
+        gnorm = np.sqrt(gx**2 + gy**2)
+        sharpness = np.average(gnorm)
+        return sharpness
+    def edgeBasedSharpnessMetric(self):
+        edges1 = feature.canny(plane, sigma=3)
+        kernel = np.ones((3, 3))
+        kernel[1, 1] = 0
+        sharpness = convolve(edges1, kernel, mode="constant")
+        sharpness = sharpness[edges1 != 0].sum()
+        return sharpness
+print "loaded:", dir(AlgorithmList)""" .
+
+repr:Source13 a p-plan:Variable ;
+    rdf:value "***Test your algorithm on example data***" .
+
+repr:Source14 a p-plan:Variable ;
+    rdf:value """resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(face, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr= cntr + 1
+
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+
+plt.gcf().clear()""" .
+
+repr:Source15 a p-plan:Variable ;
+    rdf:value "***Test your algorithm on plate data***" .
+
+repr:Source16 a p-plan:Variable ;
+    rdf:value """imageId = 171499
+image = conn.getObject("Image", imageId)
+print image.getName(), image.getDescription()
+
+pixels = image.getPrimaryPixels()
+image_plane = pixels.getPlane(0, 0, 0)
+
+resultArray = np.zeros((5, 2), dtype=float);
+plt.figure(figsize=(20, 15))
+cntr = 1
+for sigValue in xrange(0,20,4):
+    face = misc.face(gray=True)
+    plane = ndimage.gaussian_filter(image_plane, sigma=sigValue)
+    plt.subplot(1,5,cntr)
+    plt.imshow(plane, cmap=plt.cm.gray)
+    plt.axis('off')
+    sharpness = AlgorithmList().fourierBasedSharpnessMetric();
+    resultArray[cntr-1,1] = sharpness
+    resultArray[cntr-1,0] = sigValue
+    cntr = cntr + 1
+plt.show()
+plt.figure(figsize=(10, 8))
+plt.plot(resultArray[:,0], resultArray[:,1], 'ro')
+plt.xlabel('Levels of gaussian blur')
+plt.ylabel('sharpness score')
+plt.show()
+plt.gcf().clear()""" .
+
+repr:Source17 a p-plan:Variable ;
+    rdf:value "***Iterative calculations for the whole plate***" .
+
+repr:Source18 a p-plan:Variable ;
+    rdf:value """chnames = None
+cntr = 0
+fields = 0
+size_z = fields
+print "Iterating through wells..."
+for well in plate.listChildren():
+    index = well.countWellSample()
+    image = well.getImage(fields)
+    if chnames is None:
+        chnames = [ch.getLabel() for ch in image.getChannels(True)]
+    pixels = image.getPrimaryPixels()
+    size_c = image.getSizeC()
+    if cntr == 0:
+        result_array = np.zeros((plate_format, size_c), dtype=float)
+    for ch in xrange(0, size_c):
+        plane = pixels.getPlane(0, ch, 0)
+        sharpness = AlgorithmList().fourierBasedSharpnessMetric()
+        result_array[((well.row) * plate_columns) + well.column, ch] = sharpness
+        tempvalue = result_array[((well.row) * plate_columns) + well.column, ch]
+        wellid = ((well.row) * plate_columns) + well.column
+        fieldid = (fields + ch * size_c)
+        cntr = cntr + 1""" .
+
+repr:Source19 a p-plan:Variable ;
+    rdf:value "***Reshape numpy array and plot heatmaps***" .
+
+repr:Source2 a p-plan:Variable ;
+    rdf:value "# Workflow summary" .
+
+repr:Source20 a p-plan:Variable ;
+    rdf:value """alphabets = list(string.ascii_uppercase)
+plate_name = plate.getName()
+colval = 0
+planes = []
+cntr = 0
+size_c = 3
+fig = plt.figure(figsize=(30, 15))
+for rowval in range (0, size_c):
+    data = result_array[:, rowval].reshape(plate_rows, plate_columns);
+    ax = plt.subplot(size_c,1,cntr+1)
+    plt.pcolor(data)
+    plt.colorbar()
+    ax.title.set_text(chnames[rowval])
+    plt.xticks(np.arange(0.5, plate_columns, 1.0))
+    plt.yticks(np.arange(0.5, plate_rows, 1.0))
+    xlabels = range(1, plate_columns+1) 
+    ax.set_xticklabels(xlabels)
+    ylabels = range(1, plate_rows+1)
+    ax.set_yticklabels([alphabets[i-1] for i in ylabels])
+    plt.gca().invert_yaxis()
+    plt.clim(0,40000)
+
+    data = np.repeat(data, 20, axis=1)
+    data = np.repeat(data, 20, axis=0)
+    planes.append(np.uint16(data))
+    cntr = cntr + 1
+
+plt.show()
+fig.savefig(plate_name + 'SharpnessHeatMaps.png')""" .
+
+repr:Source21 a p-plan:Variable ;
+    rdf:value "***Thumbnails of top2 and bottom 2 percentile images***" .
+
+repr:Source22 a p-plan:Variable ;
+    rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 2)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness <= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Source23 a p-plan:Variable ;
+    rdf:value """mapAnnotationNameSpace = "openmicroscopy.org/mapr/gene"
+bulkAnnotationNameSpace = "openmicroscopy.org/omero/bulk_annotations"
+def id_to_image_html(id):
+    return '<img src="http://idr.openmicroscopy.org/webclient/render_thumbnail/%d/"/>' % id
+
+def getGeneInformation(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(mapAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows: 
+        if r[1].startswith("http"):
+            tempvar = "<a href='"+ r[1] + "'>" + r[1] + "</a>"
+        else:
+            tempvar = r[1]
+        html.append("<tr><td>" + tempvar + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+def getQualityControl(image):
+    id = image.getId()
+    image1 = conn.getObject('Image', id)
+    cc = image1.getAnnotation(bulkAnnotationNameSpace)
+    rows = cc.getValue()
+    html = []
+    for r in rows:
+        if r[0].startswith('Control') or r[0].startswith('Quality'):
+            html.append("<tr><td>" + r[1] + "</td></tr>")
+    return ("<table>" + "".join(html) + "</table>")
+
+from StringIO import StringIO
+from IPython.display import Image, HTML, display
+
+fields = 0
+ch = 2
+threshold = np.percentile(result_array[:, ch], 98)
+imageList = []
+for well in plate.listChildren():
+    
+    row = well.row
+    column = well.column
+    sharpness = result_array[((row)*plate_columns) + column, ch]
+    
+    if (sharpness >= threshold):       
+        image = well.getImage(fields)
+        imageList.append(image)
+
+images = [(x.id, x.id, x.getName(), x, x) for x in (imageList)]
+pd.set_option('display.max_colwidth', -1)
+df = pd.DataFrame(images, columns = ['Id', 'Image', 'Name', 'GeneInformation', 'QualityControl'])
+HTML(df.to_html(escape=False, formatters=dict(Image=id_to_image_html, GeneInformation=getGeneInformation, QualityControl=getQualityControl)))""" .
+
+repr:Source24 a p-plan:Variable ;
+    rdf:value "***Close Connection to IDR***" .
+
+repr:Source25 a p-plan:Variable ;
+    rdf:value "conn.close()" .
+
+repr:Source26 a p-plan:Variable ;
+    rdf:value "## Write results back to your own OMERO server (A read-annotate/read-write server to save results)" .
+
+repr:Source27 a p-plan:Variable ;
+    rdf:value "***Import BlitzGateway***" .
+
+repr:Source28 a p-plan:Variable ;
+    rdf:value "from omero.gateway import BlitzGateway" .
+
+repr:Source29 a p-plan:Variable ;
+    rdf:value """from getpass import getpass
+readAnnotateConn = BlitzGateway(
+    raw_input("Username: "), getpass("OMERO Password: "),
+    host=raw_input("Hostname: "))
+readAnnotateConn.connect()""" .
+
+repr:Source3 a p-plan:Variable ;
+    rdf:value "![Overview](./includes/PlateToHeatmap.jpg)" .
+
+repr:Source30 a p-plan:Variable ;
+    rdf:value "***Create OMERO Image from numpy sequence, feeder for createOMEROFigures script****" .
+
+repr:Source31 a p-plan:Variable ;
+    rdf:value """if readAnnotateConn.isConnected():
+
+    size_z = 1
+    size_t = 1
+    def planeGen():
+        \"\"\"generator will yield planes\"\"\"
+        for p in planes:
+            yield p
+
+    desc = "Image created from a hard-coded arrays"
+    i = readAnnotateConn.createImageFromNumpySeq(planeGen(), plate_name + "numpy image", size_z, size_c, size_t, description=desc,dataset=None)
+    print 'Created new Image:%s Name:"%s"' % (i.getId(), i.getName())
+    imageId = i.getId()""" .
+
+repr:Source32 a p-plan:Variable ;
+    rdf:value "***Save Results Back to OMERO as File Attachments***" .
+
+repr:Source33 a p-plan:Variable ;
+    rdf:value """if readAnnotateConn.isConnected():
+
+    plate = readAnnotateConn.getObject("image", imageId)
+    file_to_upload = plate_name + 'SharpnessHeatMaps.png'   # This file should already exist
+    # create the original file and file annotation (uploads the file etc.)
+    namespace = "dundee.users.meeting.demo"
+    print "\\nCreating an OriginalFile and FileAnnotation"
+    file_ann = conn.createFileAnnfromLocalFile(
+        file_to_upload, mimetype="text/plain", ns=namespace, desc=None)
+    print "Attaching FileAnnotation to Plate: ", "File ID:", file_ann.getId(), \\
+        ",", file_ann.getFile().getName(), "Size:", file_ann.getFile().getSize()
+    plate.linkAnnotation(file_ann)
+    readAnnotateConn.close()""" .
+
+repr:Source4 a p-plan:Variable ;
+    rdf:value "***Import Packages***" .
+
+repr:Source5 a p-plan:Variable ;
+    rdf:value """from PIL import Image
+import string
+import pandas as pd
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+from numpy import array, int8
+from skimage import feature
+from scipy import ndimage
+from scipy.ndimage import convolve
+from scipy import misc""" .
+
+repr:Source6 a p-plan:Variable ;
+    rdf:value "## Read data from IDR (Public Database : Read-only!)" .
+
+repr:Source7 a p-plan:Variable ;
+    rdf:value "***Create connection and plate identifier***" .
+
+repr:Source8 a p-plan:Variable ;
+    rdf:value """from idr import connection; 
+conn = connection()
+plateId = 408
+print conn""" .
+
+repr:Source9 a p-plan:Variable ;
+    rdf:value "***Fetch plate object and print details***" .
+
+repr:Cell10 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source10 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 10 .
+
+repr:Cell12 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source12 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 12 .
+
+repr:Cell14 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source14 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 14 .
+
+repr:Cell16 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source16 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 16 .
+
+repr:Cell18 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source18 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 18 .
+
+repr:Cell20 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source20 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 20 .
+
+repr:Cell22 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source22 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 22 .
+
+repr:Cell23 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source23 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 23 .
+
+repr:Cell25 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source25 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 25 .
+
+repr:Cell28 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source28 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 28 .
+
+repr:Cell29 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source29 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 29 .
+
+repr:Cell31 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source31 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 31 .
+
+repr:Cell33 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source33 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 33 .
+
+repr:Cell5 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source5 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 6 ;
+    repr:hasIndex 5 .
+
+repr:Cell8 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source8 ;
+    p-plan:hasOutputVar repr:Output8 ;
+    p-plan:isPreceededBy repr:Cell5 ;
+    p-plan:isStepOfPlan repr:CalculateSharpness ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 8 ;
+    repr:hasIndex 8 .
+
+repr:CalculateSharpness a repr:Notebook ;
+    repr:hasKernelDisplayName "Python 2" ;
+    repr:hasKernelName "python2" ;
+    repr:hasProgrammingLanguage "python" ;
+    repr:hasProgrammingLanguageExtension ".py" ;
+    repr:hasProgrammingLanguageVersion "2.7.15rc1" .
+

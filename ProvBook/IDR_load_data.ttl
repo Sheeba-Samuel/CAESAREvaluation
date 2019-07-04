@@ -1,0 +1,1392 @@
+@prefix p-plan: <http://purl.org/net/p-plan/#> .
+@prefix prov: <http://www.w3.org/ns/prov/#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix repr: <https://w3id.org/reproduceme#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+repr:Cell0Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:used repr:Cell0Execution0Source .
+
+repr:Cell0Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:14:14.996Z" ;
+    prov:startedAtTime "2018-09-12T13:14:14.988Z" ;
+    prov:used repr:Cell0Execution1Source ;
+    repr:executionTime "8ms" .
+
+repr:Cell0Execution10 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:30:42.919Z" ;
+    prov:startedAtTime "2018-09-12T13:30:42.912Z" ;
+    prov:used repr:Cell0Execution10Source ;
+    repr:executionTime "7ms" .
+
+repr:Cell0Execution11 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:31:47.967Z" ;
+    prov:startedAtTime "2018-09-12T13:31:47.962Z" ;
+    prov:used repr:Cell0Execution11Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution12 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:41:03.241Z" ;
+    prov:startedAtTime "2018-09-12T13:41:03.236Z" ;
+    prov:used repr:Cell0Execution12Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution13 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T14:26:51.507Z" ;
+    prov:startedAtTime "2018-09-12T14:26:51.504Z" ;
+    prov:used repr:Cell0Execution13Source ;
+    repr:executionTime "3ms" .
+
+repr:Cell0Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:17:18.456Z" ;
+    prov:startedAtTime "2018-09-12T13:17:18.451Z" ;
+    prov:used repr:Cell0Execution2Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution3 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:18:14.386Z" ;
+    prov:startedAtTime "2018-09-12T13:18:14.382Z" ;
+    prov:used repr:Cell0Execution3Source ;
+    repr:executionTime "4ms" .
+
+repr:Cell0Execution4 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:18:23.435Z" ;
+    prov:startedAtTime "2018-09-12T13:18:23.430Z" ;
+    prov:used repr:Cell0Execution4Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution5 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:19:18.955Z" ;
+    prov:startedAtTime "2018-09-12T13:19:18.951Z" ;
+    prov:used repr:Cell0Execution5Source ;
+    repr:executionTime "4ms" .
+
+repr:Cell0Execution6 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:23:29.574Z" ;
+    prov:startedAtTime "2018-09-12T13:23:29.569Z" ;
+    prov:used repr:Cell0Execution6Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution7 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:26:04.072Z" ;
+    prov:startedAtTime "2018-09-12T13:26:04.065Z" ;
+    prov:used repr:Cell0Execution7Source ;
+    repr:executionTime "7ms" .
+
+repr:Cell0Execution8 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:27:13.306Z" ;
+    prov:startedAtTime "2018-09-12T13:27:13.301Z" ;
+    prov:used repr:Cell0Execution8Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell0Execution9 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:endedAtTime "2018-09-12T13:28:35.013Z" ;
+    prov:startedAtTime "2018-09-12T13:28:35.008Z" ;
+    prov:used repr:Cell0Execution9Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell1Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:used repr:Cell1Execution0Source .
+
+repr:Cell1Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:14:15.544Z" ;
+    prov:startedAtTime "2018-09-12T13:14:15.001Z" ;
+    prov:used repr:Cell1Execution1Source ;
+    repr:executionTime "543ms" .
+
+repr:Cell1Execution10 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:30:44.027Z" ;
+    prov:startedAtTime "2018-09-12T13:30:42.924Z" ;
+    prov:used repr:Cell1Execution10Source ;
+    repr:executionTime "1.10s" .
+
+repr:Cell1Execution11 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:31:48.532Z" ;
+    prov:startedAtTime "2018-09-12T13:31:47.971Z" ;
+    prov:used repr:Cell1Execution11Source ;
+    repr:executionTime "561ms" .
+
+repr:Cell1Execution12 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:41:03.691Z" ;
+    prov:startedAtTime "2018-09-12T13:41:03.246Z" ;
+    prov:used repr:Cell1Execution12Source ;
+    repr:executionTime "445ms" .
+
+repr:Cell1Execution13 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T14:26:52.264Z" ;
+    prov:generated repr:Cell1Execution13Output0 ;
+    prov:startedAtTime "2018-09-12T14:26:51.518Z" ;
+    prov:used repr:Cell1Execution13Source ;
+    repr:executionTime "746ms" .
+
+repr:Cell1Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:17:18.822Z" ;
+    prov:startedAtTime "2018-09-12T13:17:18.461Z" ;
+    prov:used repr:Cell1Execution2Source ;
+    repr:executionTime "361ms" .
+
+repr:Cell1Execution3 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:18:15.975Z" ;
+    prov:startedAtTime "2018-09-12T13:18:14.389Z" ;
+    prov:used repr:Cell1Execution3Source ;
+    repr:executionTime "1.59s" .
+
+repr:Cell1Execution4 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:18:23.812Z" ;
+    prov:startedAtTime "2018-09-12T13:18:23.440Z" ;
+    prov:used repr:Cell1Execution4Source ;
+    repr:executionTime "372ms" .
+
+repr:Cell1Execution5 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:19:19.375Z" ;
+    prov:startedAtTime "2018-09-12T13:19:18.960Z" ;
+    prov:used repr:Cell1Execution5Source ;
+    repr:executionTime "415ms" .
+
+repr:Cell1Execution6 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:23:30.151Z" ;
+    prov:startedAtTime "2018-09-12T13:23:29.578Z" ;
+    prov:used repr:Cell1Execution6Source ;
+    repr:executionTime "573ms" .
+
+repr:Cell1Execution7 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:26:04.551Z" ;
+    prov:startedAtTime "2018-09-12T13:26:04.077Z" ;
+    prov:used repr:Cell1Execution7Source ;
+    repr:executionTime "474ms" .
+
+repr:Cell1Execution8 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:27:13.950Z" ;
+    prov:startedAtTime "2018-09-12T13:27:13.311Z" ;
+    prov:used repr:Cell1Execution8Source ;
+    repr:executionTime "639ms" .
+
+repr:Cell1Execution9 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:endedAtTime "2018-09-12T13:28:35.702Z" ;
+    prov:startedAtTime "2018-09-12T13:28:35.016Z" ;
+    prov:used repr:Cell1Execution9Source ;
+    repr:executionTime "686ms" .
+
+repr:Cell2Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:generated repr:Cell2Execution0Output0 ;
+    prov:used repr:Cell2Execution0Source .
+
+repr:Cell2Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:14:15.675Z" ;
+    prov:generated repr:Cell2Execution1Output0 ;
+    prov:startedAtTime "2018-09-12T13:14:15.552Z" ;
+    prov:used repr:Cell2Execution1Source ;
+    repr:executionTime "123ms" .
+
+repr:Cell2Execution10 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:19:19.482Z" ;
+    prov:generated repr:Cell2Execution10Output0,
+        repr:Cell2Execution10Output1 ;
+    prov:startedAtTime "2018-09-12T13:19:19.381Z" ;
+    prov:used repr:Cell2Execution10Source ;
+    repr:executionTime "101ms" .
+
+repr:Cell2Execution11 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:19:52.280Z" ;
+    prov:generated repr:Cell2Execution11Output0,
+        repr:Cell2Execution11Output1 ;
+    prov:startedAtTime "2018-09-12T13:19:52.057Z" ;
+    prov:used repr:Cell2Execution11Source ;
+    repr:executionTime "223ms" .
+
+repr:Cell2Execution12 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:20:02.065Z" ;
+    prov:generated repr:Cell2Execution12Output0 ;
+    prov:startedAtTime "2018-09-12T13:20:01.995Z" ;
+    prov:used repr:Cell2Execution12Source ;
+    repr:executionTime "70ms" .
+
+repr:Cell2Execution13 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:20:10.662Z" ;
+    prov:generated repr:Cell2Execution13Output0 ;
+    prov:startedAtTime "2018-09-12T13:20:10.607Z" ;
+    prov:used repr:Cell2Execution13Source ;
+    repr:executionTime "55ms" .
+
+repr:Cell2Execution14 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:20:55.495Z" ;
+    prov:generated repr:Cell2Execution14Output0 ;
+    prov:startedAtTime "2018-09-12T13:20:55.436Z" ;
+    prov:used repr:Cell2Execution14Source ;
+    repr:executionTime "59ms" .
+
+repr:Cell2Execution15 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:23:30.267Z" ;
+    prov:generated repr:Cell2Execution15Output0,
+        repr:Cell2Execution15Output1 ;
+    prov:startedAtTime "2018-09-12T13:23:30.156Z" ;
+    prov:used repr:Cell2Execution15Source ;
+    repr:executionTime "111ms" .
+
+repr:Cell2Execution16 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:23:45.746Z" ;
+    prov:generated repr:Cell2Execution16Output0,
+        repr:Cell2Execution16Output1 ;
+    prov:startedAtTime "2018-09-12T13:23:45.685Z" ;
+    prov:used repr:Cell2Execution16Source ;
+    repr:executionTime "61ms" .
+
+repr:Cell2Execution17 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:24:12.403Z" ;
+    prov:generated repr:Cell2Execution17Output0,
+        repr:Cell2Execution17Output1 ;
+    prov:startedAtTime "2018-09-12T13:24:12.336Z" ;
+    prov:used repr:Cell2Execution17Source ;
+    repr:executionTime "67ms" .
+
+repr:Cell2Execution18 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:24:22.660Z" ;
+    prov:generated repr:Cell2Execution18Output0 ;
+    prov:startedAtTime "2018-09-12T13:24:22.609Z" ;
+    prov:used repr:Cell2Execution18Source ;
+    repr:executionTime "51ms" .
+
+repr:Cell2Execution19 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:25:10.790Z" ;
+    prov:generated repr:Cell2Execution19Output0 ;
+    prov:startedAtTime "2018-09-12T13:25:10.734Z" ;
+    prov:used repr:Cell2Execution19Source ;
+    repr:executionTime "56ms" .
+
+repr:Cell2Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:14:32.475Z" ;
+    prov:generated repr:Cell2Execution2Output0,
+        repr:Cell2Execution2Output1 ;
+    prov:startedAtTime "2018-09-12T13:14:32.383Z" ;
+    prov:used repr:Cell2Execution2Source ;
+    repr:executionTime "92ms" .
+
+repr:Cell2Execution20 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:25:18.946Z" ;
+    prov:generated repr:Cell2Execution20Output0 ;
+    prov:startedAtTime "2018-09-12T13:25:18.557Z" ;
+    prov:used repr:Cell2Execution20Source ;
+    repr:executionTime "389ms" .
+
+repr:Cell2Execution21 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:25:57.462Z" ;
+    prov:generated repr:Cell2Execution21Output0 ;
+    prov:startedAtTime "2018-09-12T13:25:57.442Z" ;
+    prov:used repr:Cell2Execution21Source ;
+    repr:executionTime "20ms" .
+
+repr:Cell2Execution22 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:26:04.581Z" ;
+    prov:generated repr:Cell2Execution22Output0 ;
+    prov:startedAtTime "2018-09-12T13:26:04.557Z" ;
+    prov:used repr:Cell2Execution22Source ;
+    repr:executionTime "24ms" .
+
+repr:Cell2Execution23 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:26:41.340Z" ;
+    prov:generated repr:Cell2Execution23Output0 ;
+    prov:startedAtTime "2018-09-12T13:26:41.209Z" ;
+    prov:used repr:Cell2Execution23Source ;
+    repr:executionTime "131ms" .
+
+repr:Cell2Execution24 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:27:14.059Z" ;
+    prov:startedAtTime "2018-09-12T13:27:13.956Z" ;
+    prov:used repr:Cell2Execution24Source ;
+    repr:executionTime "103ms" .
+
+repr:Cell2Execution25 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:27:34.708Z" ;
+    prov:startedAtTime "2018-09-12T13:27:34.661Z" ;
+    prov:used repr:Cell2Execution25Source ;
+    repr:executionTime "47ms" .
+
+repr:Cell2Execution26 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:27:59.994Z" ;
+    prov:generated repr:Cell2Execution26Output0,
+        repr:Cell2Execution26Output1 ;
+    prov:startedAtTime "2018-09-12T13:27:59.934Z" ;
+    prov:used repr:Cell2Execution26Source ;
+    repr:executionTime "60ms" .
+
+repr:Cell2Execution27 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:28:35.812Z" ;
+    prov:generated repr:Cell2Execution27Output0 ;
+    prov:startedAtTime "2018-09-12T13:28:35.707Z" ;
+    prov:used repr:Cell2Execution27Source ;
+    repr:executionTime "105ms" .
+
+repr:Cell2Execution28 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:30:44.134Z" ;
+    prov:startedAtTime "2018-09-12T13:30:44.034Z" ;
+    prov:used repr:Cell2Execution28Source ;
+    repr:executionTime "100ms" .
+
+repr:Cell2Execution29 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:31:14.041Z" ;
+    prov:generated repr:Cell2Execution29Output0 ;
+    prov:startedAtTime "2018-09-12T13:31:13.963Z" ;
+    prov:used repr:Cell2Execution29Source ;
+    repr:executionTime "78ms" .
+
+repr:Cell2Execution3 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:14:43.957Z" ;
+    prov:generated repr:Cell2Execution3Output0,
+        repr:Cell2Execution3Output1 ;
+    prov:startedAtTime "2018-09-12T13:14:43.828Z" ;
+    prov:used repr:Cell2Execution3Source ;
+    repr:executionTime "129ms" .
+
+repr:Cell2Execution30 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:31:39.537Z" ;
+    prov:generated repr:Cell2Execution30Output0 ;
+    prov:startedAtTime "2018-09-12T13:31:39.450Z" ;
+    prov:used repr:Cell2Execution30Source ;
+    repr:executionTime "87ms" .
+
+repr:Cell2Execution31 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:31:48.730Z" ;
+    prov:generated repr:Cell2Execution31Output0 ;
+    prov:startedAtTime "2018-09-12T13:31:48.537Z" ;
+    prov:used repr:Cell2Execution31Source ;
+    repr:executionTime "193ms" .
+
+repr:Cell2Execution32 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:41:03.900Z" ;
+    prov:generated repr:Cell2Execution32Output0 ;
+    prov:startedAtTime "2018-09-12T13:41:03.696Z" ;
+    prov:used repr:Cell2Execution32Source ;
+    repr:executionTime "204ms" .
+
+repr:Cell2Execution33 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T14:26:52.470Z" ;
+    prov:generated repr:Cell2Execution33Output0 ;
+    prov:startedAtTime "2018-09-12T14:26:52.270Z" ;
+    prov:used repr:Cell2Execution33Source ;
+    repr:executionTime "200ms" .
+
+repr:Cell2Execution4 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:15:02.850Z" ;
+    prov:generated repr:Cell2Execution4Output0 ;
+    prov:startedAtTime "2018-09-12T13:15:02.788Z" ;
+    prov:used repr:Cell2Execution4Source ;
+    repr:executionTime "62ms" .
+
+repr:Cell2Execution5 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:16:25.152Z" ;
+    prov:generated repr:Cell2Execution5Output0 ;
+    prov:startedAtTime "2018-09-12T13:16:24.930Z" ;
+    prov:used repr:Cell2Execution5Source ;
+    repr:executionTime "222ms" .
+
+repr:Cell2Execution6 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:17:11.719Z" ;
+    prov:generated repr:Cell2Execution6Output0 ;
+    prov:startedAtTime "2018-09-12T13:17:11.703Z" ;
+    prov:used repr:Cell2Execution6Source ;
+    repr:executionTime "16ms" .
+
+repr:Cell2Execution7 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:17:18.934Z" ;
+    prov:generated repr:Cell2Execution7Output0,
+        repr:Cell2Execution7Output1 ;
+    prov:startedAtTime "2018-09-12T13:17:18.828Z" ;
+    prov:used repr:Cell2Execution7Source ;
+    repr:executionTime "106ms" .
+
+repr:Cell2Execution8 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:18:15.999Z" ;
+    prov:generated repr:Cell2Execution8Output0,
+        repr:Cell2Execution8Output1 ;
+    prov:startedAtTime "2018-09-12T13:18:15.982Z" ;
+    prov:used repr:Cell2Execution8Source ;
+    repr:executionTime "17ms" .
+
+repr:Cell2Execution9 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2018-09-12T13:18:23.918Z" ;
+    prov:generated repr:Cell2Execution9Output0,
+        repr:Cell2Execution9Output1 ;
+    prov:startedAtTime "2018-09-12T13:18:23.817Z" ;
+    prov:used repr:Cell2Execution9Source ;
+    repr:executionTime "101ms" .
+
+repr:Cell3Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:used repr:Cell3Execution0Source .
+
+repr:Cell3Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2018-09-12T14:14:04.053Z" ;
+    prov:startedAtTime "2018-09-12T14:14:03.914Z" ;
+    prov:used repr:Cell3Execution1Source ;
+    repr:executionTime "139ms" .
+
+repr:Cell3Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2018-09-12T14:26:52.481Z" ;
+    prov:startedAtTime "2018-09-12T14:26:52.475Z" ;
+    prov:used repr:Cell3Execution2Source ;
+    repr:executionTime "6ms" .
+
+repr:Cell4 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source4 ;
+    p-plan:isStepOfPlan repr:IDR_load_data ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 4 .
+
+repr:Cell0Execution0Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution10Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution11Source rdf:value """# initial data
+IDR_BASE_URL = "https://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution12Source rdf:value """# initial data
+IDR_BASE_URL = "https://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution13Source rdf:value """# initial data
+IDR_BASE_URL = "https://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution1Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution2Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution3Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution4Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution5Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution6Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution7Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution8Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell0Execution9Source rdf:value """# initial data
+IDR_BASE_URL = "http://idr.openmicroscopy.org\"""" .
+
+repr:Cell1Execution0Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution10Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution11Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution12Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution13Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0120a90>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell1Execution13Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()
+    print("session%s", session)""" .
+
+repr:Cell1Execution1Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution2Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution3Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution4Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution5Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution6Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution7Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution8Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell1Execution9Source rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()""" .
+
+repr:Cell2Execution0Output0 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution0Source rdf:value """MAP_URL = "{base}/webclient/api//api/v0/m/screens/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution10Output0 rdf:value """Starting at: http://idr.openmicroscopy.org/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution10Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution10Source rdf:value """api_url = 'http://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", api_url
+r = session.get(api_url)
+# we get a list of versions
+versions = r.json()['data']""" .
+
+repr:Cell2Execution11Output0 rdf:value """Starting at: https://idr.openmicroscopy.org/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution11Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution11Source rdf:value """api_url = 'https://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", api_url
+r = session.get(api_url)
+# we get a list of versions
+versions = r.json()['data']""" .
+
+repr:Cell2Execution12Output0 rdf:value """Starting at: https://idr.openmicroscopy.org/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution12Source rdf:value """api_url = 'https://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", api_url
+r = session.get(api_url)
+# we get a list of versions
+versions = r""" .
+
+repr:Cell2Execution13Output0 rdf:value """Starting at: https://idr.openmicroscopy.org/webclient/api/
+<Response [404]>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution13Source rdf:value """api_url = 'https://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", api_url
+r = session.get(api_url)
+# we get a list of versions
+versions = r
+print(versions)""" .
+
+repr:Cell2Execution14Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0af90>)
+Starting at: https://idr.openmicroscopy.org/webclient/api/
+<Response [404]>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution14Source rdf:value """print("session%s", session)
+api_url = 'https://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", api_url
+r = session.get(api_url)
+# we get a list of versions
+versions = r
+print(versions)""" .
+
+repr:Cell2Execution15Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: {base}/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution15Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution15Source rdf:value """print("session%s", session)
+MAP_URL = '{base}/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution16Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: {base}/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution16Output1 rdf:value "string indices must be integers, not str" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution16Source rdf:value """print("session%s", session)
+MAP_URL = '{base}/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url):
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution17Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: {base}/webclient/api/
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution17Output1 rdf:value "string indices must be integers, not str" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution17Source rdf:value """print("session%s", session)
+MAP_URL = '{base}/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url):
+    namespace = a['ns']
+    print("a%s", a)
+    print("namespace%s", namespace)""" .
+
+repr:Cell2Execution18Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: {base}/webclient/api/
+('a%s', '<?xml version="1.0" encoding="iso-8859-1"?>\\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR')
+('a%s', '/xhtml1/DTD/xhtml1-transitional.dtd">\\n\\n<html xmlns="http://www.w3.org/1999/xhtml">\\n\\n\\n\\n<head>\\n    <meta http-equiv="X-UA-Compatib')
+('a%s', 'le" content="IE=Edge" />\\n\\n    \\n    \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/reset.css?_5.4.6-rc2-39-8e16ee4-ice36-')
+('a%s', 'b99" type="text/css" />   \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/ome.body.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" t')
+('a%s', 'ype="text/css" />\\n\\t\\t<link rel="stylesheet" href="/static/webclient/css/dusty.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" type="text/css')
+('a%s', '" media="screen"/>\\n    \\n    <link rel="stylesheet" href="/static/feedback/css/layout.css" type="text/css" />\\n\\n\\n\\n    <!-- extend ')
+('a%s', 'here to add page title -->\\n    <title>\\n        \\n    OMERO.web - support\\n\\n    </title>\\n\\n    \\n        <!-- block for javascript <s')
+('a%s', 'cript> -->\\n    \\n\\n    \\n    \\n        <!-- block for extra head elements (not css or javascript) E.g. icon, meta tags -->\\n        \\n')
+('a%s', '\\n<link rel="shortcut icon" href="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n    \\n    \\n\\n<link rel="shortcut icon" h')
+('a%s', 'ref="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n\\n\\n</head>\\n<body>\\n\\n\\n<div class="bodyWrapper">\\n    <div><h1>\\n       ')
+('a%s', ' Go back to <a href="/webclient/">OMERO.web</a>\\n    </h1>\\n    \\n    <div class="error"><h1>Page not found. <em>(404)</em></h1>\\n  ')
+('a%s', '  <p>The requested object or URL was not found on this server. The link you followed is either outdated, inaccurate, or the serv')
+('a%s', 'er has been instructed not to let you have it.</p></div>\\n    \\n\\n    </div>\\n\\n</div>\\n\\n\\n\\n    <!-- settings.BASE_INCLUDE_TEMPLATE inc')
+('a%s', 'luded here -->\\n    \\n</body>\\n</html>\\n')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution18Source rdf:value """print("session%s", session)
+MAP_URL = '{base}/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url):
+    print("a%s", a)""" .
+
+repr:Cell2Execution19Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: http://idr.openmicroscopy.org/webclient/api/
+('a%s', '<?xml version="1.0" encoding="iso-8859-1"?>\\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR')
+('a%s', '/xhtml1/DTD/xhtml1-transitional.dtd">\\n\\n<html xmlns="http://www.w3.org/1999/xhtml">\\n\\n\\n\\n<head>\\n    <meta http-equiv="X-UA-Compatib')
+('a%s', 'le" content="IE=Edge" />\\n\\n    \\n    \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/reset.css?_5.4.6-rc2-39-8e16ee4-ice36-')
+('a%s', 'b99" type="text/css" />   \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/ome.body.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" t')
+('a%s', 'ype="text/css" />\\n\\t\\t<link rel="stylesheet" href="/static/webclient/css/dusty.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" type="text/css')
+('a%s', '" media="screen"/>\\n    \\n    <link rel="stylesheet" href="/static/feedback/css/layout.css" type="text/css" />\\n\\n\\n\\n    <!-- extend ')
+('a%s', 'here to add page title -->\\n    <title>\\n        \\n    OMERO.web - support\\n\\n    </title>\\n\\n    \\n        <!-- block for javascript <s')
+('a%s', 'cript> -->\\n    \\n\\n    \\n    \\n        <!-- block for extra head elements (not css or javascript) E.g. icon, meta tags -->\\n        \\n')
+('a%s', '\\n<link rel="shortcut icon" href="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n    \\n    \\n\\n<link rel="shortcut icon" h')
+('a%s', 'ref="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n\\n\\n</head>\\n<body>\\n\\n\\n<div class="bodyWrapper">\\n    <div><h1>\\n       ')
+('a%s', ' Go back to <a href="/webclient/">OMERO.web</a>\\n    </h1>\\n    \\n    <div class="error"><h1>Page not found. <em>(404)</em></h1>\\n  ')
+('a%s', '  <p>The requested object or URL was not found on this server. The link you followed is either outdated, inaccurate, or the serv')
+('a%s', 'er has been instructed not to let you have it.</p></div>\\n    \\n\\n    </div>\\n\\n</div>\\n\\n\\n\\n    <!-- settings.BASE_INCLUDE_TEMPLATE inc')
+('a%s', 'luded here -->\\n    \\n</body>\\n</html>\\n')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution19Source rdf:value """print("session%s", session)
+MAP_URL = 'http://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url):
+    print("a%s", a)""" .
+
+repr:Cell2Execution1Output0 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution1Source rdf:value """MAP_URL = "{base}/webclient/api//api/v0/m/screens/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution20Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0e0ae90>)
+Starting at: https://idr.openmicroscopy.org/webclient/api/
+('a%s', '<?xml version="1.0" encoding="iso-8859-1"?>\\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR')
+('a%s', '/xhtml1/DTD/xhtml1-transitional.dtd">\\n\\n<html xmlns="http://www.w3.org/1999/xhtml">\\n\\n\\n\\n<head>\\n    <meta http-equiv="X-UA-Compatib')
+('a%s', 'le" content="IE=Edge" />\\n\\n    \\n    \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/reset.css?_5.4.6-rc2-39-8e16ee4-ice36-')
+('a%s', 'b99" type="text/css" />   \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/ome.body.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" t')
+('a%s', 'ype="text/css" />\\n\\t\\t<link rel="stylesheet" href="/static/webclient/css/dusty.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" type="text/css')
+('a%s', '" media="screen"/>\\n    \\n    <link rel="stylesheet" href="/static/feedback/css/layout.css" type="text/css" />\\n\\n\\n\\n    <!-- extend ')
+('a%s', 'here to add page title -->\\n    <title>\\n        \\n    OMERO.web - support\\n\\n    </title>\\n\\n    \\n        <!-- block for javascript <s')
+('a%s', 'cript> -->\\n    \\n\\n    \\n    \\n        <!-- block for extra head elements (not css or javascript) E.g. icon, meta tags -->\\n        \\n')
+('a%s', '\\n<link rel="shortcut icon" href="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n    \\n    \\n\\n<link rel="shortcut icon" h')
+('a%s', 'ref="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n\\n\\n</head>\\n<body>\\n\\n\\n<div class="bodyWrapper">\\n    <div><h1>\\n       ')
+('a%s', ' Go back to <a href="/webclient/">OMERO.web</a>\\n    </h1>\\n    \\n    <div class="error"><h1>Page not found. <em>(404)</em></h1>\\n  ')
+('a%s', '  <p>The requested object or URL was not found on this server. The link you followed is either outdated, inaccurate, or the serv')
+('a%s', 'er has been instructed not to let you have it.</p></div>\\n    \\n\\n    </div>\\n\\n</div>\\n\\n\\n\\n    <!-- settings.BASE_INCLUDE_TEMPLATE inc')
+('a%s', 'luded here -->\\n    \\n</body>\\n</html>\\n')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution20Source rdf:value """print("session%s", session)
+MAP_URL = 'https://idr.openmicroscopy.org/webclient/api/'
+print "Starting at:", MAP_URL
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url):
+    print("a%s", a)""" .
+
+repr:Cell2Execution21Output0 rdf:value "name 'conn' is not defined" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution21Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map&{type}={screen_id}"
+
+SCREEN_ID = 3
+plate = conn.getObject("Plate", plateId)
+
+qs = {'base': IDR_BASE_URL, 'type': 'screen', 'screen_id': SCREEN_ID}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution22Output0 rdf:value "name 'conn' is not defined" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution22Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map&{type}={screen_id}"
+
+SCREEN_ID = 3
+plate = conn.getObject("Plate", plateId)
+
+qs = {'base': IDR_BASE_URL, 'type': 'screen', 'screen_id': SCREEN_ID}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution23Output0 rdf:value """(u'Study Type', u'high content screen')
+(u'Organism', u'Schizosaccharomyces pombe')
+(u'Screen Type', u'primary screen')
+(u'Screen Technology Type', u'gene deletion screen')
+(u'Imaging Method', u'spinning disk confocal microscopy')
+(u'Publication Title', u'A Genomic Multiprocess Survey of Machineries that Control and Link Cell Shape, Microtubule Organization, and Cell-Cycle Progression')
+(u'Publication Authors', u'Graml V, Studera X, Lawson JL, Chessel A, Geymonat M, Bortfeld-Miller M, Walter T, Wagstaff L, Piddini E, Carazo-Salas RE.')
+(u'PubMed ID', u'25373780 http://www.ncbi.nlm.nih.gov/pubmed/25373780')
+(u'Publication DOI', u'10.1016/j.devcel.2014.09.005 http://dx.doi.org/10.1016/j.devcel.2014.09.005')
+(u'License', u'CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/')
+(u'Copyright', u'Graml et al')
+(u'Annotation File', u'idr0001-screenA-annotation.csv https://github.com/IDR/idr-metadata/blob/master/idr0001-graml-sysgro/screenA/idr0001-screenA-annotation.csv')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution23Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map&{type}={screen_id}"
+
+SCREEN_ID = 3
+
+qs = {'base': IDR_BASE_URL, 'type': 'screen', 'screen_id': SCREEN_ID}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution24Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/"
+
+SCREEN_ID = 3
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution25Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/"
+
+SCREEN_ID = 3
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    print("a%s", a)
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution26Output0 rdf:value """('a%s', u'annotations')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution26Output1 rdf:value "string indices must be integers" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution26Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/"
+
+SCREEN_ID = 3
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json():
+    print("a%s", a)
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution27Output0 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution27Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+SCREEN_ID = 3
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['data']:
+    print("a%s", a)
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution28Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution29Output0 rdf:value """url
+[]
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution29Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url")
+print(session.get(url).json()['annotations'])
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution2Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api//api/v0/m/screens/')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution2Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution2Source rdf:value """MAP_URL = "{base}/webclient/api//api/v0/m/screens/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url).json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution30Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/annotations/?type=map')
+[]
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution30Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+print(session.get(url).json()['annotations'])
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution31Output0 rdf:value """('url%s', 'https://idr.openmicroscopy.org/webclient/api/annotations/?type=map')
+[]
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution31Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+print(session.get(url).json()['annotations'])
+for a in session.get(url).json()['annotations']:
+    namespace = a['ns']
+    for v in a['values']:
+        key = v[0]
+        value = v[1]
+        print (key, value)""" .
+
+repr:Cell2Execution32Output0 rdf:value """('url%s', 'https://idr.openmicroscopy.org/webclient/api/annotations/?type=map')
+[{u'description': u'Publication Title\\nDual spindle formation in zygotes keeps parental genomes apart in early mammalian embryos\\n\\nExperiment Description\\nCharacterization of mitotic spindle formation in live mouse zygotes by light-sheet microscopy.', u'name': u'idr0045-reichmann/experimentA', u'id': 405}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. 24 hours after pelleting 100,000 mouse kidney cells, organoids had formed in the PDMS dishes. For the PNA vital stain test we used kidney cells from wildtype mice and for the tracking time series we used cells from the Wt1tm1Nhsn strain, expressing GFP together with the transcription factor Wt1. One organoid was embedded in a hydrogel matrix (1.5% Agarose + 3% gelatine). In the microscope chamber, the hydrogel cylinder was extruded from the capillary so that the hydrogel column containing the organoid was located outside the capillary and immersed in medium (phenol red-free MEM + 10% FBS, 1% pen/strep, 3ug/ml PNA-rh) at 37oC and with 5% CO2. We recorded z stacks of the spheroids from multiple angles every 30 mins to record the location of the GFP expressing cells in three dimensions over time. There are three time series. These are available in the subfolders "Time PNA-rh vital", "Wt1-GFP PNA Time Series 1" and "Wt1-GFP PNA Time Series 2".  The time series data was processed in Fiji by opening the green channel only, binning in X and Y by a factor of two and converting it to 8 bit for processing in TrackMate (v.2.8.2) where we used the LoG (Laplacian of Gaussian) Detector and LAP (Linear Assignment Problem) Tracker options. Tracking data generated from the time series using the Track Mate plug in for Fiji is also provided in the time series data sets as "Nspots vs Time.txt", "Track statistics.txt", "Links in tracks statistics.txt" and "Spots in tracks statistics.txt". The data was analysed and plotted via the Matlab script provided as "TrackMateDataAnalysis.txt" in conjunction with the functions "NSpotsFunction.txt", "SpotsInTracksFunction.txt", "TrackStatisticsFunction.txt", "Violin.txt" and "violinplot.txt".', u'name': u'idr0038-held-kidneylightsheet/experimentC', u'id': 353}, {u'description': u'Publication Title\\nHigh resolution imaging reveals heterogeneity in chromatin states between cells that is not inherited through cell division.\\n\\nExperiment Description\\nTo monitor the organisation of chromatin in live cells were engineered with fluorescent fusion proteins which recognize specific operator sequences to tag pairs of syntenic gene loci. The separation of these loci was then tracked in three dimensions over time using fluorescence microscopy. Data generated for this manuscript are made accessible here. This includes the movies generated from yeast strains with different genomic separations. These are available within subfolders titled "Colocalising", "Genomic separation 100kb", "Genomic separation 25kb" etc. Tracking data generated from these movies is also available as idr0027-AnalysisAllData.csv in the Attachments section below. This includes x, y and z co-ordinates of foci in the red and green channels following two stages of correction for channel alignment, the distance between the red and green foci in nanometers,  the offset of the red channel foci with respect to the green channel foci in x, y, and z. The maximum intensity, background intensity and standard deviation of the background intensity for both the red and green channels. The contrast (maximum spot intensity - nuclear background intensity) for each channel. The name originally assigned to the video, the genomic separation of the strain in kb. The string in column AE starts with the letter assigned to the video in supplementary figure 2. Some videos include two cells. In these cases the higher cell (on the y axis) is indicated as "upper" and the other as "lower". One of the two cells can often be assigned as the mother and the other as daughter. This is indicated as m or d in column AF. The systematic name of the strain is indicated in column AG.', u'name': u'idr0027-dickerson-chromatin/experimentA', u'id': 151}, {u'description': u'Publication Title\\nTiming of gene expression in a cell-fate decision system\\n\\nExperiment Description\\nTime-lapse with addition of 1uM alpha-factor at time 0', u'name': u'idr0040-aymoz-singlecell/experimentA', u'id': 401}, {u'description': u'Publication Title\\nAn experimental and computational framework to build a dynamic protein atlas of human cell division\\n\\nExperiment Description\\nImage data used to build the mitotic cell atlas. This consists of three subsets: raw images, segmentation masks for the landmarks and protein concentration maps.', u'name': u'idr0041-cai-mitoticatlas/experimentA', u'id': 404}, {u'description': u'Publication Title\\nA Deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue\\n\\nExperiment Description\\nHistopathology sub-image from patient whole-slide images from patients with end-stage clinical heart failure or cadaveric donor hearts from patients without heart failure.', u'name': u'idr0042-nirschl-wsideeplearning/experimentA', u'id': 402}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nStudy Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. We have immunostained endpoint fixed organoids and E13.5 embryonic kidneys and imaged them with a light sheet fluorescent microscope. The data generated for this manuscript is made accessible here and includes immunofluorescence staining after end point fixation revealing that organotypic structures develop within the organoids. Furthermore, we have performed an assay to ascertain tubular functionality. Following, we have imaged organoids containing Wt1-GFP knock-in cells live on the light sheet microscope to evaluate the ability to follow cells long-term and generate previously unavailable quantitative tracking data.\\n\\nidr0038 consists of a set of 3 experiments: experimentA (immunofluorescence staining after end point fixation), experimentB (assays to ascertain tubular functionality) and experimentC (Wt1-GFP knock-in cells followed long term).', u'name': u'idr0038-held-kidneylightsheet', u'id': 354}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nAll assays were performed on live cultures. The intact kidney rudiments were cultured at air liquid interface for 4 days following dissection. The organoids were cultured under medium immersion for six days following dissection. The samples cultured at air liquid interface were gently removed from the membranes before starting the assay. The samples were incubated for one hour at 25oC with PBS containing 1uM 5(6)-Carboxyfluorescein (6-CF) and 20 ug/ml of PNA (Vector Laboratories). For the control samples, 2 mM probenecid was also added to the solution to inhibit the organic anion transport. After incubation, the samples were washed with ice cold PBS for 10 mins followed by an incubation with 8mM probenecid in PBS for 15 mins to arrest any transport. The functional assay was concluded by two PBS washes and samples were then embedded in 1.5% agarose for imaging.', u'name': u'idr0038-held-kidneylightsheet/experimentB', u'id': 352}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. To demonstrate that the organoid culture method of re-aggregated kidney rudiments in PDMS discs resulted in 3D kidney organoids with organotypic structures, we stained fixed six day old organoids for various developmental markers and imaged them with a light sheet fluorescent microscope. We have stained for the following markers: Megalin, Laminin, Cytokeratin, Pax2, Six2, Wt1, Synaptopodin and Nephrin and have also used the lectin stain PNA (peanut agglutinin). The spheroids were usually imaged as z stacks from five angles.', u'name': u'idr0038-held-kidneylightsheet/experimentA', u'id': 351}, {u'description': u'Title\\nHistopathology study of 14 tissues from mice with 10 different mitotic gene knockouts.\\n\\nExperiment Description\\nHistopathology raw images and annotated tiff files of tissues from mice with 10 different single gene knockouts.', u'name': u'idr0018-neff-histopathology/experimentA', u'id': 101}, {u'description': u'Publication Title\\nSubdiffraction imaging of centrosomes reveals higher-order organizational features of pericentriolar material.\\n\\nExperiment Description\\nImages relating to Figure 1e in Lawo et al 2012. These are the 3D-SIM reconstructed, maximum intensity projected and aligned images of centriole or PCM proteins of cycling HeLa cells in interphase.', u'name': u'idr0021-lawo-pericentriolarmaterial/experimentA', u'id': 51}, {u'description': u'Publication Title\\nNuclear pore scaffold structure analyzed by super-resolution microscopy and particle averaging.\\n\\nExperiment Description\\nSystematic immunolabelling of the Nup107-160 complex and (monomeric) enhanced GFP [(m)EGFP] fusions of members of the Nup107-160 complex with an anti-GFP nanobody.', u'name': u'idr0023-szymborska-nuclearpore/experimentA', u'id': 52}, {u'description': u'Publication Title\\nRegulation of Meristem Morphogenesis by Cell Wall Synthases in Arabidopsis.\\n\\nExperiment Description\\nWe performed systematic RNA in situ hybridization assays to examine the expression patterns of the SAM-expressed GTs at single-cell spatial resolution, including those transcripts that show either relative increases, reductions, or no change between SAM and flower samples.', u'name': u'idr0032-yang-meristem/experimentA', u'id': 201}, {u'description': u'Publication Title\\nFocusing and sustaining the antitumor CTL effector killer response by agonist anti-CD137 mAb.\\n\\nExperiment Description\\nCombination therapy of adoptive CTL transfer and anti-CD137 monoclonal antibody. Mice were injected with B16F10/OVA melanoma cells and after 3 or 7 days were treated with OVA-specific CD8+ T cells (Cytotoxic T lymphocytes CTL) plus 1D8 antibody (anti-CD137).  4D timelapse images were taken at either 3 or 6 days after CTL + antibody treatment.', u'name': u'idr0026-weigelin-immunotherapy/experimentA', u'id': 301}]
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution32Source rdf:value """MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+url = "https://idr.openmicroscopy.org/webgateway/proj/list/"
+print(session.get(url).json())""" .
+
+repr:Cell2Execution33Output0 rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0120a90>)
+('url%s', 'https://idr.openmicroscopy.org/webclient/api/annotations/?type=map')
+[{u'description': u'Publication Title\\nDual spindle formation in zygotes keeps parental genomes apart in early mammalian embryos\\n\\nExperiment Description\\nCharacterization of mitotic spindle formation in live mouse zygotes by light-sheet microscopy.', u'name': u'idr0045-reichmann/experimentA', u'id': 405}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. 24 hours after pelleting 100,000 mouse kidney cells, organoids had formed in the PDMS dishes. For the PNA vital stain test we used kidney cells from wildtype mice and for the tracking time series we used cells from the Wt1tm1Nhsn strain, expressing GFP together with the transcription factor Wt1. One organoid was embedded in a hydrogel matrix (1.5% Agarose + 3% gelatine). In the microscope chamber, the hydrogel cylinder was extruded from the capillary so that the hydrogel column containing the organoid was located outside the capillary and immersed in medium (phenol red-free MEM + 10% FBS, 1% pen/strep, 3ug/ml PNA-rh) at 37oC and with 5% CO2. We recorded z stacks of the spheroids from multiple angles every 30 mins to record the location of the GFP expressing cells in three dimensions over time. There are three time series. These are available in the subfolders "Time PNA-rh vital", "Wt1-GFP PNA Time Series 1" and "Wt1-GFP PNA Time Series 2".  The time series data was processed in Fiji by opening the green channel only, binning in X and Y by a factor of two and converting it to 8 bit for processing in TrackMate (v.2.8.2) where we used the LoG (Laplacian of Gaussian) Detector and LAP (Linear Assignment Problem) Tracker options. Tracking data generated from the time series using the Track Mate plug in for Fiji is also provided in the time series data sets as "Nspots vs Time.txt", "Track statistics.txt", "Links in tracks statistics.txt" and "Spots in tracks statistics.txt". The data was analysed and plotted via the Matlab script provided as "TrackMateDataAnalysis.txt" in conjunction with the functions "NSpotsFunction.txt", "SpotsInTracksFunction.txt", "TrackStatisticsFunction.txt", "Violin.txt" and "violinplot.txt".', u'name': u'idr0038-held-kidneylightsheet/experimentC', u'id': 353}, {u'description': u'Publication Title\\nHigh resolution imaging reveals heterogeneity in chromatin states between cells that is not inherited through cell division.\\n\\nExperiment Description\\nTo monitor the organisation of chromatin in live cells were engineered with fluorescent fusion proteins which recognize specific operator sequences to tag pairs of syntenic gene loci. The separation of these loci was then tracked in three dimensions over time using fluorescence microscopy. Data generated for this manuscript are made accessible here. This includes the movies generated from yeast strains with different genomic separations. These are available within subfolders titled "Colocalising", "Genomic separation 100kb", "Genomic separation 25kb" etc. Tracking data generated from these movies is also available as idr0027-AnalysisAllData.csv in the Attachments section below. This includes x, y and z co-ordinates of foci in the red and green channels following two stages of correction for channel alignment, the distance between the red and green foci in nanometers,  the offset of the red channel foci with respect to the green channel foci in x, y, and z. The maximum intensity, background intensity and standard deviation of the background intensity for both the red and green channels. The contrast (maximum spot intensity - nuclear background intensity) for each channel. The name originally assigned to the video, the genomic separation of the strain in kb. The string in column AE starts with the letter assigned to the video in supplementary figure 2. Some videos include two cells. In these cases the higher cell (on the y axis) is indicated as "upper" and the other as "lower". One of the two cells can often be assigned as the mother and the other as daughter. This is indicated as m or d in column AF. The systematic name of the strain is indicated in column AG.', u'name': u'idr0027-dickerson-chromatin/experimentA', u'id': 151}, {u'description': u'Publication Title\\nTiming of gene expression in a cell-fate decision system\\n\\nExperiment Description\\nTime-lapse with addition of 1uM alpha-factor at time 0', u'name': u'idr0040-aymoz-singlecell/experimentA', u'id': 401}, {u'description': u'Publication Title\\nAn experimental and computational framework to build a dynamic protein atlas of human cell division\\n\\nExperiment Description\\nImage data used to build the mitotic cell atlas. This consists of three subsets: raw images, segmentation masks for the landmarks and protein concentration maps.', u'name': u'idr0041-cai-mitoticatlas/experimentA', u'id': 404}, {u'description': u'Publication Title\\nA Deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue\\n\\nExperiment Description\\nHistopathology sub-image from patient whole-slide images from patients with end-stage clinical heart failure or cadaveric donor hearts from patients without heart failure.', u'name': u'idr0042-nirschl-wsideeplearning/experimentA', u'id': 402}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nStudy Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. We have immunostained endpoint fixed organoids and E13.5 embryonic kidneys and imaged them with a light sheet fluorescent microscope. The data generated for this manuscript is made accessible here and includes immunofluorescence staining after end point fixation revealing that organotypic structures develop within the organoids. Furthermore, we have performed an assay to ascertain tubular functionality. Following, we have imaged organoids containing Wt1-GFP knock-in cells live on the light sheet microscope to evaluate the ability to follow cells long-term and generate previously unavailable quantitative tracking data.\\n\\nidr0038 consists of a set of 3 experiments: experimentA (immunofluorescence staining after end point fixation), experimentB (assays to ascertain tubular functionality) and experimentC (Wt1-GFP knock-in cells followed long term).', u'name': u'idr0038-held-kidneylightsheet', u'id': 354}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nAll assays were performed on live cultures. The intact kidney rudiments were cultured at air liquid interface for 4 days following dissection. The organoids were cultured under medium immersion for six days following dissection. The samples cultured at air liquid interface were gently removed from the membranes before starting the assay. The samples were incubated for one hour at 25oC with PBS containing 1uM 5(6)-Carboxyfluorescein (6-CF) and 20 ug/ml of PNA (Vector Laboratories). For the control samples, 2 mM probenecid was also added to the solution to inhibit the organic anion transport. After incubation, the samples were washed with ice cold PBS for 10 mins followed by an incubation with 8mM probenecid in PBS for 15 mins to arrest any transport. The functional assay was concluded by two PBS washes and samples were then embedded in 1.5% agarose for imaging.', u'name': u'idr0038-held-kidneylightsheet/experimentB', u'id': 352}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. To demonstrate that the organoid culture method of re-aggregated kidney rudiments in PDMS discs resulted in 3D kidney organoids with organotypic structures, we stained fixed six day old organoids for various developmental markers and imaged them with a light sheet fluorescent microscope. We have stained for the following markers: Megalin, Laminin, Cytokeratin, Pax2, Six2, Wt1, Synaptopodin and Nephrin and have also used the lectin stain PNA (peanut agglutinin). The spheroids were usually imaged as z stacks from five angles.', u'name': u'idr0038-held-kidneylightsheet/experimentA', u'id': 351}, {u'description': u'Title\\nHistopathology study of 14 tissues from mice with 10 different mitotic gene knockouts.\\n\\nExperiment Description\\nHistopathology raw images and annotated tiff files of tissues from mice with 10 different single gene knockouts.', u'name': u'idr0018-neff-histopathology/experimentA', u'id': 101}, {u'description': u'Publication Title\\nSubdiffraction imaging of centrosomes reveals higher-order organizational features of pericentriolar material.\\n\\nExperiment Description\\nImages relating to Figure 1e in Lawo et al 2012. These are the 3D-SIM reconstructed, maximum intensity projected and aligned images of centriole or PCM proteins of cycling HeLa cells in interphase.', u'name': u'idr0021-lawo-pericentriolarmaterial/experimentA', u'id': 51}, {u'description': u'Publication Title\\nNuclear pore scaffold structure analyzed by super-resolution microscopy and particle averaging.\\n\\nExperiment Description\\nSystematic immunolabelling of the Nup107-160 complex and (monomeric) enhanced GFP [(m)EGFP] fusions of members of the Nup107-160 complex with an anti-GFP nanobody.', u'name': u'idr0023-szymborska-nuclearpore/experimentA', u'id': 52}, {u'description': u'Publication Title\\nRegulation of Meristem Morphogenesis by Cell Wall Synthases in Arabidopsis.\\n\\nExperiment Description\\nWe performed systematic RNA in situ hybridization assays to examine the expression patterns of the SAM-expressed GTs at single-cell spatial resolution, including those transcripts that show either relative increases, reductions, or no change between SAM and flower samples.', u'name': u'idr0032-yang-meristem/experimentA', u'id': 201}, {u'description': u'Publication Title\\nFocusing and sustaining the antitumor CTL effector killer response by agonist anti-CD137 mAb.\\n\\nExperiment Description\\nCombination therapy of adoptive CTL transfer and anti-CD137 monoclonal antibody. Mice were injected with B16F10/OVA melanoma cells and after 3 or 7 days were treated with OVA-specific CD8+ T cells (Cytotoxic T lymphocytes CTL) plus 1D8 antibody (anti-CD137).  4D timelapse images were taken at either 3 or 6 days after CTL + antibody treatment.', u'name': u'idr0026-weigelin-immunotherapy/experimentA', u'id': 301}]
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution33Source rdf:value """print("session%s", session)
+MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+url = "https://idr.openmicroscopy.org/webgateway/proj/list/"
+print(session.get(url).json())""" .
+
+repr:Cell2Execution3Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/v0/m/screens/')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution3Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution3Source rdf:value """MAP_URL = "{base}/webclient/api/v0/m/screens/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url).json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution4Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/v0/m/screens/')
+('a%s', '<?xml version="1.0" encoding="iso-8859-1"?>\\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR')
+('a%s', '/xhtml1/DTD/xhtml1-transitional.dtd">\\n\\n<html xmlns="http://www.w3.org/1999/xhtml">\\n\\n\\n\\n<head>\\n    <meta http-equiv="X-UA-Compatib')
+('a%s', 'le" content="IE=Edge" />\\n\\n    \\n    \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/reset.css?_5.4.6-rc2-39-8e16ee4-ice36-')
+('a%s', 'b99" type="text/css" />   \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/ome.body.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" t')
+('a%s', 'ype="text/css" />\\n\\t\\t<link rel="stylesheet" href="/static/webclient/css/dusty.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" type="text/css')
+('a%s', '" media="screen"/>\\n    \\n    <link rel="stylesheet" href="/static/feedback/css/layout.css" type="text/css" />\\n\\n\\n\\n    <!-- extend ')
+('a%s', 'here to add page title -->\\n    <title>\\n        \\n    OMERO.web - support\\n\\n    </title>\\n\\n    \\n        <!-- block for javascript <s')
+('a%s', 'cript> -->\\n    \\n\\n    \\n    \\n        <!-- block for extra head elements (not css or javascript) E.g. icon, meta tags -->\\n        \\n')
+('a%s', '\\n<link rel="shortcut icon" href="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n    \\n    \\n\\n<link rel="shortcut icon" h')
+('a%s', 'ref="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n\\n\\n</head>\\n<body>\\n\\n\\n<div class="bodyWrapper">\\n    <div><h1>\\n       ')
+('a%s', ' Go back to <a href="/webclient/">OMERO.web</a>\\n    </h1>\\n    \\n    <div class="error"><h1>Page not found. <em>(404)</em></h1>\\n  ')
+('a%s', '  <p>The requested object or URL was not found on this server. The link you followed is either outdated, inaccurate, or the serv')
+('a%s', 'er has been instructed not to let you have it.</p></div>\\n    \\n\\n    </div>\\n\\n</div>\\n\\n\\n\\n    <!-- settings.BASE_INCLUDE_TEMPLATE inc')
+('a%s', 'luded here -->\\n    \\n</body>\\n</html>\\n')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution4Source rdf:value """MAP_URL = "{base}/webclient/api/v0/m/screens/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url):
+    print("a%s", a)""" .
+
+repr:Cell2Execution5Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/')
+('a%s', '<?xml version="1.0" encoding="iso-8859-1"?>\\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR')
+('a%s', '/xhtml1/DTD/xhtml1-transitional.dtd">\\n\\n<html xmlns="http://www.w3.org/1999/xhtml">\\n\\n\\n\\n<head>\\n    <meta http-equiv="X-UA-Compatib')
+('a%s', 'le" content="IE=Edge" />\\n\\n    \\n    \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/reset.css?_5.4.6-rc2-39-8e16ee4-ice36-')
+('a%s', 'b99" type="text/css" />   \\n\\t\\t<link rel="stylesheet" href="/static/webgateway/css/ome.body.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" t')
+('a%s', 'ype="text/css" />\\n\\t\\t<link rel="stylesheet" href="/static/webclient/css/dusty.css?_5.4.6-rc2-39-8e16ee4-ice36-b99" type="text/css')
+('a%s', '" media="screen"/>\\n    \\n    <link rel="stylesheet" href="/static/feedback/css/layout.css" type="text/css" />\\n\\n\\n\\n    <!-- extend ')
+('a%s', 'here to add page title -->\\n    <title>\\n        \\n    OMERO.web - support\\n\\n    </title>\\n\\n    \\n        <!-- block for javascript <s')
+('a%s', 'cript> -->\\n    \\n\\n    \\n    \\n        <!-- block for extra head elements (not css or javascript) E.g. icon, meta tags -->\\n        \\n')
+('a%s', '\\n<link rel="shortcut icon" href="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n    \\n    \\n\\n<link rel="shortcut icon" h')
+('a%s', 'ref="/static/webgateway/img/ome.ico" type="image/x-icon" />\\n\\n\\n\\n\\n</head>\\n<body>\\n\\n\\n<div class="bodyWrapper">\\n    <div><h1>\\n       ')
+('a%s', ' Go back to <a href="/webclient/">OMERO.web</a>\\n    </h1>\\n    \\n    <div class="error"><h1>Page not found. <em>(404)</em></h1>\\n  ')
+('a%s', '  <p>The requested object or URL was not found on this server. The link you followed is either outdated, inaccurate, or the serv')
+('a%s', 'er has been instructed not to let you have it.</p></div>\\n    \\n\\n    </div>\\n\\n</div>\\n\\n\\n\\n    <!-- settings.BASE_INCLUDE_TEMPLATE inc')
+('a%s', 'luded here -->\\n    \\n</body>\\n</html>\\n')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution5Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url):
+    print("a%s", a)""" .
+
+repr:Cell2Execution6Output0 rdf:value "invalid syntax (<ipython-input-8-e9fd50fc3fc1>, line 6)" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution6Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url)json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution7Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution7Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution7Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+for a in session.get(url).json():
+    print("a%s", a)""" .
+
+repr:Cell2Execution8Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution8Output1 rdf:value "name 'api_url' is not defined" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution8Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+r = session.get(api_url)
+versions = r.json()['data']""" .
+
+repr:Cell2Execution9Output0 rdf:value """('url%s', 'http://idr.openmicroscopy.org/webclient/api/')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell2Execution9Output1 rdf:value "No JSON object could be decoded" ;
+    repr:hasType "error" .
+
+repr:Cell2Execution9Source rdf:value """MAP_URL = "{base}/webclient/api/"
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+r = session.get(url)
+versions = r.json()['data']""" .
+
+repr:Cell3Execution0Source rdf:value "import rdflib" .
+
+repr:Cell3Execution1Source rdf:value "import rdflib" .
+
+repr:Cell3Execution2Source rdf:value "import rdflib" .
+
+repr:Output1 a p-plan:Variable ;
+    rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0120a90>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output2 a p-plan:Variable ;
+    rdf:value """('session%s', <requests.sessions.Session object at 0x7f05d0120a90>)
+('url%s', 'https://idr.openmicroscopy.org/webclient/api/annotations/?type=map')
+[{u'description': u'Publication Title\\nDual spindle formation in zygotes keeps parental genomes apart in early mammalian embryos\\n\\nExperiment Description\\nCharacterization of mitotic spindle formation in live mouse zygotes by light-sheet microscopy.', u'name': u'idr0045-reichmann/experimentA', u'id': 405}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. 24 hours after pelleting 100,000 mouse kidney cells, organoids had formed in the PDMS dishes. For the PNA vital stain test we used kidney cells from wildtype mice and for the tracking time series we used cells from the Wt1tm1Nhsn strain, expressing GFP together with the transcription factor Wt1. One organoid was embedded in a hydrogel matrix (1.5% Agarose + 3% gelatine). In the microscope chamber, the hydrogel cylinder was extruded from the capillary so that the hydrogel column containing the organoid was located outside the capillary and immersed in medium (phenol red-free MEM + 10% FBS, 1% pen/strep, 3ug/ml PNA-rh) at 37oC and with 5% CO2. We recorded z stacks of the spheroids from multiple angles every 30 mins to record the location of the GFP expressing cells in three dimensions over time. There are three time series. These are available in the subfolders "Time PNA-rh vital", "Wt1-GFP PNA Time Series 1" and "Wt1-GFP PNA Time Series 2".  The time series data was processed in Fiji by opening the green channel only, binning in X and Y by a factor of two and converting it to 8 bit for processing in TrackMate (v.2.8.2) where we used the LoG (Laplacian of Gaussian) Detector and LAP (Linear Assignment Problem) Tracker options. Tracking data generated from the time series using the Track Mate plug in for Fiji is also provided in the time series data sets as "Nspots vs Time.txt", "Track statistics.txt", "Links in tracks statistics.txt" and "Spots in tracks statistics.txt". The data was analysed and plotted via the Matlab script provided as "TrackMateDataAnalysis.txt" in conjunction with the functions "NSpotsFunction.txt", "SpotsInTracksFunction.txt", "TrackStatisticsFunction.txt", "Violin.txt" and "violinplot.txt".', u'name': u'idr0038-held-kidneylightsheet/experimentC', u'id': 353}, {u'description': u'Publication Title\\nHigh resolution imaging reveals heterogeneity in chromatin states between cells that is not inherited through cell division.\\n\\nExperiment Description\\nTo monitor the organisation of chromatin in live cells were engineered with fluorescent fusion proteins which recognize specific operator sequences to tag pairs of syntenic gene loci. The separation of these loci was then tracked in three dimensions over time using fluorescence microscopy. Data generated for this manuscript are made accessible here. This includes the movies generated from yeast strains with different genomic separations. These are available within subfolders titled "Colocalising", "Genomic separation 100kb", "Genomic separation 25kb" etc. Tracking data generated from these movies is also available as idr0027-AnalysisAllData.csv in the Attachments section below. This includes x, y and z co-ordinates of foci in the red and green channels following two stages of correction for channel alignment, the distance between the red and green foci in nanometers,  the offset of the red channel foci with respect to the green channel foci in x, y, and z. The maximum intensity, background intensity and standard deviation of the background intensity for both the red and green channels. The contrast (maximum spot intensity - nuclear background intensity) for each channel. The name originally assigned to the video, the genomic separation of the strain in kb. The string in column AE starts with the letter assigned to the video in supplementary figure 2. Some videos include two cells. In these cases the higher cell (on the y axis) is indicated as "upper" and the other as "lower". One of the two cells can often be assigned as the mother and the other as daughter. This is indicated as m or d in column AF. The systematic name of the strain is indicated in column AG.', u'name': u'idr0027-dickerson-chromatin/experimentA', u'id': 151}, {u'description': u'Publication Title\\nTiming of gene expression in a cell-fate decision system\\n\\nExperiment Description\\nTime-lapse with addition of 1uM alpha-factor at time 0', u'name': u'idr0040-aymoz-singlecell/experimentA', u'id': 401}, {u'description': u'Publication Title\\nAn experimental and computational framework to build a dynamic protein atlas of human cell division\\n\\nExperiment Description\\nImage data used to build the mitotic cell atlas. This consists of three subsets: raw images, segmentation masks for the landmarks and protein concentration maps.', u'name': u'idr0041-cai-mitoticatlas/experimentA', u'id': 404}, {u'description': u'Publication Title\\nA Deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue\\n\\nExperiment Description\\nHistopathology sub-image from patient whole-slide images from patients with end-stage clinical heart failure or cadaveric donor hearts from patients without heart failure.', u'name': u'idr0042-nirschl-wsideeplearning/experimentA', u'id': 402}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nStudy Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. We have immunostained endpoint fixed organoids and E13.5 embryonic kidneys and imaged them with a light sheet fluorescent microscope. The data generated for this manuscript is made accessible here and includes immunofluorescence staining after end point fixation revealing that organotypic structures develop within the organoids. Furthermore, we have performed an assay to ascertain tubular functionality. Following, we have imaged organoids containing Wt1-GFP knock-in cells live on the light sheet microscope to evaluate the ability to follow cells long-term and generate previously unavailable quantitative tracking data.\\n\\nidr0038 consists of a set of 3 experiments: experimentA (immunofluorescence staining after end point fixation), experimentB (assays to ascertain tubular functionality) and experimentC (Wt1-GFP knock-in cells followed long term).', u'name': u'idr0038-held-kidneylightsheet', u'id': 354}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nAll assays were performed on live cultures. The intact kidney rudiments were cultured at air liquid interface for 4 days following dissection. The organoids were cultured under medium immersion for six days following dissection. The samples cultured at air liquid interface were gently removed from the membranes before starting the assay. The samples were incubated for one hour at 25oC with PBS containing 1uM 5(6)-Carboxyfluorescein (6-CF) and 20 ug/ml of PNA (Vector Laboratories). For the control samples, 2 mM probenecid was also added to the solution to inhibit the organic anion transport. After incubation, the samples were washed with ice cold PBS for 10 mins followed by an incubation with 8mM probenecid in PBS for 15 mins to arrest any transport. The functional assay was concluded by two PBS washes and samples were then embedded in 1.5% agarose for imaging.', u'name': u'idr0038-held-kidneylightsheet/experimentB', u'id': 352}, {u'description': u'Publication Title\\nEx vivo live cell tracking in kidney organoids using light sheet fluorescence microscopy\\n\\nExperiment Description\\nWe have adapted the mouse kidney rudiment assay to generate renal organoids. To demonstrate that the organoid culture method of re-aggregated kidney rudiments in PDMS discs resulted in 3D kidney organoids with organotypic structures, we stained fixed six day old organoids for various developmental markers and imaged them with a light sheet fluorescent microscope. We have stained for the following markers: Megalin, Laminin, Cytokeratin, Pax2, Six2, Wt1, Synaptopodin and Nephrin and have also used the lectin stain PNA (peanut agglutinin). The spheroids were usually imaged as z stacks from five angles.', u'name': u'idr0038-held-kidneylightsheet/experimentA', u'id': 351}, {u'description': u'Title\\nHistopathology study of 14 tissues from mice with 10 different mitotic gene knockouts.\\n\\nExperiment Description\\nHistopathology raw images and annotated tiff files of tissues from mice with 10 different single gene knockouts.', u'name': u'idr0018-neff-histopathology/experimentA', u'id': 101}, {u'description': u'Publication Title\\nSubdiffraction imaging of centrosomes reveals higher-order organizational features of pericentriolar material.\\n\\nExperiment Description\\nImages relating to Figure 1e in Lawo et al 2012. These are the 3D-SIM reconstructed, maximum intensity projected and aligned images of centriole or PCM proteins of cycling HeLa cells in interphase.', u'name': u'idr0021-lawo-pericentriolarmaterial/experimentA', u'id': 51}, {u'description': u'Publication Title\\nNuclear pore scaffold structure analyzed by super-resolution microscopy and particle averaging.\\n\\nExperiment Description\\nSystematic immunolabelling of the Nup107-160 complex and (monomeric) enhanced GFP [(m)EGFP] fusions of members of the Nup107-160 complex with an anti-GFP nanobody.', u'name': u'idr0023-szymborska-nuclearpore/experimentA', u'id': 52}, {u'description': u'Publication Title\\nRegulation of Meristem Morphogenesis by Cell Wall Synthases in Arabidopsis.\\n\\nExperiment Description\\nWe performed systematic RNA in situ hybridization assays to examine the expression patterns of the SAM-expressed GTs at single-cell spatial resolution, including those transcripts that show either relative increases, reductions, or no change between SAM and flower samples.', u'name': u'idr0032-yang-meristem/experimentA', u'id': 201}, {u'description': u'Publication Title\\nFocusing and sustaining the antitumor CTL effector killer response by agonist anti-CD137 mAb.\\n\\nExperiment Description\\nCombination therapy of adoptive CTL transfer and anti-CD137 monoclonal antibody. Mice were injected with B16F10/OVA melanoma cells and after 3 or 7 days were treated with OVA-specific CD8+ T cells (Cytotoxic T lymphocytes CTL) plus 1D8 antibody (anti-CD137).  4D timelapse images were taken at either 3 or 6 days after CTL + antibody treatment.', u'name': u'idr0026-weigelin-immunotherapy/experimentA', u'id': 301}]
+""" ;
+    repr:hasType "stream" .
+
+repr:Source0 a p-plan:Variable ;
+    rdf:value """# initial data
+IDR_BASE_URL = "https://idr.openmicroscopy.org\"""" .
+
+repr:Source1 a p-plan:Variable ;
+    rdf:value """import requests
+
+INDEX_PAGE = "%s/webclient/?experimenter=-1" % IDR_BASE_URL
+
+# create http session
+with requests.Session() as session:
+    request = requests.Request('GET', INDEX_PAGE)
+    prepped = session.prepare_request(request)
+    response = session.send(prepped)
+    if response.status_code != 200:
+        response.raise_for_status()
+    print("session%s", session)""" .
+
+repr:Source2 a p-plan:Variable ;
+    rdf:value """print("session%s", session)
+MAP_URL = "{base}/webclient/api/annotations/?type=map"
+
+
+qs = {'base': IDR_BASE_URL}
+url = MAP_URL.format(**qs)
+print("url%s", url)
+url = "https://idr.openmicroscopy.org/webgateway/proj/list/"
+print(session.get(url).json())""" .
+
+repr:Source3 a p-plan:Variable ;
+    rdf:value "import rdflib" .
+
+repr:Source4 a p-plan:Variable .
+
+repr:Cell3 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source3 ;
+    p-plan:isPreceededBy repr:Cell2 ;
+    p-plan:isStepOfPlan repr:IDR_load_data ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 61 ;
+    repr:hasIndex 3 .
+
+repr:IDR_load_data a repr:Notebook ;
+    repr:hasKernelDisplayName "Python 2" ;
+    repr:hasKernelName "python2" ;
+    repr:hasProgrammingLanguage "python" ;
+    repr:hasProgrammingLanguageExtension ".py" ;
+    repr:hasProgrammingLanguageVersion "2.7.15rc1" .
+
+repr:Cell0 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source0 ;
+    p-plan:isStepOfPlan repr:IDR_load_data ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 58 ;
+    repr:hasIndex 0 .
+
+repr:Cell1 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source1 ;
+    p-plan:hasOutputVar repr:Output1 ;
+    p-plan:isPreceededBy repr:Cell0 ;
+    p-plan:isStepOfPlan repr:IDR_load_data ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 59 ;
+    repr:hasIndex 1 .
+
+repr:Cell2 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source2 ;
+    p-plan:hasOutputVar repr:Output2 ;
+    p-plan:isPreceededBy repr:Cell1 ;
+    p-plan:isStepOfPlan repr:IDR_load_data ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 60 ;
+    repr:hasIndex 2 .
+

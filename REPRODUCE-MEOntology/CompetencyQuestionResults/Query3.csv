@@ -1,0 +1,19 @@
+Experiment,ExperimentMaterial,MaterialType,ExperimentStep,Plan,File
+Interaction EGFP-RAD51 and mCherry-RAD52,,,,Calcium phosphate precipitation transfection method,Calcium phosphate precipitation method for cell transfection.pdf
+EGFP-RAD51 Time-lapse with Bleomycin,2'-Desoxythimidine,Chemical,Preparation,,
+EGFP-RAD51 Time-lapse with Bleomycin,,,,Calcium phosphate precipitation transfection method,Calcium phosphate precipitation method for cell transfection.pdf
+Staining cellular compartments,,,,Calcium phosphate precipitation transfection method,Calcium phosphate precipitation method for cell transfection.pdf
+TK EGFP-RAD51 - CMV Cherry-RAD54,pTK-EGFP-RAD51,Plasmid,Preparation,,
+TK EGFP-RAD51 - CMV Cherry-RAD54,Bleomycin sulfate,Chemical,Incubation,,
+TK EGFP-RAD51 - CMV Cherry-RAD54,,,,Calcium phosphate precipitation transfection method,Calcium phosphate precipitation method for cell transfection.pdf
+Colocalization of EGFP-RAD51 and Cherry-RAD54,pEGFP-RAD51,Plasmid,Preparation,,
+Colocalization of EGFP-RAD51 and Cherry-RAD54,pEGFP-RAD51,Plasmid,Description,,
+Colocalization of EGFP-RAD51 and Cherry-RAD54,pCherry-RAD54,Plasmid,Preparation,,
+Colocalization of EGFP-RAD51 and Cherry-RAD54,pCherry-RAD54,Plasmid,Transfection,,
+Colocalization of EGFP-RAD51 and Cherry-RAD54,2'-Desoxythimidine,Chemical,Preparation,,
+Colocalization of EGFP-RAD51 and Cherry-RAD54,,,,Control of Cell Cycle Distrubution,PI staining FACS_Florian.docx
+EGFP-RAD52 / mCherry-RAD54,pCherry-RAD54,Plasmid,Preparation,,
+EGFP-RAD52 / mCherry-RAD54,pCherry-RAD54,Plasmid,Transfection,,
+EGFP-RAD52 / mCherry-RAD54,2'-Desoxythimidine,Chemical,Preparation,,
+EGFP-RAD52 / mCherry-RAD54,Bleomycin sulfate,Chemical,Incubation,,
+EGFP-RAD52 / mCherry-RAD54,,,,Calcium phosphate precipitation transfection method,Calcium phosphate precipitation method for cell transfection.pdf
