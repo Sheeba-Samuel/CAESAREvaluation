@@ -1,0 +1,3746 @@
+@prefix p-plan: <http://purl.org/net/p-plan/#> .
+@prefix prov: <http://www.w3.org/ns/prov/#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix repr: <https://w3id.org/reproduceme#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+repr:Cell0Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:used repr:Cell0Execution0Source .
+
+repr:Cell10Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell10Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell10Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell10Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:endedAtTime "2019-07-08T14:35:51.002Z" ;
+    prov:generated repr:Cell10Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.991Z" ;
+    prov:used repr:Cell10Execution1Source ;
+    repr:executionTime "11ms" .
+
+repr:Cell10Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:endedAtTime "2019-07-08T14:35:51.002Z" ;
+    prov:generated repr:Cell10Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.991Z" ;
+    prov:used repr:Cell10Execution2Source ;
+    repr:executionTime "11ms" .
+
+repr:Cell11Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell11 ;
+    prov:used repr:Cell11Execution0Source .
+
+repr:Cell12Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell12Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell12Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell12Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:endedAtTime "2019-07-08T14:35:51.027Z" ;
+    prov:generated repr:Cell12Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.005Z" ;
+    prov:used repr:Cell12Execution1Source ;
+    repr:executionTime "22ms" .
+
+repr:Cell12Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:endedAtTime "2019-07-08T14:35:51.027Z" ;
+    prov:generated repr:Cell12Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.005Z" ;
+    prov:used repr:Cell12Execution2Source ;
+    repr:executionTime "22ms" .
+
+repr:Cell13Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell13Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell13Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell13Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "2019-07-08T14:35:51.041Z" ;
+    prov:generated repr:Cell13Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.032Z" ;
+    prov:used repr:Cell13Execution1Source ;
+    repr:executionTime "9ms" .
+
+repr:Cell13Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "2019-07-08T14:35:51.041Z" ;
+    prov:generated repr:Cell13Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.032Z" ;
+    prov:used repr:Cell13Execution2Source ;
+    repr:executionTime "9ms" .
+
+repr:Cell14Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell14 ;
+    prov:used repr:Cell14Execution0Source .
+
+repr:Cell15Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell15Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell15Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell15Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "2019-07-08T14:35:51.059Z" ;
+    prov:generated repr:Cell15Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.044Z" ;
+    prov:used repr:Cell15Execution1Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell15Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "2019-07-08T14:35:51.059Z" ;
+    prov:generated repr:Cell15Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.044Z" ;
+    prov:used repr:Cell15Execution2Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell16Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:used repr:Cell16Execution0Source .
+
+repr:Cell17Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell17 ;
+    prov:used repr:Cell17Execution0Source .
+
+repr:Cell18Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:used repr:Cell18Execution0Source .
+
+repr:Cell19Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell19 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell19Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell19Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell19Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell19 ;
+    prov:endedAtTime "2019-07-08T14:35:51.094Z" ;
+    prov:generated repr:Cell19Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.062Z" ;
+    prov:used repr:Cell19Execution1Source ;
+    repr:executionTime "32ms" .
+
+repr:Cell19Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell19 ;
+    prov:endedAtTime "2019-07-08T14:35:51.094Z" ;
+    prov:generated repr:Cell19Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.062Z" ;
+    prov:used repr:Cell19Execution2Source ;
+    repr:executionTime "32ms" .
+
+repr:Cell1Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:used repr:Cell1Execution0Source .
+
+repr:Cell20Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell20Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell20Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell20Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "2019-07-08T14:35:51.105Z" ;
+    prov:generated repr:Cell20Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.099Z" ;
+    prov:used repr:Cell20Execution1Source ;
+    repr:executionTime "6ms" .
+
+repr:Cell20Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "2019-07-08T14:35:51.105Z" ;
+    prov:generated repr:Cell20Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.099Z" ;
+    prov:used repr:Cell20Execution2Source ;
+    repr:executionTime "6ms" .
+
+repr:Cell21Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell21Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell21Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell21Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "2019-07-08T14:35:51.119Z" ;
+    prov:generated repr:Cell21Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.109Z" ;
+    prov:used repr:Cell21Execution1Source ;
+    repr:executionTime "10ms" .
+
+repr:Cell21Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "2019-07-08T14:35:51.119Z" ;
+    prov:generated repr:Cell21Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.109Z" ;
+    prov:used repr:Cell21Execution2Source ;
+    repr:executionTime "10ms" .
+
+repr:Cell22Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell22 ;
+    prov:used repr:Cell22Execution0Source .
+
+repr:Cell23Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell23Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell23Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell23Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "2019-07-08T14:35:51.138Z" ;
+    prov:generated repr:Cell23Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.123Z" ;
+    prov:used repr:Cell23Execution1Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell23Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "2019-07-08T14:35:51.138Z" ;
+    prov:generated repr:Cell23Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.123Z" ;
+    prov:used repr:Cell23Execution2Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell24Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell24 ;
+    prov:used repr:Cell24Execution0Source .
+
+repr:Cell25Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell25Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell25Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell25Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "2019-07-08T14:35:51.159Z" ;
+    prov:generated repr:Cell25Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.141Z" ;
+    prov:used repr:Cell25Execution1Source ;
+    repr:executionTime "18ms" .
+
+repr:Cell25Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "2019-07-08T14:35:51.159Z" ;
+    prov:generated repr:Cell25Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.141Z" ;
+    prov:used repr:Cell25Execution2Source ;
+    repr:executionTime "18ms" .
+
+repr:Cell26Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell26 ;
+    prov:used repr:Cell26Execution0Source .
+
+repr:Cell27Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell27Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell27Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell27Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "2019-07-08T14:35:51.178Z" ;
+    prov:generated repr:Cell27Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.163Z" ;
+    prov:used repr:Cell27Execution1Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell27Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "2019-07-08T14:35:51.178Z" ;
+    prov:generated repr:Cell27Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.163Z" ;
+    prov:used repr:Cell27Execution2Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell28Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:used repr:Cell28Execution0Source .
+
+repr:Cell29Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell29Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell29Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell29Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:endedAtTime "2019-07-08T14:35:51.196Z" ;
+    prov:generated repr:Cell29Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.182Z" ;
+    prov:used repr:Cell29Execution1Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell29Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:endedAtTime "2019-07-08T14:35:51.196Z" ;
+    prov:generated repr:Cell29Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.182Z" ;
+    prov:used repr:Cell29Execution2Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell2Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:used repr:Cell2Execution0Source .
+
+repr:Cell30Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell30 ;
+    prov:used repr:Cell30Execution0Source .
+
+repr:Cell31Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell31 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell31Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell31Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell31Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell31 ;
+    prov:endedAtTime "2019-07-08T14:35:51.223Z" ;
+    prov:generated repr:Cell31Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.202Z" ;
+    prov:used repr:Cell31Execution1Source ;
+    repr:executionTime "21ms" .
+
+repr:Cell31Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell31 ;
+    prov:endedAtTime "2019-07-08T14:35:51.223Z" ;
+    prov:generated repr:Cell31Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.202Z" ;
+    prov:used repr:Cell31Execution2Source ;
+    repr:executionTime "21ms" .
+
+repr:Cell32Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell32 ;
+    prov:used repr:Cell32Execution0Source .
+
+repr:Cell33Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell33 ;
+    prov:used repr:Cell33Execution0Source .
+
+repr:Cell34Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell34 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell34Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell34Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell34Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell34 ;
+    prov:endedAtTime "2019-07-08T14:35:51.238Z" ;
+    prov:generated repr:Cell34Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.230Z" ;
+    prov:used repr:Cell34Execution1Source ;
+    repr:executionTime "8ms" .
+
+repr:Cell34Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell34 ;
+    prov:endedAtTime "2019-07-08T14:35:51.238Z" ;
+    prov:generated repr:Cell34Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.230Z" ;
+    prov:used repr:Cell34Execution2Source ;
+    repr:executionTime "8ms" .
+
+repr:Cell35Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell35 ;
+    prov:used repr:Cell35Execution0Source .
+
+repr:Cell36Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell36 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell36Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell36Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell36Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell36 ;
+    prov:endedAtTime "2019-07-08T14:35:51.258Z" ;
+    prov:generated repr:Cell36Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.243Z" ;
+    prov:used repr:Cell36Execution1Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell36Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell36 ;
+    prov:endedAtTime "2019-07-08T14:35:51.258Z" ;
+    prov:generated repr:Cell36Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.243Z" ;
+    prov:used repr:Cell36Execution2Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell37Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell37 ;
+    prov:used repr:Cell37Execution0Source .
+
+repr:Cell38Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell38 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell38Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell38Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell38Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell38 ;
+    prov:endedAtTime "2019-07-08T14:35:51.283Z" ;
+    prov:generated repr:Cell38Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.266Z" ;
+    prov:used repr:Cell38Execution1Source ;
+    repr:executionTime "17ms" .
+
+repr:Cell38Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell38 ;
+    prov:endedAtTime "2019-07-08T14:35:51.283Z" ;
+    prov:generated repr:Cell38Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.266Z" ;
+    prov:used repr:Cell38Execution2Source ;
+    repr:executionTime "17ms" .
+
+repr:Cell39Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell39 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell39Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell39Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell39Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell39 ;
+    prov:endedAtTime "2019-07-08T14:35:51.299Z" ;
+    prov:generated repr:Cell39Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.287Z" ;
+    prov:used repr:Cell39Execution1Source ;
+    repr:executionTime "12ms" .
+
+repr:Cell39Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell39 ;
+    prov:endedAtTime "2019-07-08T14:35:51.299Z" ;
+    prov:generated repr:Cell39Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.287Z" ;
+    prov:used repr:Cell39Execution2Source ;
+    repr:executionTime "12ms" .
+
+repr:Cell3Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell3Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell3Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell3Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2019-07-08T14:35:50.928Z" ;
+    prov:generated repr:Cell3Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.921Z" ;
+    prov:used repr:Cell3Execution1Source ;
+    repr:executionTime "7ms" .
+
+repr:Cell3Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2019-07-08T14:35:50.928Z" ;
+    prov:generated repr:Cell3Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.921Z" ;
+    prov:used repr:Cell3Execution2Source ;
+    repr:executionTime "7ms" .
+
+repr:Cell40Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell40 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell40Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell40Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell40Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell40 ;
+    prov:endedAtTime "2019-07-08T14:35:51.376Z" ;
+    prov:generated repr:Cell40Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.305Z" ;
+    prov:used repr:Cell40Execution1Source ;
+    repr:executionTime "71ms" .
+
+repr:Cell40Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell40 ;
+    prov:endedAtTime "2019-07-08T14:35:51.376Z" ;
+    prov:generated repr:Cell40Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:51.305Z" ;
+    prov:used repr:Cell40Execution2Source ;
+    repr:executionTime "71ms" .
+
+repr:Cell41Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell41 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell41Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell41Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell41Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell41 ;
+    prov:endedAtTime "2019-07-08T14:35:51.378Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.759Z" ;
+    prov:used repr:Cell41Execution1Source ;
+    repr:executionTime "-381ms" .
+
+repr:Cell41Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell41 ;
+    prov:endedAtTime "2019-07-08T14:35:51.378Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.759Z" ;
+    prov:used repr:Cell41Execution2Source ;
+    repr:executionTime "-381ms" .
+
+repr:Cell42Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell42 ;
+    prov:used repr:Cell42Execution0Source .
+
+repr:Cell43Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell43 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell43Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell43Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell43Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell43 ;
+    prov:endedAtTime "2019-07-08T14:35:51.381Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.761Z" ;
+    prov:used repr:Cell43Execution1Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell43Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell43 ;
+    prov:endedAtTime "2019-07-08T14:35:51.381Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.761Z" ;
+    prov:used repr:Cell43Execution2Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell44Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell44 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell44Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell44Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell44Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell44 ;
+    prov:endedAtTime "2019-07-08T14:35:51.383Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.763Z" ;
+    prov:used repr:Cell44Execution1Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell44Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell44 ;
+    prov:endedAtTime "2019-07-08T14:35:51.383Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.763Z" ;
+    prov:used repr:Cell44Execution2Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell45Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell45 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell45Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell45Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell45Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell45 ;
+    prov:endedAtTime "2019-07-08T14:35:51.385Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.774Z" ;
+    prov:used repr:Cell45Execution1Source ;
+    repr:executionTime "-389ms" .
+
+repr:Cell45Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell45 ;
+    prov:endedAtTime "2019-07-08T14:35:51.385Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.774Z" ;
+    prov:used repr:Cell45Execution2Source ;
+    repr:executionTime "-389ms" .
+
+repr:Cell46Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell46 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell46Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell46Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell46Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell46 ;
+    prov:endedAtTime "2019-07-08T14:35:51.387Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.775Z" ;
+    prov:used repr:Cell46Execution1Source ;
+    repr:executionTime "-388ms" .
+
+repr:Cell46Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell46 ;
+    prov:endedAtTime "2019-07-08T14:35:51.387Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.775Z" ;
+    prov:used repr:Cell46Execution2Source ;
+    repr:executionTime "-388ms" .
+
+repr:Cell47Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell47 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell47Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell47Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell47Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell47 ;
+    prov:endedAtTime "2019-07-08T14:35:51.389Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.777Z" ;
+    prov:used repr:Cell47Execution1Source ;
+    repr:executionTime "-388ms" .
+
+repr:Cell47Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell47 ;
+    prov:endedAtTime "2019-07-08T14:35:51.389Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.777Z" ;
+    prov:used repr:Cell47Execution2Source ;
+    repr:executionTime "-388ms" .
+
+repr:Cell48Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell48 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell48Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell48Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell48Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell48 ;
+    prov:endedAtTime "2019-07-08T14:35:51.392Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.779Z" ;
+    prov:used repr:Cell48Execution1Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell48Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell48 ;
+    prov:endedAtTime "2019-07-08T14:35:51.392Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.779Z" ;
+    prov:used repr:Cell48Execution2Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell49Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell49 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell49Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell49Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell49Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell49 ;
+    prov:endedAtTime "2019-07-08T14:35:51.394Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.784Z" ;
+    prov:used repr:Cell49Execution1Source ;
+    repr:executionTime "-390ms" .
+
+repr:Cell49Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell49 ;
+    prov:endedAtTime "2019-07-08T14:35:51.394Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.785Z" ;
+    prov:used repr:Cell49Execution2Source ;
+    repr:executionTime "-391ms" .
+
+repr:Cell4Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell4Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell4Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell4Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "2019-07-08T14:35:50.949Z" ;
+    prov:generated repr:Cell4Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.936Z" ;
+    prov:used repr:Cell4Execution1Source ;
+    repr:executionTime "13ms" .
+
+repr:Cell4Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "2019-07-08T14:35:50.949Z" ;
+    prov:generated repr:Cell4Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.936Z" ;
+    prov:used repr:Cell4Execution2Source ;
+    repr:executionTime "13ms" .
+
+repr:Cell50Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell50 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell50Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell50Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell50Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell50 ;
+    prov:endedAtTime "2019-07-08T14:35:51.397Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.790Z" ;
+    prov:used repr:Cell50Execution1Source ;
+    repr:executionTime "-393ms" .
+
+repr:Cell50Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell50 ;
+    prov:endedAtTime "2019-07-08T14:35:51.397Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.791Z" ;
+    prov:used repr:Cell50Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell51Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell51 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell51Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell51Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell51Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell51 ;
+    prov:endedAtTime "2019-07-08T14:35:51.400Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.792Z" ;
+    prov:used repr:Cell51Execution1Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell51Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell51 ;
+    prov:endedAtTime "2019-07-08T14:35:51.400Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.794Z" ;
+    prov:used repr:Cell51Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell52Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell52 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell52Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell52Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell52Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell52 ;
+    prov:endedAtTime "2019-07-08T14:35:51.402Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.796Z" ;
+    prov:used repr:Cell52Execution1Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell52Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell52 ;
+    prov:endedAtTime "2019-07-08T14:35:51.402Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.796Z" ;
+    prov:used repr:Cell52Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell53Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell53 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell53Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell53Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell53Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell53 ;
+    prov:endedAtTime "2019-07-08T14:35:51.406Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.798Z" ;
+    prov:used repr:Cell53Execution1Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell53Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell53 ;
+    prov:endedAtTime "2019-07-08T14:35:51.406Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.798Z" ;
+    prov:used repr:Cell53Execution2Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell54Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell54 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell54Execution0Output0,
+        repr:Cell54Execution0Output1 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell54Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell54Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell54 ;
+    prov:endedAtTime "2019-07-08T14:35:51.409Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.803Z" ;
+    prov:used repr:Cell54Execution1Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell54Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell54 ;
+    prov:endedAtTime "2019-07-08T14:35:51.409Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.803Z" ;
+    prov:used repr:Cell54Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell55Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell55 ;
+    prov:used repr:Cell55Execution0Source .
+
+repr:Cell56Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell56 ;
+    prov:used repr:Cell56Execution0Source .
+
+repr:Cell57Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell57 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell57Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell57Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell57Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell57 ;
+    prov:endedAtTime "2019-07-08T14:35:51.412Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.805Z" ;
+    prov:used repr:Cell57Execution1Source ;
+    repr:executionTime "-393ms" .
+
+repr:Cell57Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell57 ;
+    prov:endedAtTime "2019-07-08T14:35:51.412Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.806Z" ;
+    prov:used repr:Cell57Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell58Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell58 ;
+    prov:used repr:Cell58Execution0Source .
+
+repr:Cell59Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell59 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell59Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell59Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell59Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell59 ;
+    prov:endedAtTime "2019-07-08T14:35:51.414Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.808Z" ;
+    prov:used repr:Cell59Execution1Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell59Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell59 ;
+    prov:endedAtTime "2019-07-08T14:35:51.414Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.808Z" ;
+    prov:used repr:Cell59Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell5Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell5 ;
+    prov:used repr:Cell5Execution0Source .
+
+repr:Cell60Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell60 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell60Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell60Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell60Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell60 ;
+    prov:endedAtTime "2019-07-08T14:35:51.416Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.809Z" ;
+    prov:used repr:Cell60Execution1Source ;
+    repr:executionTime "-393ms" .
+
+repr:Cell60Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell60 ;
+    prov:endedAtTime "2019-07-08T14:35:51.416Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.810Z" ;
+    prov:used repr:Cell60Execution2Source ;
+    repr:executionTime "-394ms" .
+
+repr:Cell61Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell61 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell61Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell61Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell61Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell61 ;
+    prov:endedAtTime "2019-07-08T14:35:51.419Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.811Z" ;
+    prov:used repr:Cell61Execution1Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell61Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell61 ;
+    prov:endedAtTime "2019-07-08T14:35:51.419Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.811Z" ;
+    prov:used repr:Cell61Execution2Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell62Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell62 ;
+    prov:used repr:Cell62Execution0Source .
+
+repr:Cell63Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell63 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell63Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell63Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell63Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell63 ;
+    prov:endedAtTime "2019-07-08T14:35:51.422Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.813Z" ;
+    prov:used repr:Cell63Execution1Source ;
+    repr:executionTime "-391ms" .
+
+repr:Cell63Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell63 ;
+    prov:endedAtTime "2019-07-08T14:35:51.422Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.813Z" ;
+    prov:used repr:Cell63Execution2Source ;
+    repr:executionTime "-391ms" .
+
+repr:Cell64Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell64 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell64Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell64Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell64Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell64 ;
+    prov:endedAtTime "2019-07-08T14:35:51.424Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.823Z" ;
+    prov:used repr:Cell64Execution1Source ;
+    repr:executionTime "-399ms" .
+
+repr:Cell64Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell64 ;
+    prov:endedAtTime "2019-07-08T14:35:51.424Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.823Z" ;
+    prov:used repr:Cell64Execution2Source ;
+    repr:executionTime "-399ms" .
+
+repr:Cell65Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell65 ;
+    prov:used repr:Cell65Execution0Source .
+
+repr:Cell66Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell66 ;
+    prov:used repr:Cell66Execution0Source .
+
+repr:Cell67Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell67 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell67Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell67Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell67Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell67 ;
+    prov:endedAtTime "2019-07-08T14:35:51.427Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.824Z" ;
+    prov:used repr:Cell67Execution1Source ;
+    repr:executionTime "-397ms" .
+
+repr:Cell67Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell67 ;
+    prov:endedAtTime "2019-07-08T14:35:51.427Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.824Z" ;
+    prov:used repr:Cell67Execution2Source ;
+    repr:executionTime "-397ms" .
+
+repr:Cell68Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell68 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell68Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell68Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell68Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell68 ;
+    prov:endedAtTime "2019-07-08T14:35:51.429Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.825Z" ;
+    prov:used repr:Cell68Execution1Source ;
+    repr:executionTime "-396ms" .
+
+repr:Cell68Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell68 ;
+    prov:endedAtTime "2019-07-08T14:35:51.429Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.826Z" ;
+    prov:used repr:Cell68Execution2Source ;
+    repr:executionTime "-397ms" .
+
+repr:Cell69Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell69 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell69Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell69Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell69Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell69 ;
+    prov:endedAtTime "2019-07-08T14:35:51.431Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.827Z" ;
+    prov:used repr:Cell69Execution1Source ;
+    repr:executionTime "-396ms" .
+
+repr:Cell69Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell69 ;
+    prov:endedAtTime "2019-07-08T14:35:51.431Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.827Z" ;
+    prov:used repr:Cell69Execution2Source ;
+    repr:executionTime "-396ms" .
+
+repr:Cell6Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell6 ;
+    prov:used repr:Cell6Execution0Source .
+
+repr:Cell70Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell70 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell70Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell70Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell70Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell70 ;
+    prov:endedAtTime "2019-07-08T14:35:51.433Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.829Z" ;
+    prov:used repr:Cell70Execution1Source ;
+    repr:executionTime "-396ms" .
+
+repr:Cell70Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell70 ;
+    prov:endedAtTime "2019-07-08T14:35:51.433Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.829Z" ;
+    prov:used repr:Cell70Execution2Source ;
+    repr:executionTime "-396ms" .
+
+repr:Cell71Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell71 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell71Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell71Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell71Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell71 ;
+    prov:endedAtTime "2019-07-08T14:35:51.441Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.832Z" ;
+    prov:used repr:Cell71Execution1Source ;
+    repr:executionTime "-391ms" .
+
+repr:Cell71Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell71 ;
+    prov:endedAtTime "2019-07-08T14:35:51.441Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.833Z" ;
+    prov:used repr:Cell71Execution2Source ;
+    repr:executionTime "-392ms" .
+
+repr:Cell72Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell72 ;
+    prov:used repr:Cell72Execution0Source .
+
+repr:Cell73Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell73 ;
+    prov:used repr:Cell73Execution0Source .
+
+repr:Cell74Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell74 ;
+    prov:used repr:Cell74Execution0Source .
+
+repr:Cell75Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell75 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell75Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell75Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell75Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell75 ;
+    prov:endedAtTime "2019-07-08T14:35:51.448Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.835Z" ;
+    prov:used repr:Cell75Execution1Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell75Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell75 ;
+    prov:endedAtTime "2019-07-08T14:35:51.448Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.835Z" ;
+    prov:used repr:Cell75Execution2Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell76Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell76 ;
+    prov:used repr:Cell76Execution0Source .
+
+repr:Cell77Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell77 ;
+    prov:used repr:Cell77Execution0Source .
+
+repr:Cell78Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell78 ;
+    prov:used repr:Cell78Execution0Source .
+
+repr:Cell79Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell79 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell79Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell79Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell79Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell79 ;
+    prov:endedAtTime "2019-07-08T14:35:51.450Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.837Z" ;
+    prov:used repr:Cell79Execution1Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell79Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell79 ;
+    prov:endedAtTime "2019-07-08T14:35:51.450Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.837Z" ;
+    prov:used repr:Cell79Execution2Source ;
+    repr:executionTime "-387ms" .
+
+repr:Cell7Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell7 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell7Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell7Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell7Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell7 ;
+    prov:endedAtTime "2019-07-08T14:35:50.966Z" ;
+    prov:generated repr:Cell7Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.953Z" ;
+    prov:used repr:Cell7Execution1Source ;
+    repr:executionTime "13ms" .
+
+repr:Cell7Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell7 ;
+    prov:endedAtTime "2019-07-08T14:35:50.966Z" ;
+    prov:generated repr:Cell7Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.953Z" ;
+    prov:used repr:Cell7Execution2Source ;
+    repr:executionTime "13ms" .
+
+repr:Cell80Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell80 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell80Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell80Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell80Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell80 ;
+    prov:endedAtTime "2019-07-08T14:35:51.457Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.840Z" ;
+    prov:used repr:Cell80Execution1Source ;
+    repr:executionTime "-383ms" .
+
+repr:Cell80Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell80 ;
+    prov:endedAtTime "2019-07-08T14:35:51.457Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.841Z" ;
+    prov:used repr:Cell80Execution2Source ;
+    repr:executionTime "-384ms" .
+
+repr:Cell81Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell81 ;
+    prov:used repr:Cell81Execution0Source .
+
+repr:Cell82Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell82 ;
+    prov:used repr:Cell82Execution0Source .
+
+repr:Cell83Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell83 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell83Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell83Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell83Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell83 ;
+    prov:endedAtTime "2019-07-08T14:35:51.463Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.843Z" ;
+    prov:used repr:Cell83Execution1Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell83Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell83 ;
+    prov:endedAtTime "2019-07-08T14:35:51.463Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.843Z" ;
+    prov:used repr:Cell83Execution2Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell84Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell84 ;
+    prov:used repr:Cell84Execution0Source .
+
+repr:Cell85Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell85 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell85Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell85Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell85Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell85 ;
+    prov:endedAtTime "2019-07-08T14:35:51.465Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.844Z" ;
+    prov:used repr:Cell85Execution1Source ;
+    repr:executionTime "-379ms" .
+
+repr:Cell85Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell85 ;
+    prov:endedAtTime "2019-07-08T14:35:51.465Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.845Z" ;
+    prov:used repr:Cell85Execution2Source ;
+    repr:executionTime "-380ms" .
+
+repr:Cell86Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell86 ;
+    prov:used repr:Cell86Execution0Source .
+
+repr:Cell87Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell87 ;
+    prov:used repr:Cell87Execution0Source .
+
+repr:Cell88Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell88 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell88Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell88Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell88Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell88 ;
+    prov:endedAtTime "2019-07-08T14:35:51.473Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.847Z" ;
+    prov:used repr:Cell88Execution1Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell88Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell88 ;
+    prov:endedAtTime "2019-07-08T14:35:51.473Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.847Z" ;
+    prov:used repr:Cell88Execution2Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell89Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell89 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell89Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell89Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell89Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell89 ;
+    prov:endedAtTime "2019-07-08T14:35:51.475Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.849Z" ;
+    prov:used repr:Cell89Execution1Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell89Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell89 ;
+    prov:endedAtTime "2019-07-08T14:35:51.475Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.849Z" ;
+    prov:used repr:Cell89Execution2Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell8Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell8Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell8Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell8Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2019-07-08T14:35:50.984Z" ;
+    prov:generated repr:Cell8Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.970Z" ;
+    prov:used repr:Cell8Execution1Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell8Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2019-07-08T14:35:50.984Z" ;
+    prov:generated repr:Cell8Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:35:50.970Z" ;
+    prov:used repr:Cell8Execution2Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell90Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell90 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell90Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell90Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell90Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell90 ;
+    prov:endedAtTime "2019-07-08T14:35:51.477Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.851Z" ;
+    prov:used repr:Cell90Execution1Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell90Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell90 ;
+    prov:endedAtTime "2019-07-08T14:35:51.477Z" ;
+    prov:startedAtTime "2019-07-08T14:35:51.851Z" ;
+    prov:used repr:Cell90Execution2Source ;
+    repr:executionTime "-374ms" .
+
+repr:Cell91Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell91 ;
+    prov:used repr:Cell91Execution0Source .
+
+repr:Cell92Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell92 ;
+    prov:used repr:Cell92Execution0Source .
+
+repr:Cell93Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell93 ;
+    prov:used repr:Cell93Execution0Source .
+
+repr:Cell94Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell94 ;
+    prov:used repr:Cell94Execution0Source .
+
+repr:Cell95Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell95 ;
+    prov:used repr:Cell95Execution0Source .
+
+repr:Cell9Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell9 ;
+    prov:used repr:Cell9Execution0Source .
+
+repr:Cell0 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source0 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 0 .
+
+repr:Cell0Execution0Source rdf:value """# CS1001.py
+## Extended Introduction to Computer Science with Python, Tel-Aviv University, Spring 2013
+# Recitation 1 - 28.2-4.3.2013
+## Last update: 28.2.2013""" .
+
+repr:Cell1 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source1 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 1 .
+
+repr:Cell10Execution0Output0 rdf:value """5.0 <class 'float'>
+2200000.0 <class 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell10Execution0Source rdf:value """x=5.0
+y=-3.2
+z=2.2e6
+print(x, type(x))
+print(z, type(z))""" .
+
+repr:Cell10Execution1Output0 rdf:value """(5.0, <type 'float'>)
+(2200000.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell10Execution1Source rdf:value """x=5.0
+y=-3.2
+z=2.2e6
+print(x, type(x))
+print(z, type(z))""" .
+
+repr:Cell10Execution2Output0 rdf:value """(5.0, <type 'float'>)
+(2200000.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell10Execution2Source rdf:value """x=5.0
+y=-3.2
+z=2.2e6
+print(x, type(x))
+print(z, type(z))""" .
+
+repr:Cell11 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source11 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 11 .
+
+repr:Cell11Execution0Source rdf:value "* str - character strings, text: \"intro2CS\", 'python'" .
+
+repr:Cell12Execution0Output0 rdf:value """CS1001.py <class 'str'>
+I love python <class 'str'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell12Execution0Source rdf:value """x = "CS1001.py"
+y = 'I love python'
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell12Execution1Output0 rdf:value """('CS1001.py', <type 'str'>)
+('I love python', <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell12Execution1Source rdf:value """x = "CS1001.py"
+y = 'I love python'
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell12Execution2Output0 rdf:value """('CS1001.py', <type 'str'>)
+('I love python', <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell12Execution2Source rdf:value """x = "CS1001.py"
+y = 'I love python'
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell13Execution0Output0 rdf:value """<class 'int'> <class 'float'> <class 'str'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell13Execution0Source rdf:value "print(type(4), type(4.0), type(\"4\"))" .
+
+repr:Cell13Execution1Output0 rdf:value """(<type 'int'>, <type 'float'>, <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell13Execution1Source rdf:value "print(type(4), type(4.0), type(\"4\"))" .
+
+repr:Cell13Execution2Output0 rdf:value """(<type 'int'>, <type 'float'>, <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell13Execution2Source rdf:value "print(type(4), type(4.0), type(\"4\"))" .
+
+repr:Cell14 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source14 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 14 .
+
+repr:Cell14Execution0Source rdf:value "* bool - boolean values: True and False" .
+
+repr:Cell15Execution0Output0 rdf:value """True <class 'bool'>
+False <class 'bool'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell15Execution0Source rdf:value """i_love_python = True
+python_loves_me = False
+print(i_love_python, type(i_love_python))
+print(python_loves_me, type(python_loves_me))""" .
+
+repr:Cell15Execution1Output0 rdf:value """(True, <type 'bool'>)
+(False, <type 'bool'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell15Execution1Source rdf:value """i_love_python = True
+python_loves_me = False
+print(i_love_python, type(i_love_python))
+print(python_loves_me, type(python_loves_me))""" .
+
+repr:Cell15Execution2Output0 rdf:value """(True, <type 'bool'>)
+(False, <type 'bool'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell15Execution2Source rdf:value """i_love_python = True
+python_loves_me = False
+print(i_love_python, type(i_love_python))
+print(python_loves_me, type(python_loves_me))""" .
+
+repr:Cell16 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source16 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 16 .
+
+repr:Cell16Execution0Source rdf:value "## Operators" .
+
+repr:Cell17 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source17 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 17 .
+
+repr:Cell17Execution0Source rdf:value "### Mathematical operators" .
+
+repr:Cell18 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source18 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 18 .
+
+repr:Cell18Execution0Source rdf:value "Addition:" .
+
+repr:Cell19Execution0Output0 repr:hasSubOutput repr:Cell19Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell19Execution0Source rdf:value "4 + 5" .
+
+repr:Cell19Execution0Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell19Execution1Output0 repr:hasSubOutput repr:Cell19Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell19Execution1Source rdf:value "4 + 5" .
+
+repr:Cell19Execution1Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell19Execution2Output0 repr:hasSubOutput repr:Cell19Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell19Execution2Source rdf:value "4 + 5" .
+
+repr:Cell19Execution2Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell1Execution0Source rdf:value """## Python general comments
+
+1. Course site at <http://tau-cs1001-py.wikidot.com>
+1. Programming language -> Interpreter -> Machine language
+1. IDLE (editor + interpreter), see site for installation instructions
+1. Interactive mode vs. Script mode
+1. Python version 3.2""" .
+
+repr:Cell2 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source2 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 2 .
+
+repr:Cell20Execution0Output0 repr:hasSubOutput repr:Cell20Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell20Execution0Source rdf:value """x = 5
+4 + x""" .
+
+repr:Cell20Execution0Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell20Execution1Output0 repr:hasSubOutput repr:Cell20Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell20Execution1Source rdf:value """x = 5
+4 + x""" .
+
+repr:Cell20Execution1Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell20Execution2Output0 repr:hasSubOutput repr:Cell20Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell20Execution2Source rdf:value """x = 5
+4 + x""" .
+
+repr:Cell20Execution2Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell21Execution0Output0 rdf:value """9.0 <class 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell21Execution0Source rdf:value """x = 4.0 + 5
+print(x, type(x))""" .
+
+repr:Cell21Execution1Output0 rdf:value """(9.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell21Execution1Source rdf:value """x = 4.0 + 5
+print(x, type(x))""" .
+
+repr:Cell21Execution2Output0 rdf:value """(9.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell21Execution2Source rdf:value """x = 4.0 + 5
+print(x, type(x))""" .
+
+repr:Cell22 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source22 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 22 .
+
+repr:Cell22Execution0Source rdf:value "Subtraction:" .
+
+repr:Cell23Execution0Output0 repr:hasSubOutput repr:Cell23Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell23Execution0Source rdf:value "x - 3" .
+
+repr:Cell23Execution0Suboutput0 rdf:value "6.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell23Execution1Output0 repr:hasSubOutput repr:Cell23Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell23Execution1Source rdf:value "x - 3" .
+
+repr:Cell23Execution1Suboutput0 rdf:value "6.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell23Execution2Output0 repr:hasSubOutput repr:Cell23Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell23Execution2Source rdf:value "x - 3" .
+
+repr:Cell23Execution2Suboutput0 rdf:value "6.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell24 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source24 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 24 .
+
+repr:Cell24Execution0Source rdf:value "Multiplication:" .
+
+repr:Cell25Execution0Output0 repr:hasSubOutput repr:Cell25Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell25Execution0Source rdf:value "x * 3" .
+
+repr:Cell25Execution0Suboutput0 rdf:value "27.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell25Execution1Output0 repr:hasSubOutput repr:Cell25Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell25Execution1Source rdf:value "x * 3" .
+
+repr:Cell25Execution1Suboutput0 rdf:value "27.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell25Execution2Output0 repr:hasSubOutput repr:Cell25Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell25Execution2Source rdf:value "x * 3" .
+
+repr:Cell25Execution2Suboutput0 rdf:value "27.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell26 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source26 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 26 .
+
+repr:Cell26Execution0Source rdf:value "Division - float and integral with / and //:" .
+
+repr:Cell27Execution0Output0 repr:hasSubOutput repr:Cell27Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell27Execution0Source rdf:value "10 / 3, 10 // 3" .
+
+repr:Cell27Execution0Suboutput0 rdf:value "(3.3333333333333335, 3)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell27Execution1Output0 repr:hasSubOutput repr:Cell27Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell27Execution1Source rdf:value "10 / 3, 10 // 3" .
+
+repr:Cell27Execution1Suboutput0 rdf:value "(3, 3)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell27Execution2Output0 repr:hasSubOutput repr:Cell27Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell27Execution2Source rdf:value "10 / 3, 10 // 3" .
+
+repr:Cell27Execution2Suboutput0 rdf:value "(3, 3)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell28 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source28 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 28 .
+
+repr:Cell28Execution0Source rdf:value "Power:" .
+
+repr:Cell29Execution0Output0 repr:hasSubOutput repr:Cell29Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell29Execution0Source rdf:value "2 ** 3, 2 ** 3.0, 3 ** 2" .
+
+repr:Cell29Execution0Suboutput0 rdf:value "(8, 8.0, 9)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell29Execution1Output0 repr:hasSubOutput repr:Cell29Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell29Execution1Source rdf:value "2 ** 3, 2 ** 3.0, 3 ** 2" .
+
+repr:Cell29Execution1Suboutput0 rdf:value "(8, 8.0, 9)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell29Execution2Output0 repr:hasSubOutput repr:Cell29Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell29Execution2Source rdf:value "2 ** 3, 2 ** 3.0, 3 ** 2" .
+
+repr:Cell29Execution2Suboutput0 rdf:value "(8, 8.0, 9)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell2Execution0Source rdf:value "* print function - prints a textual representation to the console" .
+
+repr:Cell30 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source30 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 30 .
+
+repr:Cell30Execution0Source rdf:value "Modolu:" .
+
+repr:Cell31Execution0Output0 repr:hasSubOutput repr:Cell31Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell31Execution0Source rdf:value "10 % 3" .
+
+repr:Cell31Execution0Suboutput0 rdf:value "1" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell31Execution1Output0 repr:hasSubOutput repr:Cell31Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell31Execution1Source rdf:value "10 % 3" .
+
+repr:Cell31Execution1Suboutput0 rdf:value "1" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell31Execution2Output0 repr:hasSubOutput repr:Cell31Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell31Execution2Source rdf:value "10 % 3" .
+
+repr:Cell31Execution2Suboutput0 rdf:value "1" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell32 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source32 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 32 .
+
+repr:Cell32Execution0Source rdf:value "### String operators" .
+
+repr:Cell33 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source33 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 33 .
+
+repr:Cell33Execution0Source rdf:value "String concatenation using +:" .
+
+repr:Cell34Execution0Output0 repr:hasSubOutput repr:Cell34Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell34Execution0Source rdf:value "\"Hello\" + \" World\"" .
+
+repr:Cell34Execution0Suboutput0 rdf:value "'Hello World'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell34Execution1Output0 repr:hasSubOutput repr:Cell34Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell34Execution1Source rdf:value "\"Hello\" + \" World\"" .
+
+repr:Cell34Execution1Suboutput0 rdf:value "'Hello World'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell34Execution2Output0 repr:hasSubOutput repr:Cell34Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell34Execution2Source rdf:value "\"Hello\" + \" World\"" .
+
+repr:Cell34Execution2Suboutput0 rdf:value "'Hello World'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell35 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source35 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 35 .
+
+repr:Cell35Execution0Source rdf:value "String duplication using *:" .
+
+repr:Cell36Execution0Output0 repr:hasSubOutput repr:Cell36Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell36Execution0Source rdf:value "\"Bye\" * 2" .
+
+repr:Cell36Execution0Suboutput0 rdf:value "'ByeBye'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell36Execution1Output0 repr:hasSubOutput repr:Cell36Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell36Execution1Source rdf:value "\"Bye\" * 2" .
+
+repr:Cell36Execution1Suboutput0 rdf:value "'ByeBye'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell36Execution2Output0 repr:hasSubOutput repr:Cell36Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell36Execution2Source rdf:value "\"Bye\" * 2" .
+
+repr:Cell36Execution2Suboutput0 rdf:value "'ByeBye'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell37 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source37 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 37 .
+
+repr:Cell37Execution0Source rdf:value "Strings vs. numbers:" .
+
+repr:Cell38Execution0Output0 repr:hasSubOutput repr:Cell38Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell38Execution0Source rdf:value "4 + 5" .
+
+repr:Cell38Execution0Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell38Execution1Output0 repr:hasSubOutput repr:Cell38Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell38Execution1Source rdf:value "4 + 5" .
+
+repr:Cell38Execution1Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell38Execution2Output0 repr:hasSubOutput repr:Cell38Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell38Execution2Source rdf:value "4 + 5" .
+
+repr:Cell38Execution2Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell39Execution0Output0 repr:hasSubOutput repr:Cell39Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell39Execution0Source rdf:value "\"4\" + \"5\"" .
+
+repr:Cell39Execution0Suboutput0 rdf:value "'45'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell39Execution1Output0 repr:hasSubOutput repr:Cell39Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell39Execution1Source rdf:value "\"4\" + \"5\"" .
+
+repr:Cell39Execution1Suboutput0 rdf:value "'45'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell39Execution2Output0 repr:hasSubOutput repr:Cell39Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell39Execution2Source rdf:value "\"4\" + \"5\"" .
+
+repr:Cell39Execution2Suboutput0 rdf:value "'45'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell3Execution0Output0 rdf:value """Hello world!
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell3Execution0Source rdf:value "print(\"Hello world!\")" .
+
+repr:Cell3Execution1Output0 rdf:value """Hello world!
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell3Execution1Source rdf:value "print(\"Hello world!\")" .
+
+repr:Cell3Execution2Output0 rdf:value """Hello world!
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell3Execution2Source rdf:value "print(\"Hello world!\")" .
+
+repr:Cell40Execution0Output0 rdf:value "Can't convert 'int' object to str implicitly" ;
+    repr:hasType "error" .
+
+repr:Cell40Execution0Source rdf:value "\"4\" + 5" .
+
+repr:Cell40Execution1Output0 rdf:value "cannot concatenate 'str' and 'int' objects" ;
+    repr:hasType "error" .
+
+repr:Cell40Execution1Source rdf:value "\"4\" + 5" .
+
+repr:Cell40Execution2Output0 rdf:value "cannot concatenate 'str' and 'int' objects" ;
+    repr:hasType "error" .
+
+repr:Cell40Execution2Source rdf:value "\"4\" + 5" .
+
+repr:Cell41Execution0Output0 rdf:value "unsupported operand type(s) for +: 'int' and 'str'" ;
+    repr:hasType "error" .
+
+repr:Cell41Execution0Source rdf:value "4 + \"5\"" .
+
+repr:Cell41Execution1Source rdf:value "4 + \"5\"" .
+
+repr:Cell41Execution2Source rdf:value "4 + \"5\"" .
+
+repr:Cell42 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source42 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 42 .
+
+repr:Cell42Execution0Source rdf:value "### Comparisons" .
+
+repr:Cell43Execution0Output0 repr:hasSubOutput repr:Cell43Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell43Execution0Source rdf:value "5 < 4" .
+
+repr:Cell43Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell43Execution1Source rdf:value "5 < 4" .
+
+repr:Cell43Execution2Source rdf:value "5 < 4" .
+
+repr:Cell44Execution0Output0 repr:hasSubOutput repr:Cell44Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell44Execution0Source rdf:value "5 > 4" .
+
+repr:Cell44Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell44Execution1Source rdf:value "5 > 4" .
+
+repr:Cell44Execution2Source rdf:value "5 > 4" .
+
+repr:Cell45Execution0Output0 repr:hasSubOutput repr:Cell45Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell45Execution0Source rdf:value "5 >= 4" .
+
+repr:Cell45Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell45Execution1Source rdf:value "5 >= 4" .
+
+repr:Cell45Execution2Source rdf:value "5 >= 4" .
+
+repr:Cell46Execution0Output0 repr:hasSubOutput repr:Cell46Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell46Execution0Source rdf:value "4 >= 4" .
+
+repr:Cell46Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell46Execution1Source rdf:value "4 >= 4" .
+
+repr:Cell46Execution2Source rdf:value "4 >= 4" .
+
+repr:Cell47Execution0Output0 repr:hasSubOutput repr:Cell47Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell47Execution0Source rdf:value "4 <= 3" .
+
+repr:Cell47Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell47Execution1Source rdf:value "4 <= 3" .
+
+repr:Cell47Execution2Source rdf:value "4 <= 3" .
+
+repr:Cell48Execution0Output0 repr:hasSubOutput repr:Cell48Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell48Execution0Source rdf:value "5 == 4" .
+
+repr:Cell48Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell48Execution1Source rdf:value "5 == 4" .
+
+repr:Cell48Execution2Source rdf:value "5 == 4" .
+
+repr:Cell49Execution0Output0 repr:hasSubOutput repr:Cell49Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell49Execution0Source rdf:value "5 == 5.0" .
+
+repr:Cell49Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell49Execution1Source rdf:value "5 == 5.0" .
+
+repr:Cell49Execution2Source rdf:value "5 == 5.0" .
+
+repr:Cell4Execution0Output0 rdf:value """Hello world!
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution0Source rdf:value "print(\"Hello\", \"world!\")" .
+
+repr:Cell4Execution1Output0 rdf:value """('Hello', 'world!')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution1Source rdf:value "print(\"Hello\", \"world!\")" .
+
+repr:Cell4Execution2Output0 rdf:value """('Hello', 'world!')
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution2Source rdf:value "print(\"Hello\", \"world!\")" .
+
+repr:Cell5 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source5 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 5 .
+
+repr:Cell50Execution0Output0 repr:hasSubOutput repr:Cell50Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell50Execution0Source rdf:value "5 == \"5\"" .
+
+repr:Cell50Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell50Execution1Source rdf:value "5 == \"5\"" .
+
+repr:Cell50Execution2Source rdf:value "5 == \"5\"" .
+
+repr:Cell51Execution0Output0 repr:hasSubOutput repr:Cell51Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell51Execution0Source rdf:value "5 != 4" .
+
+repr:Cell51Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell51Execution1Source rdf:value "5 != 4" .
+
+repr:Cell51Execution2Source rdf:value "5 != 4" .
+
+repr:Cell52Execution0Output0 repr:hasSubOutput repr:Cell52Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell52Execution0Source rdf:value "2 + 2 == 4" .
+
+repr:Cell52Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell52Execution1Source rdf:value "2 + 2 == 4" .
+
+repr:Cell52Execution2Source rdf:value "2 + 2 == 4" .
+
+repr:Cell53Execution0Output0 rdf:value "invalid syntax (<ipython-input-72-76c8f045e4cf>, line 1)" ;
+    repr:hasType "error" .
+
+repr:Cell53Execution0Source rdf:value "2 => 3" .
+
+repr:Cell53Execution1Source rdf:value "2 => 3" .
+
+repr:Cell53Execution2Source rdf:value "2 => 3" .
+
+repr:Cell54Execution0Output0 rdf:value """0.3333333333333333
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell54Execution0Output1 repr:hasSubOutput repr:Cell54Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell54Execution0Source rdf:value """x = 1 / 3 
+print(x)
+x == 0.3333333333333333""" .
+
+repr:Cell54Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell54Execution1Source rdf:value """x = 1 / 3 
+print(x)
+x == 0.3333333333333333""" .
+
+repr:Cell54Execution2Source rdf:value """x = 1 / 3 
+print(x)
+x == 0.3333333333333333""" .
+
+repr:Cell55 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source55 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 55 .
+
+repr:Cell55Execution0Source rdf:value "### Logical operators" .
+
+repr:Cell56 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source56 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 56 .
+
+repr:Cell56Execution0Source rdf:value "* not:" .
+
+repr:Cell57Execution0Output0 rdf:value """False
+True
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell57Execution0Source rdf:value """print(not True)
+a = 2 == 5
+print(not a)""" .
+
+repr:Cell57Execution1Source rdf:value """print(not True)
+a = 2 == 5
+print(not a)""" .
+
+repr:Cell57Execution2Source rdf:value """print(not True)
+a = 2 == 5
+print(not a)""" .
+
+repr:Cell58 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source58 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 58 .
+
+repr:Cell58Execution0Source rdf:value "* and:" .
+
+repr:Cell59Execution0Output0 repr:hasSubOutput repr:Cell59Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell59Execution0Source rdf:value "True and True" .
+
+repr:Cell59Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell59Execution1Source rdf:value "True and True" .
+
+repr:Cell59Execution2Source rdf:value "True and True" .
+
+repr:Cell5Execution0Source rdf:value "### Variables, types" .
+
+repr:Cell6 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source6 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 6 .
+
+repr:Cell60Execution0Output0 repr:hasSubOutput repr:Cell60Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell60Execution0Source rdf:value "True and False" .
+
+repr:Cell60Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell60Execution1Source rdf:value "True and False" .
+
+repr:Cell60Execution2Source rdf:value "True and False" .
+
+repr:Cell61Execution0Output0 repr:hasSubOutput repr:Cell61Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell61Execution0Source rdf:value "False and False" .
+
+repr:Cell61Execution0Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell61Execution1Source rdf:value "False and False" .
+
+repr:Cell61Execution2Source rdf:value "False and False" .
+
+repr:Cell62 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source62 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 62 .
+
+repr:Cell62Execution0Source rdf:value "* or:" .
+
+repr:Cell63Execution0Output0 repr:hasSubOutput repr:Cell63Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell63Execution0Source rdf:value "True or True" .
+
+repr:Cell63Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell63Execution1Source rdf:value "True or True" .
+
+repr:Cell63Execution2Source rdf:value "True or True" .
+
+repr:Cell64Execution0Output0 repr:hasSubOutput repr:Cell64Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell64Execution0Source rdf:value "True or False" .
+
+repr:Cell64Execution0Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell64Execution1Source rdf:value "True or False" .
+
+repr:Cell64Execution2Source rdf:value "True or False" .
+
+repr:Cell65 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source65 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 65 .
+
+repr:Cell65Execution0Source rdf:value "## Conversions" .
+
+repr:Cell66 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source66 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 66 .
+
+repr:Cell66Execution0Source rdf:value "Use the functions `int()`, `float()`, and `str()` to convert between types (we will talk about *functions* next time):" .
+
+repr:Cell67Execution0Output0 rdf:value """6 <class 'str'>
+6 <class 'int'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell67Execution0Source rdf:value """x = "6"
+print(x, type(x))
+x = int("6")
+print(x, type(x))""" .
+
+repr:Cell67Execution1Source rdf:value """x = "6"
+print(x, type(x))
+x = int("6")
+print(x, type(x))""" .
+
+repr:Cell67Execution2Source rdf:value """x = "6"
+print(x, type(x))
+x = int("6")
+print(x, type(x))""" .
+
+repr:Cell68Execution0Output0 repr:hasSubOutput repr:Cell68Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell68Execution0Source rdf:value "float(\"1.25\")" .
+
+repr:Cell68Execution0Suboutput0 rdf:value "1.25" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell68Execution1Source rdf:value "float(\"1.25\")" .
+
+repr:Cell68Execution2Source rdf:value "float(\"1.25\")" .
+
+repr:Cell69Execution0Output0 repr:hasSubOutput repr:Cell69Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell69Execution0Source rdf:value "str(4)" .
+
+repr:Cell69Execution0Suboutput0 rdf:value "'4'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell69Execution1Source rdf:value "str(4)" .
+
+repr:Cell69Execution2Source rdf:value "str(4)" .
+
+repr:Cell6Execution0Source rdf:value "* int - integers: ..., -3, -2, -1, 0, 1, 2, 3, ..." .
+
+repr:Cell70Execution0Output0 rdf:value "invalid literal for int() with base 10: 'a'" ;
+    repr:hasType "error" .
+
+repr:Cell70Execution0Source rdf:value "int(\"a\")" .
+
+repr:Cell70Execution1Source rdf:value "int(\"a\")" .
+
+repr:Cell70Execution2Source rdf:value "int(\"a\")" .
+
+repr:Cell71Execution0Output0 rdf:value """intro2cs
+intro2cs
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell71Execution0Source rdf:value """course = "intro" + str(2) + "cs"
+print(course)
+print("intro", 2, "cs", sep='')""" .
+
+repr:Cell71Execution1Source rdf:value """course = "intro" + str(2) + "cs"
+print(course)
+print("intro", 2, "cs", sep='')""" .
+
+repr:Cell71Execution2Source rdf:value """course = "intro" + str(2) + "cs"
+print(course)
+print("intro", 2, "cs", sep='')""" .
+
+repr:Cell72 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source72 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 72 .
+
+repr:Cell72Execution0Source rdf:value "## Flow control" .
+
+repr:Cell73 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source73 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 73 .
+
+repr:Cell73Execution0Source rdf:value "### Conditional statements" .
+
+repr:Cell74 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source74 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 74 .
+
+repr:Cell74Execution0Source rdf:value """The `if` condition formula - replace conditions and statements with meaningful code:
+
+    if *condition*:
+        *statement*
+        *statement*
+        ...
+    elif *condition*: # 0 or more elif clauses
+        *statement*
+        *statement*
+        ...    
+    else:             # optional
+        *statement*
+        *statement*
+
+Example:""" .
+
+repr:Cell75Execution0Output0 rdf:value """Go to recitation!
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell75Execution0Source rdf:value """today = "Monday"
+strike = "N"
+my_recitation = "Monday"
+
+if today == "Sunday":
+    print("Shvizut Yom Alef")
+    if strike == "Y":
+        print("Stay home")
+    else:
+        print("Lecture in intro to CS!")
+elif today == "Wednesday":
+    print("Another lecture in intro to CS!")
+elif today == my_recitation:
+    print("Go to recitation!")
+elif today == "Monday" or today == "Tuesday" or today == "Thursday" or \\
+                    today == "Friday" or today == "Saturday":
+    print("no intro to CS")
+else:
+    print("Not a day")""" .
+
+repr:Cell75Execution1Source rdf:value """today = "Monday"
+strike = "N"
+my_recitation = "Monday"
+
+if today == "Sunday":
+    print("Shvizut Yom Alef")
+    if strike == "Y":
+        print("Stay home")
+    else:
+        print("Lecture in intro to CS!")
+elif today == "Wednesday":
+    print("Another lecture in intro to CS!")
+elif today == my_recitation:
+    print("Go to recitation!")
+elif today == "Monday" or today == "Tuesday" or today == "Thursday" or \\
+                    today == "Friday" or today == "Saturday":
+    print("no intro to CS")
+else:
+    print("Not a day")""" .
+
+repr:Cell75Execution2Source rdf:value """today = "Monday"
+strike = "N"
+my_recitation = "Monday"
+
+if today == "Sunday":
+    print("Shvizut Yom Alef")
+    if strike == "Y":
+        print("Stay home")
+    else:
+        print("Lecture in intro to CS!")
+elif today == "Wednesday":
+    print("Another lecture in intro to CS!")
+elif today == my_recitation:
+    print("Go to recitation!")
+elif today == "Monday" or today == "Tuesday" or today == "Thursday" or \\
+                    today == "Friday" or today == "Saturday":
+    print("no intro to CS")
+else:
+    print("Not a day")""" .
+
+repr:Cell76 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source76 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 76 .
+
+repr:Cell76Execution0Source rdf:value "### Loops" .
+
+repr:Cell77 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source77 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 77 .
+
+repr:Cell77Execution0Source rdf:value "* While:" .
+
+repr:Cell78 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source78 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 78 .
+
+repr:Cell78Execution0Source rdf:value """    while *condition*:
+        *statement*
+        *statement*
+
+Example - count how many times 0 appears in an integer number:""" .
+
+repr:Cell79Execution0Output0 rdf:value """1267650600228229401496703205376
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell79Execution0Source rdf:value """num = 2**100
+print(num)""" .
+
+repr:Cell79Execution1Source rdf:value """num = 2**100
+print(num)""" .
+
+repr:Cell79Execution2Source rdf:value """num = 2**100
+print(num)""" .
+
+repr:Cell7Execution0Output0 rdf:value """5 <class 'int'>
+-3 <class 'int'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell7Execution0Source rdf:value """x=5
+y=-3
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell7Execution1Output0 rdf:value """(5, <type 'int'>)
+(-3, <type 'int'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell7Execution1Source rdf:value """x=5
+y=-3
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell7Execution2Output0 rdf:value """(5, <type 'int'>)
+(-3, <type 'int'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell7Execution2Source rdf:value """x=5
+y=-3
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Cell80Execution0Output0 rdf:value """6
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell80Execution0Source rdf:value """count = 0
+
+while num > 0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10
+
+print(count)""" .
+
+repr:Cell80Execution1Source rdf:value """count = 0
+
+while num > 0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10
+
+print(count)""" .
+
+repr:Cell80Execution2Source rdf:value """count = 0
+
+while num > 0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10
+
+print(count)""" .
+
+repr:Cell81 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source81 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 81 .
+
+repr:Cell81Execution0Source rdf:value "* For:" .
+
+repr:Cell82 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source82 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 82 .
+
+repr:Cell82Execution0Source rdf:value """    for *variable* in *iterable*:
+        *statement*
+        *statement*
+
+Example - solve the same problem with a `str` type instead of `int`:""" .
+
+repr:Cell83Execution0Output0 rdf:value """6
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell83Execution0Source rdf:value """num = 2**100
+count = 0
+for digit in str(num):
+    #print(digit, type(digit))
+    if digit == "0":
+        count = count + 1
+
+print(count)""" .
+
+repr:Cell83Execution1Source rdf:value """num = 2**100
+count = 0
+for digit in str(num):
+    #print(digit, type(digit))
+    if digit == "0":
+        count = count + 1
+
+print(count)""" .
+
+repr:Cell83Execution2Source rdf:value """num = 2**100
+count = 0
+for digit in str(num):
+    #print(digit, type(digit))
+    if digit == "0":
+        count = count + 1
+
+print(count)""" .
+
+repr:Cell84 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source84 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 84 .
+
+repr:Cell84Execution0Source rdf:value "Builtin solution:" .
+
+repr:Cell85Execution0Output0 rdf:value """6
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell85Execution0Source rdf:value """num = 2**100
+count = str.count(str(num), "0")
+
+print(count)""" .
+
+repr:Cell85Execution1Source rdf:value """num = 2**100
+count = str.count(str(num), "0")
+
+print(count)""" .
+
+repr:Cell85Execution2Source rdf:value """num = 2**100
+count = str.count(str(num), "0")
+
+print(count)""" .
+
+repr:Cell86 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source86 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 86 .
+
+repr:Cell86Execution0Source rdf:value "### Efficiency" .
+
+repr:Cell87 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source87 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 87 .
+
+repr:Cell87Execution0Source rdf:value "We can measure which solution is faster:" .
+
+repr:Cell88Execution0Output0 rdf:value """10000 loops, best of 3: 37.4 us per loop
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell88Execution0Source rdf:value """%%timeit
+num = 2**100
+count = 0
+while num>0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10""" .
+
+repr:Cell88Execution1Source rdf:value """%%timeit
+num = 2**100
+count = 0
+while num>0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10""" .
+
+repr:Cell88Execution2Source rdf:value """%%timeit
+num = 2**100
+count = 0
+while num>0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10""" .
+
+repr:Cell89Execution0Output0 rdf:value """100000 loops, best of 3: 8.76 us per loop
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell89Execution0Source rdf:value """%%timeit 
+num = 2**100
+count = 0
+for digit in str(num):
+    if digit == "0":
+        count = count + 1""" .
+
+repr:Cell89Execution1Source rdf:value """%%timeit 
+num = 2**100
+count = 0
+for digit in str(num):
+    if digit == "0":
+        count = count + 1""" .
+
+repr:Cell89Execution2Source rdf:value """%%timeit 
+num = 2**100
+count = 0
+for digit in str(num):
+    if digit == "0":
+        count = count + 1""" .
+
+repr:Cell8Execution0Output0 rdf:value """<class 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution0Source rdf:value """x = 5.5
+print(type(x))""" .
+
+repr:Cell8Execution1Output0 rdf:value """<type 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution1Source rdf:value """x = 5.5
+print(type(x))""" .
+
+repr:Cell8Execution2Output0 rdf:value """<type 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution2Source rdf:value """x = 5.5
+print(type(x))""" .
+
+repr:Cell9 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source9 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 9 .
+
+repr:Cell90Execution0Output0 rdf:value """100000 loops, best of 3: 2.82 us per loop
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell90Execution0Source rdf:value """%%timeit 
+num = 2**100
+count = str.count(str(num), "0")""" .
+
+repr:Cell90Execution1Source rdf:value """%%timeit 
+num = 2**100
+count = str.count(str(num), "0")""" .
+
+repr:Cell90Execution2Source rdf:value """%%timeit 
+num = 2**100
+count = str.count(str(num), "0")""" .
+
+repr:Cell91 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source91 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 91 .
+
+repr:Cell91Execution0Source rdf:value "The builtin solution is 4 times faster than the `for` solution which is 3 times faster than the `while` solution." .
+
+repr:Cell92 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source92 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 92 .
+
+repr:Cell92Execution0Source rdf:value "### Other notes" .
+
+repr:Cell93 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source93 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 93 .
+
+repr:Cell93Execution0Source rdf:value """* The `while` solution will not work for `num <= 0`
+* The `while` solution will not work for non-numerals (e.g, `num = "Cola 0 is awesome!"`)
+* The builtin solution is implemented with C and that is why it is faster""" .
+
+repr:Cell94 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source94 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 94 .
+
+repr:Cell94Execution0Source rdf:value "## Fin" .
+
+repr:Cell95 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source95 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 95 .
+
+repr:Cell95Execution0Source rdf:value """This notebook is part of the [Extended introduction to computer science](http://tau-cs1001-py.wikidot.com/) course at Tel-Aviv University.
+
+The notebook was written using Python 3.2 and IPython 0.13.1.
+
+The code is available at <https://raw.github.com/yoavram/CS1001.py/master/recitation1.ipynb>.
+
+The notebook can be viewed online at <http://nbviewer.ipython.org/urls/raw.github.com/yoavram/CS1001.py/master/recitation1.ipynb>.
+
+The notebooks is also available as a PDF at <https://github.com/yoavram/CS1001.py/blob/master/recitation1.pdf?raw=true>.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).""" .
+
+repr:Cell9Execution0Source rdf:value "* float - floating point numbers, decimal point fractions: -3.2, 1.5, 1e-8, 3.2e5" .
+
+repr:Output10 a p-plan:Variable ;
+    rdf:value """(5.0, <type 'float'>)
+(2200000.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output12 a p-plan:Variable ;
+    rdf:value """('CS1001.py', <type 'str'>)
+('I love python', <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output13 a p-plan:Variable ;
+    rdf:value """(<type 'int'>, <type 'float'>, <type 'str'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output15 a p-plan:Variable ;
+    rdf:value """(True, <type 'bool'>)
+(False, <type 'bool'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output19 a p-plan:Variable ;
+    repr:hasExecutionCount 9 ;
+    repr:hasSubOutput repr:Output19Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output19Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output20 a p-plan:Variable ;
+    repr:hasExecutionCount 10 ;
+    repr:hasSubOutput repr:Output20Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output20Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output21 a p-plan:Variable ;
+    rdf:value """(9.0, <type 'float'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output23 a p-plan:Variable ;
+    repr:hasExecutionCount 12 ;
+    repr:hasSubOutput repr:Output23Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output23Suboutput0 rdf:value "6.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output25 a p-plan:Variable ;
+    repr:hasExecutionCount 13 ;
+    repr:hasSubOutput repr:Output25Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output25Suboutput0 rdf:value "27.0" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output27 a p-plan:Variable ;
+    repr:hasExecutionCount 14 ;
+    repr:hasSubOutput repr:Output27Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output27Suboutput0 rdf:value "(3, 3)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output29 a p-plan:Variable ;
+    repr:hasExecutionCount 15 ;
+    repr:hasSubOutput repr:Output29Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output29Suboutput0 rdf:value "(8, 8.0, 9)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output3 a p-plan:Variable ;
+    rdf:value """Hello world!
+""" ;
+    repr:hasType "stream" .
+
+repr:Output31 a p-plan:Variable ;
+    repr:hasExecutionCount 16 ;
+    repr:hasSubOutput repr:Output31Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output31Suboutput0 rdf:value "1" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output34 a p-plan:Variable ;
+    repr:hasExecutionCount 17 ;
+    repr:hasSubOutput repr:Output34Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output34Suboutput0 rdf:value "'Hello World'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output36 a p-plan:Variable ;
+    repr:hasExecutionCount 18 ;
+    repr:hasSubOutput repr:Output36Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output36Suboutput0 rdf:value "'ByeBye'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output38 a p-plan:Variable ;
+    repr:hasExecutionCount 19 ;
+    repr:hasSubOutput repr:Output38Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output38Suboutput0 rdf:value "9" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output39 a p-plan:Variable ;
+    repr:hasExecutionCount 20 ;
+    repr:hasSubOutput repr:Output39Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output39Suboutput0 rdf:value "'45'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output4 a p-plan:Variable ;
+    rdf:value """('Hello', 'world!')
+""" ;
+    repr:hasType "stream" .
+
+repr:Output40 a p-plan:Variable ;
+    rdf:value "cannot concatenate 'str' and 'int' objects" ;
+    repr:hasErrorName "TypeError" ;
+    repr:hasErrorTraceback "[u'\\x1b[0;31m---------------------------------------------------------------------------\\x1b[0m', u'\\x1b[0;31mTypeError\\x1b[0m                                 Traceback (most recent call last)', u'\\x1b[0;32m<ipython-input-21-42fa82f3c420>\\x1b[0m in \\x1b[0;36m<module>\\x1b[0;34m()\\x1b[0m\\n\\x1b[0;32m----> 1\\x1b[0;31m \\x1b[0;34m\"4\"\\x1b[0m \\x1b[0;34m+\\x1b[0m \\x1b[0;36m5\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0m', u\"\\x1b[0;31mTypeError\\x1b[0m: cannot concatenate 'str' and 'int' objects\"]" ;
+    repr:hasType "error" .
+
+repr:Output7 a p-plan:Variable ;
+    rdf:value """(5, <type 'int'>)
+(-3, <type 'int'>)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output8 a p-plan:Variable ;
+    rdf:value """<type 'float'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Source0 a p-plan:Variable ;
+    rdf:value """# CS1001.py
+## Extended Introduction to Computer Science with Python, Tel-Aviv University, Spring 2013
+# Recitation 1 - 28.2-4.3.2013
+## Last update: 28.2.2013""" .
+
+repr:Source1 a p-plan:Variable ;
+    rdf:value """## Python general comments
+
+1. Course site at <http://tau-cs1001-py.wikidot.com>
+1. Programming language -> Interpreter -> Machine language
+1. IDLE (editor + interpreter), see site for installation instructions
+1. Interactive mode vs. Script mode
+1. Python version 3.2""" .
+
+repr:Source10 a p-plan:Variable ;
+    rdf:value """x=5.0
+y=-3.2
+z=2.2e6
+print(x, type(x))
+print(z, type(z))""" .
+
+repr:Source11 a p-plan:Variable ;
+    rdf:value "* str - character strings, text: \"intro2CS\", 'python'" .
+
+repr:Source12 a p-plan:Variable ;
+    rdf:value """x = "CS1001.py"
+y = 'I love python'
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Source13 a p-plan:Variable ;
+    rdf:value "print(type(4), type(4.0), type(\"4\"))" .
+
+repr:Source14 a p-plan:Variable ;
+    rdf:value "* bool - boolean values: True and False" .
+
+repr:Source15 a p-plan:Variable ;
+    rdf:value """i_love_python = True
+python_loves_me = False
+print(i_love_python, type(i_love_python))
+print(python_loves_me, type(python_loves_me))""" .
+
+repr:Source16 a p-plan:Variable ;
+    rdf:value "## Operators" .
+
+repr:Source17 a p-plan:Variable ;
+    rdf:value "### Mathematical operators" .
+
+repr:Source18 a p-plan:Variable ;
+    rdf:value "Addition:" .
+
+repr:Source19 a p-plan:Variable ;
+    rdf:value "4 + 5" .
+
+repr:Source2 a p-plan:Variable ;
+    rdf:value "* print function - prints a textual representation to the console" .
+
+repr:Source20 a p-plan:Variable ;
+    rdf:value """x = 5
+4 + x""" .
+
+repr:Source21 a p-plan:Variable ;
+    rdf:value """x = 4.0 + 5
+print(x, type(x))""" .
+
+repr:Source22 a p-plan:Variable ;
+    rdf:value "Subtraction:" .
+
+repr:Source23 a p-plan:Variable ;
+    rdf:value "x - 3" .
+
+repr:Source24 a p-plan:Variable ;
+    rdf:value "Multiplication:" .
+
+repr:Source25 a p-plan:Variable ;
+    rdf:value "x * 3" .
+
+repr:Source26 a p-plan:Variable ;
+    rdf:value "Division - float and integral with / and //:" .
+
+repr:Source27 a p-plan:Variable ;
+    rdf:value "10 / 3, 10 // 3" .
+
+repr:Source28 a p-plan:Variable ;
+    rdf:value "Power:" .
+
+repr:Source29 a p-plan:Variable ;
+    rdf:value "2 ** 3, 2 ** 3.0, 3 ** 2" .
+
+repr:Source3 a p-plan:Variable ;
+    rdf:value "print(\"Hello world!\")" .
+
+repr:Source30 a p-plan:Variable ;
+    rdf:value "Modolu:" .
+
+repr:Source31 a p-plan:Variable ;
+    rdf:value "10 % 3" .
+
+repr:Source32 a p-plan:Variable ;
+    rdf:value "### String operators" .
+
+repr:Source33 a p-plan:Variable ;
+    rdf:value "String concatenation using +:" .
+
+repr:Source34 a p-plan:Variable ;
+    rdf:value "\"Hello\" + \" World\"" .
+
+repr:Source35 a p-plan:Variable ;
+    rdf:value "String duplication using *:" .
+
+repr:Source36 a p-plan:Variable ;
+    rdf:value "\"Bye\" * 2" .
+
+repr:Source37 a p-plan:Variable ;
+    rdf:value "Strings vs. numbers:" .
+
+repr:Source38 a p-plan:Variable ;
+    rdf:value "4 + 5" .
+
+repr:Source39 a p-plan:Variable ;
+    rdf:value "\"4\" + \"5\"" .
+
+repr:Source4 a p-plan:Variable ;
+    rdf:value "print(\"Hello\", \"world!\")" .
+
+repr:Source40 a p-plan:Variable ;
+    rdf:value "\"4\" + 5" .
+
+repr:Source41 a p-plan:Variable ;
+    rdf:value "4 + \"5\"" .
+
+repr:Source42 a p-plan:Variable ;
+    rdf:value "### Comparisons" .
+
+repr:Source43 a p-plan:Variable ;
+    rdf:value "5 < 4" .
+
+repr:Source44 a p-plan:Variable ;
+    rdf:value "5 > 4" .
+
+repr:Source45 a p-plan:Variable ;
+    rdf:value "5 >= 4" .
+
+repr:Source46 a p-plan:Variable ;
+    rdf:value "4 >= 4" .
+
+repr:Source47 a p-plan:Variable ;
+    rdf:value "4 <= 3" .
+
+repr:Source48 a p-plan:Variable ;
+    rdf:value "5 == 4" .
+
+repr:Source49 a p-plan:Variable ;
+    rdf:value "5 == 5.0" .
+
+repr:Source5 a p-plan:Variable ;
+    rdf:value "### Variables, types" .
+
+repr:Source50 a p-plan:Variable ;
+    rdf:value "5 == \"5\"" .
+
+repr:Source51 a p-plan:Variable ;
+    rdf:value "5 != 4" .
+
+repr:Source52 a p-plan:Variable ;
+    rdf:value "2 + 2 == 4" .
+
+repr:Source53 a p-plan:Variable ;
+    rdf:value "2 => 3" .
+
+repr:Source54 a p-plan:Variable ;
+    rdf:value """x = 1 / 3 
+print(x)
+x == 0.3333333333333333""" .
+
+repr:Source55 a p-plan:Variable ;
+    rdf:value "### Logical operators" .
+
+repr:Source56 a p-plan:Variable ;
+    rdf:value "* not:" .
+
+repr:Source57 a p-plan:Variable ;
+    rdf:value """print(not True)
+a = 2 == 5
+print(not a)""" .
+
+repr:Source58 a p-plan:Variable ;
+    rdf:value "* and:" .
+
+repr:Source59 a p-plan:Variable ;
+    rdf:value "True and True" .
+
+repr:Source6 a p-plan:Variable ;
+    rdf:value "* int - integers: ..., -3, -2, -1, 0, 1, 2, 3, ..." .
+
+repr:Source60 a p-plan:Variable ;
+    rdf:value "True and False" .
+
+repr:Source61 a p-plan:Variable ;
+    rdf:value "False and False" .
+
+repr:Source62 a p-plan:Variable ;
+    rdf:value "* or:" .
+
+repr:Source63 a p-plan:Variable ;
+    rdf:value "True or True" .
+
+repr:Source64 a p-plan:Variable ;
+    rdf:value "True or False" .
+
+repr:Source65 a p-plan:Variable ;
+    rdf:value "## Conversions" .
+
+repr:Source66 a p-plan:Variable ;
+    rdf:value "Use the functions `int()`, `float()`, and `str()` to convert between types (we will talk about *functions* next time):" .
+
+repr:Source67 a p-plan:Variable ;
+    rdf:value """x = "6"
+print(x, type(x))
+x = int("6")
+print(x, type(x))""" .
+
+repr:Source68 a p-plan:Variable ;
+    rdf:value "float(\"1.25\")" .
+
+repr:Source69 a p-plan:Variable ;
+    rdf:value "str(4)" .
+
+repr:Source7 a p-plan:Variable ;
+    rdf:value """x=5
+y=-3
+print(x, type(x))
+print(y, type(y))""" .
+
+repr:Source70 a p-plan:Variable ;
+    rdf:value "int(\"a\")" .
+
+repr:Source71 a p-plan:Variable ;
+    rdf:value """course = "intro" + str(2) + "cs"
+print(course)
+print("intro", 2, "cs", sep='')""" .
+
+repr:Source72 a p-plan:Variable ;
+    rdf:value "## Flow control" .
+
+repr:Source73 a p-plan:Variable ;
+    rdf:value "### Conditional statements" .
+
+repr:Source74 a p-plan:Variable ;
+    rdf:value """The `if` condition formula - replace conditions and statements with meaningful code:
+
+    if *condition*:
+        *statement*
+        *statement*
+        ...
+    elif *condition*: # 0 or more elif clauses
+        *statement*
+        *statement*
+        ...    
+    else:             # optional
+        *statement*
+        *statement*
+
+Example:""" .
+
+repr:Source75 a p-plan:Variable ;
+    rdf:value """today = "Monday"
+strike = "N"
+my_recitation = "Monday"
+
+if today == "Sunday":
+    print("Shvizut Yom Alef")
+    if strike == "Y":
+        print("Stay home")
+    else:
+        print("Lecture in intro to CS!")
+elif today == "Wednesday":
+    print("Another lecture in intro to CS!")
+elif today == my_recitation:
+    print("Go to recitation!")
+elif today == "Monday" or today == "Tuesday" or today == "Thursday" or \\
+                    today == "Friday" or today == "Saturday":
+    print("no intro to CS")
+else:
+    print("Not a day")""" .
+
+repr:Source76 a p-plan:Variable ;
+    rdf:value "### Loops" .
+
+repr:Source77 a p-plan:Variable ;
+    rdf:value "* While:" .
+
+repr:Source78 a p-plan:Variable ;
+    rdf:value """    while *condition*:
+        *statement*
+        *statement*
+
+Example - count how many times 0 appears in an integer number:""" .
+
+repr:Source79 a p-plan:Variable ;
+    rdf:value """num = 2**100
+print(num)""" .
+
+repr:Source8 a p-plan:Variable ;
+    rdf:value """x = 5.5
+print(type(x))""" .
+
+repr:Source80 a p-plan:Variable ;
+    rdf:value """count = 0
+
+while num > 0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10
+
+print(count)""" .
+
+repr:Source81 a p-plan:Variable ;
+    rdf:value "* For:" .
+
+repr:Source82 a p-plan:Variable ;
+    rdf:value """    for *variable* in *iterable*:
+        *statement*
+        *statement*
+
+Example - solve the same problem with a `str` type instead of `int`:""" .
+
+repr:Source83 a p-plan:Variable ;
+    rdf:value """num = 2**100
+count = 0
+for digit in str(num):
+    #print(digit, type(digit))
+    if digit == "0":
+        count = count + 1
+
+print(count)""" .
+
+repr:Source84 a p-plan:Variable ;
+    rdf:value "Builtin solution:" .
+
+repr:Source85 a p-plan:Variable ;
+    rdf:value """num = 2**100
+count = str.count(str(num), "0")
+
+print(count)""" .
+
+repr:Source86 a p-plan:Variable ;
+    rdf:value "### Efficiency" .
+
+repr:Source87 a p-plan:Variable ;
+    rdf:value "We can measure which solution is faster:" .
+
+repr:Source88 a p-plan:Variable ;
+    rdf:value """%%timeit
+num = 2**100
+count = 0
+while num>0:   #what if we changed to >=0?
+    if num % 10 == 0:
+        count = count + 1
+    num = num // 10""" .
+
+repr:Source89 a p-plan:Variable ;
+    rdf:value """%%timeit 
+num = 2**100
+count = 0
+for digit in str(num):
+    if digit == "0":
+        count = count + 1""" .
+
+repr:Source9 a p-plan:Variable ;
+    rdf:value "* float - floating point numbers, decimal point fractions: -3.2, 1.5, 1e-8, 3.2e5" .
+
+repr:Source90 a p-plan:Variable ;
+    rdf:value """%%timeit 
+num = 2**100
+count = str.count(str(num), "0")""" .
+
+repr:Source91 a p-plan:Variable ;
+    rdf:value "The builtin solution is 4 times faster than the `for` solution which is 3 times faster than the `while` solution." .
+
+repr:Source92 a p-plan:Variable ;
+    rdf:value "### Other notes" .
+
+repr:Source93 a p-plan:Variable ;
+    rdf:value """* The `while` solution will not work for `num <= 0`
+* The `while` solution will not work for non-numerals (e.g, `num = "Cola 0 is awesome!"`)
+* The builtin solution is implemented with C and that is why it is faster""" .
+
+repr:Source94 a p-plan:Variable ;
+    rdf:value "## Fin" .
+
+repr:Source95 a p-plan:Variable ;
+    rdf:value """This notebook is part of the [Extended introduction to computer science](http://tau-cs1001-py.wikidot.com/) course at Tel-Aviv University.
+
+The notebook was written using Python 3.2 and IPython 0.13.1.
+
+The code is available at <https://raw.github.com/yoavram/CS1001.py/master/recitation1.ipynb>.
+
+The notebook can be viewed online at <http://nbviewer.ipython.org/urls/raw.github.com/yoavram/CS1001.py/master/recitation1.ipynb>.
+
+The notebooks is also available as a PDF at <https://github.com/yoavram/CS1001.py/blob/master/recitation1.pdf?raw=true>.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).""" .
+
+repr:Cell40 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source40 ;
+    p-plan:hasOutputVar repr:Output40 ;
+    p-plan:isPreceededBy repr:Cell39 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 21 ;
+    repr:hasIndex 40 .
+
+repr:Cell41 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source41 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 41 .
+
+repr:Cell43 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source43 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 43 .
+
+repr:Cell44 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source44 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 44 .
+
+repr:Cell45 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source45 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 45 .
+
+repr:Cell46 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source46 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 46 .
+
+repr:Cell47 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source47 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 47 .
+
+repr:Cell48 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source48 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 48 .
+
+repr:Cell49 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source49 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 49 .
+
+repr:Cell50 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source50 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 50 .
+
+repr:Cell51 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source51 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 51 .
+
+repr:Cell52 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source52 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 52 .
+
+repr:Cell53 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source53 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 53 .
+
+repr:Cell54 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source54 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 54 .
+
+repr:Cell57 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source57 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 57 .
+
+repr:Cell59 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source59 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 59 .
+
+repr:Cell60 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source60 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 60 .
+
+repr:Cell61 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source61 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 61 .
+
+repr:Cell63 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source63 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 63 .
+
+repr:Cell64 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source64 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 64 .
+
+repr:Cell67 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source67 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 67 .
+
+repr:Cell68 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source68 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 68 .
+
+repr:Cell69 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source69 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 69 .
+
+repr:Cell70 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source70 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 70 .
+
+repr:Cell71 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source71 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 71 .
+
+repr:Cell75 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source75 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 75 .
+
+repr:Cell79 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source79 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 79 .
+
+repr:Cell80 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source80 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 80 .
+
+repr:Cell83 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source83 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 83 .
+
+repr:Cell85 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source85 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 85 .
+
+repr:Cell88 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source88 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 88 .
+
+repr:Cell89 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source89 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 89 .
+
+repr:Cell90 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source90 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 90 .
+
+repr:Cell10 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source10 ;
+    p-plan:hasOutputVar repr:Output10 ;
+    p-plan:isPreceededBy repr:Cell8 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 5 ;
+    repr:hasIndex 10 .
+
+repr:Cell12 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source12 ;
+    p-plan:hasOutputVar repr:Output12 ;
+    p-plan:isPreceededBy repr:Cell10 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 6 ;
+    repr:hasIndex 12 .
+
+repr:Cell13 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source13 ;
+    p-plan:hasOutputVar repr:Output13 ;
+    p-plan:isPreceededBy repr:Cell12 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 7 ;
+    repr:hasIndex 13 .
+
+repr:Cell15 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source15 ;
+    p-plan:hasOutputVar repr:Output15 ;
+    p-plan:isPreceededBy repr:Cell13 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 8 ;
+    repr:hasIndex 15 .
+
+repr:Cell19 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source19 ;
+    p-plan:hasOutputVar repr:Output19 ;
+    p-plan:isPreceededBy repr:Cell15 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 9 ;
+    repr:hasIndex 19 .
+
+repr:Cell20 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source20 ;
+    p-plan:hasOutputVar repr:Output20 ;
+    p-plan:isPreceededBy repr:Cell19 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 10 ;
+    repr:hasIndex 20 .
+
+repr:Cell21 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source21 ;
+    p-plan:hasOutputVar repr:Output21 ;
+    p-plan:isPreceededBy repr:Cell20 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 11 ;
+    repr:hasIndex 21 .
+
+repr:Cell23 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source23 ;
+    p-plan:hasOutputVar repr:Output23 ;
+    p-plan:isPreceededBy repr:Cell21 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 12 ;
+    repr:hasIndex 23 .
+
+repr:Cell25 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source25 ;
+    p-plan:hasOutputVar repr:Output25 ;
+    p-plan:isPreceededBy repr:Cell23 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 13 ;
+    repr:hasIndex 25 .
+
+repr:Cell27 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source27 ;
+    p-plan:hasOutputVar repr:Output27 ;
+    p-plan:isPreceededBy repr:Cell25 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 14 ;
+    repr:hasIndex 27 .
+
+repr:Cell29 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source29 ;
+    p-plan:hasOutputVar repr:Output29 ;
+    p-plan:isPreceededBy repr:Cell27 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 15 ;
+    repr:hasIndex 29 .
+
+repr:Cell3 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source3 ;
+    p-plan:hasOutputVar repr:Output3 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 1 ;
+    repr:hasIndex 3 .
+
+repr:Cell31 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source31 ;
+    p-plan:hasOutputVar repr:Output31 ;
+    p-plan:isPreceededBy repr:Cell29 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 16 ;
+    repr:hasIndex 31 .
+
+repr:Cell34 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source34 ;
+    p-plan:hasOutputVar repr:Output34 ;
+    p-plan:isPreceededBy repr:Cell31 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 17 ;
+    repr:hasIndex 34 .
+
+repr:Cell36 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source36 ;
+    p-plan:hasOutputVar repr:Output36 ;
+    p-plan:isPreceededBy repr:Cell34 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 18 ;
+    repr:hasIndex 36 .
+
+repr:Cell38 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source38 ;
+    p-plan:hasOutputVar repr:Output38 ;
+    p-plan:isPreceededBy repr:Cell36 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 19 ;
+    repr:hasIndex 38 .
+
+repr:Cell39 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source39 ;
+    p-plan:hasOutputVar repr:Output39 ;
+    p-plan:isPreceededBy repr:Cell38 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 20 ;
+    repr:hasIndex 39 .
+
+repr:Cell4 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source4 ;
+    p-plan:hasOutputVar repr:Output4 ;
+    p-plan:isPreceededBy repr:Cell3 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 2 ;
+    repr:hasIndex 4 .
+
+repr:Cell7 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source7 ;
+    p-plan:hasOutputVar repr:Output7 ;
+    p-plan:isPreceededBy repr:Cell4 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 3 ;
+    repr:hasIndex 7 .
+
+repr:Cell8 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source8 ;
+    p-plan:hasOutputVar repr:Output8 ;
+    p-plan:isPreceededBy repr:Cell7 ;
+    p-plan:isStepOfPlan repr:recitation1 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 4 ;
+    repr:hasIndex 8 .
+
+repr:recitation1 a repr:Notebook ;
+    repr:hasKernelDisplayName "Python 2" ;
+    repr:hasKernelName "python2" ;
+    repr:hasProgrammingLanguage "python" ;
+    repr:hasProgrammingLanguageExtension ".py" ;
+    repr:hasProgrammingLanguageVersion "2.7.15rc1" .
+

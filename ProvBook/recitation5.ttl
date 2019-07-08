@@ -1,0 +1,956 @@
+@prefix p-plan: <http://purl.org/net/p-plan/#> .
+@prefix prov: <http://www.w3.org/ns/prov/#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix repr: <https://w3id.org/reproduceme#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+repr:Cell0 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source0 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 0 .
+
+repr:Cell1 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source1 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 1 .
+
+repr:Cell13 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source13 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 13 .
+
+repr:Cell17 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source17 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 17 .
+
+repr:Cell22 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source22 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 22 .
+
+repr:Cell24 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source24 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 24 .
+
+repr:Cell27 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source27 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 27 .
+
+repr:Cell30 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source30 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 30 .
+
+repr:Cell33 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source33 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 33 .
+
+repr:Cell37 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source37 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 37 .
+
+repr:Cell39 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source39 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 39 .
+
+repr:Cell4 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source4 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 4 .
+
+repr:Cell42 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source42 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 42 .
+
+repr:Cell44 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source44 ;
+    p-plan:hasOutputVar repr:Output44 ;
+    p-plan:isPreceededBy repr:Cell43 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 77 ;
+    repr:hasIndex 44 .
+
+repr:Cell45 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source45 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 45 .
+
+repr:Cell46 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source46 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 46 .
+
+repr:Cell47 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source47 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 47 .
+
+repr:Cell48 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source48 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 48 .
+
+repr:Cell49 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source49 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 49 .
+
+repr:Cell50 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source50 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 50 .
+
+repr:Cell6 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source6 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 6 .
+
+repr:Cell9 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source9 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 9 .
+
+repr:Cell10 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source10 ;
+    p-plan:isPreceededBy repr:Cell8 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 6 ;
+    repr:hasIndex 10 .
+
+repr:Cell11 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source11 ;
+    p-plan:hasOutputVar repr:Output11 ;
+    p-plan:isPreceededBy repr:Cell38 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 52 ;
+    repr:hasIndex 11 .
+
+repr:Cell12 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source12 ;
+    p-plan:hasOutputVar repr:Output12 ;
+    p-plan:isPreceededBy repr:Cell11 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 53 ;
+    repr:hasIndex 12 .
+
+repr:Cell14 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source14 ;
+    p-plan:isPreceededBy repr:Cell10 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 7 ;
+    repr:hasIndex 14 .
+
+repr:Cell15 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source15 ;
+    p-plan:hasOutputVar repr:Output15 ;
+    p-plan:isPreceededBy repr:Cell12 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 55 ;
+    repr:hasIndex 15 .
+
+repr:Cell16 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source16 ;
+    p-plan:hasOutputVar repr:Output16 ;
+    p-plan:isPreceededBy repr:Cell15 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 56 ;
+    repr:hasIndex 16 .
+
+repr:Cell18 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source18 ;
+    p-plan:hasOutputVar repr:Output18 ;
+    p-plan:isPreceededBy repr:Cell14 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 8 ;
+    repr:hasIndex 18 .
+
+repr:Cell19 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source19 ;
+    p-plan:hasOutputVar repr:Output19 ;
+    p-plan:isPreceededBy repr:Cell18 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 9 ;
+    repr:hasIndex 19 .
+
+repr:Cell2 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source2 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 1 ;
+    repr:hasIndex 2 .
+
+repr:Cell20 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source20 ;
+    p-plan:hasOutputVar repr:Output20 ;
+    p-plan:isPreceededBy repr:Cell21 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 12 ;
+    repr:hasIndex 20 .
+
+repr:Cell21 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source21 ;
+    p-plan:hasOutputVar repr:Output21 ;
+    p-plan:isPreceededBy repr:Cell19 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 11 ;
+    repr:hasIndex 21 .
+
+repr:Cell23 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source23 ;
+    p-plan:isPreceededBy repr:Cell20 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 17 ;
+    repr:hasIndex 23 .
+
+repr:Cell25 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source25 ;
+    p-plan:hasOutputVar repr:Output25 ;
+    p-plan:isPreceededBy repr:Cell23 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 18 ;
+    repr:hasIndex 25 .
+
+repr:Cell26 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source26 ;
+    p-plan:hasOutputVar repr:Output26 ;
+    p-plan:isPreceededBy repr:Cell25 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 19 ;
+    repr:hasIndex 26 .
+
+repr:Cell28 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source28 ;
+    p-plan:hasOutputVar repr:Output28 ;
+    p-plan:isPreceededBy repr:Cell26 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 20 ;
+    repr:hasIndex 28 .
+
+repr:Cell29 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source29 ;
+    p-plan:hasOutputVar repr:Output29 ;
+    p-plan:isPreceededBy repr:Cell28 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 22 ;
+    repr:hasIndex 29 .
+
+repr:Cell3 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source3 ;
+    p-plan:hasOutputVar repr:Output3 ;
+    p-plan:isPreceededBy repr:Cell2 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 2 ;
+    repr:hasIndex 3 .
+
+repr:Cell31 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source31 ;
+    p-plan:isPreceededBy repr:Cell35 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 36 ;
+    repr:hasIndex 31 .
+
+repr:Cell32 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source32 ;
+    p-plan:hasOutputVar repr:Output32 ;
+    p-plan:isPreceededBy repr:Cell31 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 37 ;
+    repr:hasIndex 32 .
+
+repr:Cell34 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source34 ;
+    p-plan:isPreceededBy repr:Cell29 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 23 ;
+    repr:hasIndex 34 .
+
+repr:Cell35 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source35 ;
+    p-plan:hasOutputVar repr:Output35 ;
+    p-plan:isPreceededBy repr:Cell34 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 24 ;
+    repr:hasIndex 35 .
+
+repr:Cell36 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source36 ;
+    p-plan:hasOutputVar repr:Output36 ;
+    p-plan:isPreceededBy repr:Cell32 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 47 ;
+    repr:hasIndex 36 .
+
+repr:Cell38 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source38 ;
+    p-plan:hasOutputVar repr:Output38 ;
+    p-plan:isPreceededBy repr:Cell36 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 49 ;
+    repr:hasIndex 38 .
+
+repr:Cell40 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source40 ;
+    p-plan:isPreceededBy repr:Cell41 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 71 ;
+    repr:hasIndex 40 .
+
+repr:Cell41 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source41 ;
+    p-plan:hasOutputVar repr:Output41 ;
+    p-plan:isPreceededBy repr:Cell16 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 66 ;
+    repr:hasIndex 41 .
+
+repr:Cell43 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source43 ;
+    p-plan:isPreceededBy repr:Cell40 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 76 ;
+    repr:hasIndex 43 .
+
+repr:Cell5 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source5 ;
+    p-plan:hasOutputVar repr:Output5 ;
+    p-plan:isPreceededBy repr:Cell3 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 3 ;
+    repr:hasIndex 5 .
+
+repr:Cell7 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source7 ;
+    p-plan:isPreceededBy repr:Cell5 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 4 ;
+    repr:hasIndex 7 .
+
+repr:Cell8 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source8 ;
+    p-plan:hasOutputVar repr:Output8 ;
+    p-plan:isPreceededBy repr:Cell7 ;
+    p-plan:isStepOfPlan repr:recitation5 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 5 ;
+    repr:hasIndex 8 .
+
+repr:Output11 a p-plan:Variable ;
+    repr:hasExecutionCount 52 ;
+    repr:hasSubOutput repr:Output11Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output11Suboutput0 rdf:value "Point(3.0, 3.0)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output12 a p-plan:Variable ;
+    repr:hasExecutionCount 53 ;
+    repr:hasSubOutput repr:Output12Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output12Suboutput0 rdf:value "Point(3.0, 3.0)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output15 a p-plan:Variable ;
+    repr:hasExecutionCount 55 ;
+    repr:hasSubOutput repr:Output15Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output15Suboutput0 rdf:value "Point(3.0, 3.0)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output16 a p-plan:Variable ;
+    repr:hasExecutionCount 56 ;
+    repr:hasSubOutput repr:Output16Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output16Suboutput0 rdf:value "Point(3.0, 3.0)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output18 a p-plan:Variable ;
+    repr:hasExecutionCount 8 ;
+    repr:hasSubOutput repr:Output18Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output18Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output19 a p-plan:Variable ;
+    repr:hasExecutionCount 9 ;
+    repr:hasSubOutput repr:Output19Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output19Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output20 a p-plan:Variable ;
+    repr:hasExecutionCount 12 ;
+    repr:hasSubOutput repr:Output20Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output20Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output21 a p-plan:Variable ;
+    rdf:value "unorderable types: Point() < Point()" ;
+    repr:hasErrorName "TypeError" ;
+    repr:hasErrorTraceback "[u'\\x1b[1;31m---------------------------------------------------------------------------\\x1b[0m\\n\\x1b[1;31mTypeError\\x1b[0m                                 Traceback (most recent call last)', u'\\x1b[1;32m<ipython-input-11-5ba2a5d37eb0>\\x1b[0m in \\x1b[0;36m<module>\\x1b[1;34m()\\x1b[0m\\n\\x1b[1;32m----> 1\\x1b[1;33m \\x1b[0mPoint\\x1b[0m\\x1b[1;33m(\\x1b[0m\\x1b[1;36m1\\x1b[0m\\x1b[1;33m,\\x1b[0m\\x1b[1;36m2\\x1b[0m\\x1b[1;33m)\\x1b[0m \\x1b[1;33m<\\x1b[0m \\x1b[0mPoint\\x1b[0m\\x1b[1;33m(\\x1b[0m\\x1b[1;36m2\\x1b[0m\\x1b[1;33m,\\x1b[0m\\x1b[1;36m1\\x1b[0m\\x1b[1;33m)\\x1b[0m\\x1b[1;33m\\x1b[0m\\x1b[0m\\n\\x1b[0m', u'\\x1b[1;31mTypeError\\x1b[0m: unorderable types: Point() < Point()']" ;
+    repr:hasType "error" .
+
+repr:Output25 a p-plan:Variable ;
+    repr:hasExecutionCount 18 ;
+    repr:hasSubOutput repr:Output25Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output25Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output26 a p-plan:Variable ;
+    repr:hasExecutionCount 19 ;
+    repr:hasSubOutput repr:Output26Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output26Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output28 a p-plan:Variable ;
+    repr:hasExecutionCount 20 ;
+    repr:hasSubOutput repr:Output28Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output28Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output29 a p-plan:Variable ;
+    repr:hasExecutionCount 22 ;
+    repr:hasSubOutput repr:Output29Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output29Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output3 a p-plan:Variable ;
+    rdf:value """point 1.0 2.0
+origin 0.0 0.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Output32 a p-plan:Variable ;
+    rdf:value """Point(6.5, 7.0)
+Point(7.5, 9.0)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output35 a p-plan:Variable ;
+    repr:hasExecutionCount 24 ;
+    repr:hasSubOutput repr:Output35Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output35Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output36 a p-plan:Variable ;
+    repr:hasExecutionCount 47 ;
+    repr:hasSubOutput repr:Output36Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output36Suboutput0 rdf:value "False" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output38 a p-plan:Variable ;
+    repr:hasExecutionCount 49 ;
+    repr:hasSubOutput repr:Output38Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output38Suboutput0 rdf:value "True" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output41 a p-plan:Variable ;
+    rdf:value """Rectangle with lower left Point(0.0, 0.0) and upper right Point(2.0, 1.0)
+Area: 2.0
+Dimensions: (1.0, 2.0)
+Transposed: Rectangle with lower left Point(-1.0, -2.0) and upper right Point(0.0, 0.0)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output44 a p-plan:Variable ;
+    rdf:value """Rectangle with lower left Point(0.0, 0.0) and upper right Point(2.0, 1.0)
+Area: 2.0
+Dimensions: (1.0, 2.0)
+Transposed: Rectangle with lower left Point(-1.0, -2.0) and upper right Point(0.0, 0.0)
+""" ;
+    repr:hasType "stream" .
+
+repr:Output5 a p-plan:Variable ;
+    repr:hasExecutionCount 3 ;
+    repr:hasSubOutput repr:Output5Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output5Suboutput0 rdf:value "<__main__.Point at 0x8519fd0>" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output8 a p-plan:Variable ;
+    repr:hasExecutionCount 5 ;
+    repr:hasSubOutput repr:Output8Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output8Suboutput0 rdf:value "Point(1.0, 2.0)" ;
+    repr:hasDataType "text/plain" .
+
+repr:Source0 a p-plan:Variable ;
+    rdf:value """# CS1001.py
+
+## Extended Introduction to Computer Science with Python, Tel-Aviv University, Spring 2013
+
+# Recitation 5 - 11-15.4.2013
+
+## Last update: 15.4.2013""" .
+
+repr:Source1 a p-plan:Variable ;
+    rdf:value """# OOP - Object-Oriented Programming
+## `Point` class
+
+We will write a class for a point in a two dimensional Euclidian space ($\\mathbb{R}^2$).
+
+We start with the class definition (`def`) and the constructor (`__init__`) which defines the creation of a new class instance.
+
+Note:
+
+* The first argument to class methods (class functions) is always `self`, a reference to the instance.
+* The other arguments to `__init__` have a default values 0.
+* We *assert* that the `__init__` arguments are numbers.""" .
+
+repr:Source10 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+    
+    def add(self, other):
+        assert isinstance(other, (int, Point))
+        if isinstance(other, Point):
+            return Point(self.x + other.x , self.y + other.y)
+        else: # other is int, taken as (int, int)
+            return Point(self.x + other , self.y + other)""" .
+
+repr:Source11 a p-plan:Variable ;
+    rdf:value "Point(1,1).add(Point(2,2))" .
+
+repr:Source12 a p-plan:Variable ;
+    rdf:value "Point(1,1).add(2)" .
+
+repr:Source13 a p-plan:Variable ;
+    rdf:value "A nicer way to do it is to *overload* the addition operator + by defining the addition method name to a name Python reserves for addition - `__add__` (those are double underscores):" .
+
+repr:Source14 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+    
+    def __add__(self, other):
+        assert isinstance(other, (int, Point))
+        if isinstance(other, Point):
+            return Point(self.x + other.x , self.y + other.y)
+        else: # other is int, taken as (int, int)
+            return Point(self.x + other , self.y + other)""" .
+
+repr:Source15 a p-plan:Variable ;
+    rdf:value "Point(1,1) + Point(2,2)" .
+
+repr:Source16 a p-plan:Variable ;
+    rdf:value "Point(1,1) + 2" .
+
+repr:Source17 a p-plan:Variable ;
+    rdf:value "We want to be a able to compare `Point`s:" .
+
+repr:Source18 a p-plan:Variable ;
+    rdf:value "Point(1,2) == Point(2,1)" .
+
+repr:Source19 a p-plan:Variable ;
+    rdf:value "Point(1,2) == Point(1,2)" .
+
+repr:Source2 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)""" .
+
+repr:Source20 a p-plan:Variable ;
+    rdf:value """p = Point()
+p == p""" .
+
+repr:Source21 a p-plan:Variable ;
+    rdf:value "Point(1,2) > Point(2,1)" .
+
+repr:Source22 a p-plan:Variable ;
+    rdf:value "So `==` checks by identity and `>` is not defined. Let us overload both these operators:" .
+
+repr:Source23 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+    def __add__(self, other):
+        assert isinstance(other, (int, Point))
+        if isinstance(other, Point):
+            return Point(self.x + other.x , self.y + other.y)
+        else: # other is int, taken as (int, int)
+            return Point(self.x + other , self.y + other)
+    
+    def __eq__(self, other):
+        return (self.x, self.y) == (other.x, other.y)
+    
+    def __gt__(self, other):
+        return (self.x > other.x and self.y > other.y)""" .
+
+repr:Source24 a p-plan:Variable ;
+    rdf:value "First we check if two points are equal:" .
+
+repr:Source25 a p-plan:Variable ;
+    rdf:value "Point(1,0) == Point(1,2)" .
+
+repr:Source26 a p-plan:Variable ;
+    rdf:value "Point(1,0) == Point(1,0)" .
+
+repr:Source27 a p-plan:Variable ;
+    rdf:value "Then if one is *strictly* smaller than the other:" .
+
+repr:Source28 a p-plan:Variable ;
+    rdf:value "Point(1,0) > Point(1,2)" .
+
+repr:Source29 a p-plan:Variable ;
+    rdf:value "Point(5,6) > Point(1,2)" .
+
+repr:Source3 a p-plan:Variable ;
+    rdf:value """p = Point(1,2)
+print("point", p.x, p.y)
+origin = Point()
+print("origin", origin.x, origin.y)""" .
+
+repr:Source30 a p-plan:Variable ;
+    rdf:value """The addition operator + returns a **new instance**. 
+
+Next we will write a method that instead of returning a new instance, changes the current instance:""" .
+
+repr:Source31 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+    def __eq__(self, other):
+        return (self.x, self.y) == (other.x, other.y)
+    def __gt__(self, other):
+        return (self.x > other.x and self.y > other.y)
+    def __add__(self, other):
+        assert isinstance(other, (int, Point))
+        if isinstance(other, Point):
+            return Point(self.x + other.x , self.y + other.y)
+        else: # other is int, taken as (int, int)
+            return Point(self.x + other , self.y + other)
+    
+    def increment(self, other): 
+        '''this method changes self (add "inplace")'''
+        assert isinstance(other,Point)
+        self.x += other.x
+        self.y += other.y""" .
+
+repr:Source32 a p-plan:Variable ;
+    rdf:value """p = Point(6.5, 7)
+p + Point(1,2)
+print(p)
+p.increment(Point(1,2))
+print(p)""" .
+
+repr:Source33 a p-plan:Variable ;
+    rdf:value """We now write a method that given many points, checks if the current point is more extreme than the other points.
+
+Note that the argument `*points` means that more than one argument may be given.""" .
+
+repr:Source34 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")"
+    def __eq__(self, other):
+        return (self.x, self.y) == (other.x, other.y)
+    def __lt__(self, other):
+        return (self.x < other.x and self.y < other.y)
+    def __add__(self, other):
+        assert isinstance(other, (int, Point))
+        if isinstance(other, Point):
+            return Point(self.x + other.x , self.y + other.y)
+        else: # other is int, taken as (int, int)
+            return Point(self.x + other , self.y + other)
+    def increment(self, other): 
+        '''this method changes self (add "inplace")'''
+        assert isinstance(other,Point)
+        self.x += other.x
+        self.y += other.y
+    
+    def is_extreme(self, *points):
+        for point in points:
+            if not self > point:
+                return False
+        return True""" .
+
+repr:Source35 a p-plan:Variable ;
+    rdf:value """p = Point(5, 6)
+p.is_extreme(Point(1,1))""" .
+
+repr:Source36 a p-plan:Variable ;
+    rdf:value "p.is_extreme(Point(1,1), Point(2,5), Point(6,2))" .
+
+repr:Source37 a p-plan:Variable ;
+    rdf:value "We can also use the method via the class instead of the instance, and give the instance of interest (the one that we want to know if it is the extreme) as the first argument `self`. Much like this, we can either do `'hi'.upper()` or `str.upper('hi')`." .
+
+repr:Source38 a p-plan:Variable ;
+    rdf:value "Point.is_extreme(Point(7,8), Point(1,1), Point(4,5), Point(2,3))" .
+
+repr:Source39 a p-plan:Variable ;
+    rdf:value """## `Rectangle` class
+
+We will implement two classes for rectangles, and compare the two implementations.
+
+### First implementation - two points
+
+The first implementation defines a rectangle by its lower left and upper right vertices.""" .
+
+repr:Source4 a p-plan:Variable ;
+    rdf:value "Notice that when we send a `Point` to the console we get:" .
+
+repr:Source40 a p-plan:Variable ;
+    rdf:value """class Rectangle1():
+    \"\"\"
+    Holds a parallel-axes rectangle by storing two points
+    lower left vertex - llv
+    upper right vertex - urv
+    \"\"\"
+    def __init__(self, lower_left_vertex, upper_right_vertex):
+        assert isinstance(lower_left_vertex, Point)
+        assert isinstance(upper_right_vertex, Point)
+        assert lower_left_vertex < upper_right_vertex 
+        self.llv = lower_left_vertex
+        self.urv = upper_right_vertex
+        
+    def __repr__(self):
+        representation = "Rectangle with lower left {0} and upper right {1}"
+        return representation.format(self.llv, self.urv)
+
+    def dimensions(self):
+        height = self.urv.y - self.llv.y
+        width = self.urv.x - self.llv.x
+        return height, width
+    
+    def area(self):
+        height, width = self.dimensions()
+        area = height * width
+        return area
+    
+    def transpose(self):
+        \"\"\"
+        Reflection with regard to the line passing through lower left vertex with angle 315 (-45) degrees
+        \"\"\"
+        height, width = self.dimensions()
+        self.urv = self.llv
+        self.llv = Point(self.urv.x - height, self.urv.y - width)""" .
+
+repr:Source41 a p-plan:Variable ;
+    rdf:value """rec = Rectangle1(Point(), Point(2,1))
+print(rec)
+print("Area:", rec.area())
+print("Dimensions:", rec.dimensions())
+rec.transpose()
+print("Transposed:", rec)""" .
+
+repr:Source42 a p-plan:Variable ;
+    rdf:value """### Second implementation - point and dimensions
+
+The second implementation defines a rectangle by the lower left point, the height and the width.
+
+We define the exact same methods as in `Rectangle1`, with the same input and output, but  different inner representation / implementation.""" .
+
+repr:Source43 a p-plan:Variable ;
+    rdf:value """class Rectangle2():
+    \"\"\"
+    Holds a parallel-axes rectangle by storing lower left point, height and width
+    \"\"\"
+    def __init__(self, point, height, width):
+        assert isinstance(point, Point)
+        assert isinstance(height, (int,float))
+        assert isinstance(width, (int,float))
+        assert height > 0
+        assert width > 0        
+        self.point = point
+        self.height = float(height)
+        self.width = float(width)
+        
+    def __repr__(self):
+        representation = "Rectangle with lower left {0} and upper right {1}"
+        return representation.format(self.point, Point(self.point.x + self.width, self.point.y + self.height))
+    
+    def dimensions(self):
+        return self.height, self.width
+
+    def area(self):
+        area = self.height * self.width
+        return area
+
+    def transpose(self):
+        self.point = Point(self.point.x - self.height , self.point.y - self.width)
+        self.height, self.width = self.width, self.height""" .
+
+repr:Source44 a p-plan:Variable ;
+    rdf:value """rec = Rectangle2(Point(), 1, 2)
+print(rec)
+print("Area:", rec.area())
+print("Dimensions:", rec.dimensions())
+rec.transpose()
+print("Transposed:", rec)""" .
+
+repr:Source45 a p-plan:Variable ;
+    rdf:value """# Recursion
+
+We will see two recusive functions that calculate the maximum value in a list.
+
+In the first function the recursive step removes the first element in the list.
+
+In the second function, the recursive step breaks the list into two lists:
+
+Try to count the number of function calls each function requires and the amount of memory used.""" .
+
+repr:Source46 a p-plan:Variable ;
+    rdf:value """View here or directly at <a href="http://pythontutor.com/visualize.html#code=def+max1(collection)%3A%0A++++if+len(collection)+%3D%3D+1%3A%0A++++++++return+collection%5B0%5D%0A++++return+max(collection%5B0%5D,+max1(collection%5B1%3A%5D))%0A%0Amax1(%5B1,2,5,4%5D)&mode=display&cumulative=true&heapPrimitives=false&drawParentPointers=false&textReferences=false&py=3&curInstr=0)">Python Tutor</a>
+
+<iframe width="100%" height="600" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=def+max1(collection)%3A%0A++++if+len(collection)+%3D%3D+1%3A%0A++++++++return+collection%5B0%5D%0A++++return+max(collection%5B0%5D,+max1(collection%5B1%3A%5D))%0A%0Amax1(%5B1,2,5,4%5D)&cumulative=true&heapPrimitives=false&drawParentPointers=false&textReferences=false&py=3&curInstr=0"> </iframe>""" .
+
+repr:Source47 a p-plan:Variable ;
+    rdf:value "The number of function calls is $O(n)$ but the amount of memory used is $n + n - 1 + n - 2 + ... + 1 = \\sum_{k=1}^{n}{k} = O(n^2)$." .
+
+repr:Source48 a p-plan:Variable ;
+    rdf:value """View here or at <a href="http://pythontutor.com/visualize.html#code=def+max2(collection)%3A%0A++++if+len(collection)+%3C%3D+2%3A%0A++++++++return+max(collection)%0A++++middle+%3D+len(collection)+//+2%0A++++left+%3D+max2(collection%5B%3Amiddle%5D)%0A++++right+%3D+max2(collection%5Bmiddle%3A%5D)%0A++++return+max(left,+right)%0A%0Amax2(%5B1,2,5,4%5D)&mode=display&cumulative=true&heapPrimitives=false&drawParentPointers=false&textReferences=false&py=3&curInstr=0">Python Tutor</a>
+
+<iframe width="100%" height="500" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=def+max2(collection)%3A%0A++++if+len(collection)+%3C%3D+2%3A%0A++++++++return+max(collection)%0A++++middle+%3D+len(collection)+//+2%0A++++left+%3D+max2(collection%5B%3Amiddle%5D)%0A++++right+%3D+max2(collection%5Bmiddle%3A%5D)%0A++++return+max(left,+right)%0A%0Amax2(%5B1,2,5,4%5D)&cumulative=true&heapPrimitives=false&drawParentPointers=false&textReferences=false&py=3&curInstr=0"> </iframe>""" .
+
+repr:Source49 a p-plan:Variable ;
+    rdf:value "The number of function calls is again $O(n)$ but here the amount of memory used *simultaneously* is only $n + \\frac{n}{2} + \\frac{n}{4} + ... + 1 = n\\sum_{k=0}^{n}{\\frac{1}{2^n}} = 2n = O(n)$." .
+
+repr:Source5 a p-plan:Variable ;
+    rdf:value "p" .
+
+repr:Source50 a p-plan:Variable ;
+    rdf:value """## Fin
+This notebook is part of the [Extended introduction to computer science](http://tau-cs1001-py.wikidot.com/) course at Tel-Aviv University.
+
+The notebook was written using Python 3.2 and IPython 0.13.1.
+
+The code is available at <https://raw.github.com/yoavram/CS1001.py/master/recitation5.ipynb>.
+
+The notebook can be viewed online at <http://nbviewer.ipython.org/urls/raw.github.com/yoavram/CS1001.py/master/recitation5.ipynb>.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).""" .
+
+repr:Source6 a p-plan:Variable ;
+    rdf:value "Which is not useful, so we will define how `Point` is represented in the console using `__repr__`. " .
+
+repr:Source7 a p-plan:Variable ;
+    rdf:value """class Point():
+    \"\"\"Holds on a point (x,y) in the plane\"\"\"
+    def __init__(self, x=0, y=0):
+        assert isinstance(x, (int, float)) and isinstance(y, (int, float))
+        self.x = float(x)
+        self.y = float(y)
+    
+    def __repr__(self):
+        return "Point(" + str(self.x) + ", " + str(self.y) + ")\"""" .
+
+repr:Source8 a p-plan:Variable ;
+    rdf:value "Point(1,2)" .
+
+repr:Source9 a p-plan:Variable ;
+    rdf:value """Next up we define a method to add two points. Addition is by elements - $(x_1, y_1) + (x_2, y_2) = (x_1+x_2, y_1+y_2)$.
+
+We also allow to add an `int`, in which case we add the point to a another point with both coordinates equal to the argument value.""" .
+
+repr:recitation5 a repr:Notebook .
+

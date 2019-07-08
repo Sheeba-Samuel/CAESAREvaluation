@@ -1,0 +1,1873 @@
+@prefix p-plan: <http://purl.org/net/p-plan/#> .
+@prefix prov: <http://www.w3.org/ns/prov/#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix repr: <https://w3id.org/reproduceme#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+repr:Cell0Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell0 ;
+    prov:used repr:Cell0Execution0Source .
+
+repr:Cell10Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell10 ;
+    prov:used repr:Cell10Execution0Source .
+
+repr:Cell11Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell11 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell11Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell11Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell11Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell11 ;
+    prov:endedAtTime "2019-07-08T14:54:20.307Z" ;
+    prov:generated repr:Cell11Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.292Z" ;
+    prov:used repr:Cell11Execution1Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell11Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell11 ;
+    prov:endedAtTime "2019-07-08T14:54:20.307Z" ;
+    prov:generated repr:Cell11Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.292Z" ;
+    prov:used repr:Cell11Execution2Source ;
+    repr:executionTime "15ms" .
+
+repr:Cell12Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell12 ;
+    prov:used repr:Cell12Execution0Source .
+
+repr:Cell13Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell13Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell13Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell13Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "2019-07-08T14:54:20.325Z" ;
+    prov:generated repr:Cell13Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.316Z" ;
+    prov:used repr:Cell13Execution1Source ;
+    repr:executionTime "9ms" .
+
+repr:Cell13Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell13 ;
+    prov:endedAtTime "2019-07-08T14:54:20.325Z" ;
+    prov:generated repr:Cell13Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.316Z" ;
+    prov:used repr:Cell13Execution2Source ;
+    repr:executionTime "9ms" .
+
+repr:Cell14Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell14 ;
+    prov:used repr:Cell14Execution0Source .
+
+repr:Cell15Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell15Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell15Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell15Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "2019-07-08T14:54:20.361Z" ;
+    prov:generated repr:Cell15Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.331Z" ;
+    prov:used repr:Cell15Execution1Source ;
+    repr:executionTime "30ms" .
+
+repr:Cell15Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell15 ;
+    prov:endedAtTime "2019-07-08T14:54:20.361Z" ;
+    prov:generated repr:Cell15Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.331Z" ;
+    prov:used repr:Cell15Execution2Source ;
+    repr:executionTime "30ms" .
+
+repr:Cell16Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell16Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell16Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell16Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:endedAtTime "2019-07-08T14:54:20.378Z" ;
+    prov:generated repr:Cell16Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.366Z" ;
+    prov:used repr:Cell16Execution1Source ;
+    repr:executionTime "12ms" .
+
+repr:Cell16Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell16 ;
+    prov:endedAtTime "2019-07-08T14:54:20.378Z" ;
+    prov:generated repr:Cell16Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.366Z" ;
+    prov:used repr:Cell16Execution2Source ;
+    repr:executionTime "12ms" .
+
+repr:Cell17Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell17 ;
+    prov:used repr:Cell17Execution0Source .
+
+repr:Cell18Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell18Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell18Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell18Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:endedAtTime "2019-07-08T14:54:20.417Z" ;
+    prov:generated repr:Cell18Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.388Z" ;
+    prov:used repr:Cell18Execution1Source ;
+    repr:executionTime "29ms" .
+
+repr:Cell18Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell18 ;
+    prov:endedAtTime "2019-07-08T14:54:20.417Z" ;
+    prov:generated repr:Cell18Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.388Z" ;
+    prov:used repr:Cell18Execution2Source ;
+    repr:executionTime "29ms" .
+
+repr:Cell19Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell19 ;
+    prov:used repr:Cell19Execution0Source .
+
+repr:Cell1Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell1 ;
+    prov:used repr:Cell1Execution0Source .
+
+repr:Cell20Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "Unknown" ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell20Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell20Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "2019-07-08T14:54:20.425Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.420Z" ;
+    prov:used repr:Cell20Execution1Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell20Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell20 ;
+    prov:endedAtTime "2019-07-08T14:54:20.425Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.420Z" ;
+    prov:used repr:Cell20Execution2Source ;
+    repr:executionTime "5ms" .
+
+repr:Cell21Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell21Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell21Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell21Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "2019-07-08T14:54:20.496Z" ;
+    prov:generated repr:Cell21Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.430Z" ;
+    prov:used repr:Cell21Execution1Source ;
+    repr:executionTime "66ms" .
+
+repr:Cell21Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell21 ;
+    prov:endedAtTime "2019-07-08T14:54:20.496Z" ;
+    prov:generated repr:Cell21Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.430Z" ;
+    prov:used repr:Cell21Execution2Source ;
+    repr:executionTime "66ms" .
+
+repr:Cell22Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell22 ;
+    prov:used repr:Cell22Execution0Source .
+
+repr:Cell23Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "Unknown" ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell23Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell23Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "2019-07-08T14:54:20.504Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.772Z" ;
+    prov:used repr:Cell23Execution1Source ;
+    repr:executionTime "-268ms" .
+
+repr:Cell23Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell23 ;
+    prov:endedAtTime "2019-07-08T14:54:20.504Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.773Z" ;
+    prov:used repr:Cell23Execution2Source ;
+    repr:executionTime "-269ms" .
+
+repr:Cell24Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell24 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell24Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell24Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell24Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell24 ;
+    prov:endedAtTime "2019-07-08T14:54:20.507Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.778Z" ;
+    prov:used repr:Cell24Execution1Source ;
+    repr:executionTime "-271ms" .
+
+repr:Cell24Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell24 ;
+    prov:endedAtTime "2019-07-08T14:54:20.507Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.778Z" ;
+    prov:used repr:Cell24Execution2Source ;
+    repr:executionTime "-271ms" .
+
+repr:Cell25Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell25Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell25Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell25Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "2019-07-08T14:54:20.519Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.791Z" ;
+    prov:used repr:Cell25Execution1Source ;
+    repr:executionTime "-272ms" .
+
+repr:Cell25Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell25 ;
+    prov:endedAtTime "2019-07-08T14:54:20.519Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.791Z" ;
+    prov:used repr:Cell25Execution2Source ;
+    repr:executionTime "-272ms" .
+
+repr:Cell26Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell26 ;
+    prov:used repr:Cell26Execution0Source .
+
+repr:Cell27Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "Unknown" ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell27Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell27Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "2019-07-08T14:54:20.522Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.805Z" ;
+    prov:used repr:Cell27Execution1Source ;
+    repr:executionTime "-283ms" .
+
+repr:Cell27Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell27 ;
+    prov:endedAtTime "2019-07-08T14:54:20.522Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.806Z" ;
+    prov:used repr:Cell27Execution2Source ;
+    repr:executionTime "-284ms" .
+
+repr:Cell28Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell28Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell28Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell28Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:endedAtTime "2019-07-08T14:54:20.524Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.809Z" ;
+    prov:used repr:Cell28Execution1Source ;
+    repr:executionTime "-285ms" .
+
+repr:Cell28Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell28 ;
+    prov:endedAtTime "2019-07-08T14:54:20.524Z" ;
+    prov:startedAtTime "2019-07-08T14:54:20.809Z" ;
+    prov:used repr:Cell28Execution2Source ;
+    repr:executionTime "-285ms" .
+
+repr:Cell29Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell29 ;
+    prov:used repr:Cell29Execution0Source .
+
+repr:Cell2Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell2Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell2Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell2Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2019-07-08T14:54:20.195Z" ;
+    prov:generated repr:Cell2Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.178Z" ;
+    prov:used repr:Cell2Execution1Source ;
+    repr:executionTime "17ms" .
+
+repr:Cell2Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell2 ;
+    prov:endedAtTime "2019-07-08T14:54:20.195Z" ;
+    prov:generated repr:Cell2Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.178Z" ;
+    prov:used repr:Cell2Execution2Source ;
+    repr:executionTime "17ms" .
+
+repr:Cell3Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell3Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell3Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell3Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2019-07-08T14:54:20.214Z" ;
+    prov:generated repr:Cell3Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.198Z" ;
+    prov:used repr:Cell3Execution1Source ;
+    repr:executionTime "16ms" .
+
+repr:Cell3Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell3 ;
+    prov:endedAtTime "2019-07-08T14:54:20.214Z" ;
+    prov:generated repr:Cell3Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.198Z" ;
+    prov:used repr:Cell3Execution2Source ;
+    repr:executionTime "16ms" .
+
+repr:Cell4Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell4Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell4Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell4Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "2019-07-08T14:54:20.231Z" ;
+    prov:generated repr:Cell4Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.217Z" ;
+    prov:used repr:Cell4Execution1Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell4Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell4 ;
+    prov:endedAtTime "2019-07-08T14:54:20.231Z" ;
+    prov:generated repr:Cell4Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.217Z" ;
+    prov:used repr:Cell4Execution2Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell5Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell5 ;
+    prov:used repr:Cell5Execution0Source .
+
+repr:Cell6Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell6 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell6Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell6Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell6Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell6 ;
+    prov:endedAtTime "2019-07-08T14:54:20.248Z" ;
+    prov:generated repr:Cell6Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.234Z" ;
+    prov:used repr:Cell6Execution1Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell6Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell6 ;
+    prov:endedAtTime "2019-07-08T14:54:20.248Z" ;
+    prov:generated repr:Cell6Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.234Z" ;
+    prov:used repr:Cell6Execution2Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell7Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell7 ;
+    prov:used repr:Cell7Execution0Source .
+
+repr:Cell8Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell8Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell8Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell8Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2019-07-08T14:54:20.265Z" ;
+    prov:generated repr:Cell8Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.251Z" ;
+    prov:used repr:Cell8Execution1Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell8Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell8 ;
+    prov:endedAtTime "2019-07-08T14:54:20.265Z" ;
+    prov:generated repr:Cell8Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.251Z" ;
+    prov:used repr:Cell8Execution2Source ;
+    repr:executionTime "14ms" .
+
+repr:Cell9Execution0 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell9 ;
+    prov:endedAtTime "Unknown" ;
+    prov:generated repr:Cell9Execution0Output0 ;
+    prov:startedAtTime "Unknown" ;
+    prov:used repr:Cell9Execution0Source ;
+    repr:executionTime "Unknown" .
+
+repr:Cell9Execution1 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell9 ;
+    prov:endedAtTime "2019-07-08T14:54:20.286Z" ;
+    prov:generated repr:Cell9Execution1Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.268Z" ;
+    prov:used repr:Cell9Execution1Source ;
+    repr:executionTime "18ms" .
+
+repr:Cell9Execution2 a repr:CellExecution ;
+    p-plan:correspondsToStep repr:Cell9 ;
+    prov:endedAtTime "2019-07-08T14:54:20.286Z" ;
+    prov:generated repr:Cell9Execution2Output0 ;
+    prov:startedAtTime "2019-07-08T14:54:20.268Z" ;
+    prov:used repr:Cell9Execution2Source ;
+    repr:executionTime "18ms" .
+
+repr:Cell0 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source0 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 0 .
+
+repr:Cell0Execution0Source rdf:value """# CS1001.py
+
+## Extended Introduction to Computer Science with Python, Tel-Aviv University, Spring 2013
+
+# Recitation 7 - 25-29.4.2013
+
+## Last update: 29.4.2013""" .
+
+repr:Cell1 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source1 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 1 .
+
+repr:Cell10 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source10 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 10 .
+
+repr:Cell10Execution0Source rdf:value """## `sorted` - a function that recieves and uses a function
+The sorting buiktin function `sorted` can recieve a function as an argument and use it to sort a collection.
+
+Regular `str` sorting - lexicographical orer:""" .
+
+repr:Cell11Execution0Output0 repr:hasSubOutput repr:Cell11Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell11Execution0Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"])" .
+
+repr:Cell11Execution0Suboutput0 rdf:value "['Amir', 'Amiram', 'Haim', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell11Execution1Output0 repr:hasSubOutput repr:Cell11Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell11Execution1Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"])" .
+
+repr:Cell11Execution1Suboutput0 rdf:value "['Amir', 'Amiram', 'Haim', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell11Execution2Output0 repr:hasSubOutput repr:Cell11Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell11Execution2Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"])" .
+
+repr:Cell11Execution2Suboutput0 rdf:value "['Amir', 'Amiram', 'Haim', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell12 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source12 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 12 .
+
+repr:Cell12Execution0Source rdf:value "Sort by length - give `len` as the `key` argument to `sorted`:" .
+
+repr:Cell13Execution0Output0 repr:hasSubOutput repr:Cell13Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell13Execution0Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=len)" .
+
+repr:Cell13Execution0Suboutput0 rdf:value "['Yoav', 'Amir', 'Haim', 'Amiram']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell13Execution1Output0 repr:hasSubOutput repr:Cell13Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell13Execution1Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=len)" .
+
+repr:Cell13Execution1Suboutput0 rdf:value "['Yoav', 'Amir', 'Haim', 'Amiram']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell13Execution2Output0 repr:hasSubOutput repr:Cell13Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell13Execution2Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=len)" .
+
+repr:Cell13Execution2Suboutput0 rdf:value "['Yoav', 'Amir', 'Haim', 'Amiram']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell14 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source14 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 14 .
+
+repr:Cell14Execution0Source rdf:value "Sort by reverse lexicographical order - note this does not change the list elements, only the order of the elements:" .
+
+repr:Cell15Execution0Output0 repr:hasSubOutput repr:Cell15Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell15Execution0Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=lambda x: x[::-1])" .
+
+repr:Cell15Execution0Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell15Execution1Output0 repr:hasSubOutput repr:Cell15Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell15Execution1Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=lambda x: x[::-1])" .
+
+repr:Cell15Execution1Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell15Execution2Output0 repr:hasSubOutput repr:Cell15Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell15Execution2Source rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=lambda x: x[::-1])" .
+
+repr:Cell15Execution2Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell16Execution0Output0 repr:hasSubOutput repr:Cell16Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell16Execution0Source rdf:value "\"Yoav\"[::-1]" .
+
+repr:Cell16Execution0Suboutput0 rdf:value "'vaoY'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell16Execution1Output0 repr:hasSubOutput repr:Cell16Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell16Execution1Source rdf:value "\"Yoav\"[::-1]" .
+
+repr:Cell16Execution1Suboutput0 rdf:value "'vaoY'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell16Execution2Output0 repr:hasSubOutput repr:Cell16Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell16Execution2Source rdf:value "\"Yoav\"[::-1]" .
+
+repr:Cell16Execution2Suboutput0 rdf:value "'vaoY'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell17 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source17 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 17 .
+
+repr:Cell17Execution0Source rdf:value "For a complex sorting function we can define a function instead of using `lambda`:" .
+
+repr:Cell18Execution0Output0 repr:hasSubOutput repr:Cell18Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell18Execution0Source rdf:value """def comparator(x):
+    return x[::-1]
+sorted(["Yoav", "Amir", "Amiram", "Haim"], key=comparator)""" .
+
+repr:Cell18Execution0Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell18Execution1Output0 repr:hasSubOutput repr:Cell18Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell18Execution1Source rdf:value """def comparator(x):
+    return x[::-1]
+sorted(["Yoav", "Amir", "Amiram", "Haim"], key=comparator)""" .
+
+repr:Cell18Execution1Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell18Execution2Output0 repr:hasSubOutput repr:Cell18Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell18Execution2Source rdf:value """def comparator(x):
+    return x[::-1]
+sorted(["Yoav", "Amir", "Amiram", "Haim"], key=comparator)""" .
+
+repr:Cell18Execution2Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell19 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source19 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 19 .
+
+repr:Cell19Execution0Source rdf:value """## `compose` - a function that recieves two function and creates a third
+
+`compose` does function composition.""" .
+
+repr:Cell1Execution0Source rdf:value """# Lambda expressions and high-order functions
+
+Lambda expressions are a way to define a function *inline* in runtime without a `def` statement.
+
+For example, lets use a lambda expression to define a simple function:""" .
+
+repr:Cell20Execution0Source rdf:value """def compose(f1,f2):
+    def composed(x):
+        return f2(f1(x))
+    return composed""" .
+
+repr:Cell20Execution1Source rdf:value """def compose(f1,f2):
+    def composed(x):
+        return f2(f1(x))
+    return composed""" .
+
+repr:Cell20Execution2Source rdf:value """def compose(f1,f2):
+    def composed(x):
+        return f2(f1(x))
+    return composed""" .
+
+repr:Cell21Execution0Output0 rdf:value """5.0
+5.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell21Execution0Source rdf:value """absolute = compose(lambda x: x ** 2, sqrt)
+print(absolute(5))
+print(absolute(-5))""" .
+
+repr:Cell21Execution1Output0 rdf:value "name 'sqrt' is not defined" ;
+    repr:hasType "error" .
+
+repr:Cell21Execution1Source rdf:value """absolute = compose(lambda x: x ** 2, sqrt)
+print(absolute(5))
+print(absolute(-5))""" .
+
+repr:Cell21Execution2Output0 rdf:value "name 'sqrt' is not defined" ;
+    repr:hasType "error" .
+
+repr:Cell21Execution2Source rdf:value """absolute = compose(lambda x: x ** 2, sqrt)
+print(absolute(5))
+print(absolute(-5))""" .
+
+repr:Cell22 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source22 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 22 .
+
+repr:Cell22Execution0Source rdf:value "A different example:" .
+
+repr:Cell23Execution0Source rdf:value """def compose(f1,f2):
+    return lambda x: f2(f1(x))""" .
+
+repr:Cell23Execution1Source rdf:value """def compose(f1,f2):
+    return lambda x: f2(f1(x))""" .
+
+repr:Cell23Execution2Source rdf:value """def compose(f1,f2):
+    return lambda x: f2(f1(x))""" .
+
+repr:Cell24Execution0Output0 repr:hasSubOutput repr:Cell24Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell24Execution0Source rdf:value """vector_product = lambda x,y: [x[i] * y[i] for i in range(len(x))]
+vector_product([1,2,3],[3,2,1])""" .
+
+repr:Cell24Execution0Suboutput0 rdf:value "[3, 4, 3]" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell24Execution1Source rdf:value """vector_product = lambda x,y: [x[i] * y[i] for i in range(len(x))]
+vector_product([1,2,3],[3,2,1])""" .
+
+repr:Cell24Execution2Source rdf:value """vector_product = lambda x,y: [x[i] * y[i] for i in range(len(x))]
+vector_product([1,2,3],[3,2,1])""" .
+
+repr:Cell25Execution0Output0 repr:hasSubOutput repr:Cell25Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell25Execution0Source rdf:value """norm = compose(compose(lambda x: vector_product(x,x), sum), sqrt)
+norm([1,2,3])""" .
+
+repr:Cell25Execution0Suboutput0 rdf:value "3.7416573867739413" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell25Execution1Source rdf:value """norm = compose(compose(lambda x: vector_product(x,x), sum), sqrt)
+norm([1,2,3])""" .
+
+repr:Cell25Execution2Source rdf:value """norm = compose(compose(lambda x: vector_product(x,x), sum), sqrt)
+norm([1,2,3])""" .
+
+repr:Cell26 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source26 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 26 .
+
+repr:Cell26Execution0Source rdf:value """# `Matrix` class
+
+We will now write a class for matrices.
+
+We will try to include several methods that will make working with matrices easy.""" .
+
+repr:Cell27Execution0Source rdf:value """class Matrix:
+    
+    def __init__(self, n_rows, m_cols, default_value=0):
+        assert n_rows > 0
+        assert m_cols > 0
+        assert isinstance(default_value, (int, float, complex))
+        self.rows = [[default_value ] * m_cols for i in range(n_rows)]      
+    
+    def dim(self):
+        '''return tuple -> num of rows, num of cols'''
+        return (len(self.rows), len(self.rows[0]))
+    
+    def __repr__(self):
+        return 'Matrix: %d rows, %d cols\\n' % self.dim() + str(self.rows[0])
+   
+    def __getitem__(self, ij): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i, int) and isinstance(j, int):
+            return self.rows[i][j]
+        elif isinstance(i, slice) and isinstance(j, slice):
+            M = Matrix(1,1) # to be overwritten
+            M.rows = [row[j] for row in self.rows[i]]
+            return M
+        else:
+            return NotImplemented
+    
+    def __setitem__(self, ij, val): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i,int) and isinstance(j,int):
+            assert isinstance(val, (int, float, complex))
+            self.rows[i][j] = val
+        elif isinstance(i,slice) and isinstance(j,slice):
+            assert isinstance(val, Matrix)
+            n,m = val.dim()
+            s_rows = self.rows[i]
+            assert len(s_rows) == n and len(s_rows[0][j]) == m
+            for s_row, v_row in zip(s_rows,val.rows):
+                s_row[j] = v_row
+        else:
+            return NotImplemented
+
+    def __eq__(self, other):
+        assert isinstance(other, Matrix)
+        if self.dim() != other.dim():
+            return False
+        n,m = self.dim()
+        for i in range(n):
+            for j in range(m):
+                if self[i,j] != other[i,j]:
+                    return False
+        return True
+    
+    def __add__(self, other):
+        return self._entrywise_op(other, lambda x,y: x + y)
+    
+    def __sub__(self, other):
+        return self._entrywise_op(other, lambda x,y: x - y)
+    
+    def __neg__(self):
+        n,m = self.dim()
+        return Matrix(n, m, 0) - self
+    
+    def _entrywise_op(self, other, op):
+        assert isinstance(other, Matrix)
+        assert self.dim() == other.dim()
+        n,m = self.dim()
+        M = Matrix(n, m)
+        for i in range(n):
+            for j in range(m):
+                M[i,j] = op(self[i,j], other[i,j])
+        return M
+    
+    def __mul__(self, other):
+        '''multilpy by scalar or another matrix'''
+        if isinstance(other, (int,float,complex)):
+            n,m = self.dim()
+            M = Matrix(n, m, other)
+            return self._entrywise_op(M, lambda x,y: x * y)
+        elif isinstance(other, Matrix):
+            n1,m1 = self.dim()
+            n2,m2 = other.dim()
+            assert m1 == n2
+            M = Matrix(n1,m2)
+            for i in range(n1):
+                for j in range(m2):
+                    M[i,j] = sum([self[i,k] * other[k,j] for k in range(m1)])
+            return M
+        else:
+            return NotImplemented
+    
+    __rmul__ = __mul__
+    
+    def prettyprint(self):
+        return str.join('\\n',[str(row) for row in self.rows])
+    
+    def save(self, filename):
+        '''save to file'''
+        with open(filename, "w") as fout:
+            fout.write(self.prettyprint())
+    
+    @staticmethod
+    def load(filename):
+        '''load from file'''
+        rows = []
+        with open(filename, 'r') as fin:
+            for line in fin:
+                line = line.strip()
+                row = eval(line)
+                rows.append(row)
+        M = Matrix(1,1)
+        M.rows = rows
+        return M""" .
+
+repr:Cell27Execution1Source rdf:value """class Matrix:
+    
+    def __init__(self, n_rows, m_cols, default_value=0):
+        assert n_rows > 0
+        assert m_cols > 0
+        assert isinstance(default_value, (int, float, complex))
+        self.rows = [[default_value ] * m_cols for i in range(n_rows)]      
+    
+    def dim(self):
+        '''return tuple -> num of rows, num of cols'''
+        return (len(self.rows), len(self.rows[0]))
+    
+    def __repr__(self):
+        return 'Matrix: %d rows, %d cols\\n' % self.dim() + str(self.rows[0])
+   
+    def __getitem__(self, ij): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i, int) and isinstance(j, int):
+            return self.rows[i][j]
+        elif isinstance(i, slice) and isinstance(j, slice):
+            M = Matrix(1,1) # to be overwritten
+            M.rows = [row[j] for row in self.rows[i]]
+            return M
+        else:
+            return NotImplemented
+    
+    def __setitem__(self, ij, val): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i,int) and isinstance(j,int):
+            assert isinstance(val, (int, float, complex))
+            self.rows[i][j] = val
+        elif isinstance(i,slice) and isinstance(j,slice):
+            assert isinstance(val, Matrix)
+            n,m = val.dim()
+            s_rows = self.rows[i]
+            assert len(s_rows) == n and len(s_rows[0][j]) == m
+            for s_row, v_row in zip(s_rows,val.rows):
+                s_row[j] = v_row
+        else:
+            return NotImplemented
+
+    def __eq__(self, other):
+        assert isinstance(other, Matrix)
+        if self.dim() != other.dim():
+            return False
+        n,m = self.dim()
+        for i in range(n):
+            for j in range(m):
+                if self[i,j] != other[i,j]:
+                    return False
+        return True
+    
+    def __add__(self, other):
+        return self._entrywise_op(other, lambda x,y: x + y)
+    
+    def __sub__(self, other):
+        return self._entrywise_op(other, lambda x,y: x - y)
+    
+    def __neg__(self):
+        n,m = self.dim()
+        return Matrix(n, m, 0) - self
+    
+    def _entrywise_op(self, other, op):
+        assert isinstance(other, Matrix)
+        assert self.dim() == other.dim()
+        n,m = self.dim()
+        M = Matrix(n, m)
+        for i in range(n):
+            for j in range(m):
+                M[i,j] = op(self[i,j], other[i,j])
+        return M
+    
+    def __mul__(self, other):
+        '''multilpy by scalar or another matrix'''
+        if isinstance(other, (int,float,complex)):
+            n,m = self.dim()
+            M = Matrix(n, m, other)
+            return self._entrywise_op(M, lambda x,y: x * y)
+        elif isinstance(other, Matrix):
+            n1,m1 = self.dim()
+            n2,m2 = other.dim()
+            assert m1 == n2
+            M = Matrix(n1,m2)
+            for i in range(n1):
+                for j in range(m2):
+                    M[i,j] = sum([self[i,k] * other[k,j] for k in range(m1)])
+            return M
+        else:
+            return NotImplemented
+    
+    __rmul__ = __mul__
+    
+    def prettyprint(self):
+        return str.join('\\n',[str(row) for row in self.rows])
+    
+    def save(self, filename):
+        '''save to file'''
+        with open(filename, "w") as fout:
+            fout.write(self.prettyprint())
+    
+    @staticmethod
+    def load(filename):
+        '''load from file'''
+        rows = []
+        with open(filename, 'r') as fin:
+            for line in fin:
+                line = line.strip()
+                row = eval(line)
+                rows.append(row)
+        M = Matrix(1,1)
+        M.rows = rows
+        return M""" .
+
+repr:Cell27Execution2Source rdf:value """class Matrix:
+    
+    def __init__(self, n_rows, m_cols, default_value=0):
+        assert n_rows > 0
+        assert m_cols > 0
+        assert isinstance(default_value, (int, float, complex))
+        self.rows = [[default_value ] * m_cols for i in range(n_rows)]      
+    
+    def dim(self):
+        '''return tuple -> num of rows, num of cols'''
+        return (len(self.rows), len(self.rows[0]))
+    
+    def __repr__(self):
+        return 'Matrix: %d rows, %d cols\\n' % self.dim() + str(self.rows[0])
+   
+    def __getitem__(self, ij): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i, int) and isinstance(j, int):
+            return self.rows[i][j]
+        elif isinstance(i, slice) and isinstance(j, slice):
+            M = Matrix(1,1) # to be overwritten
+            M.rows = [row[j] for row in self.rows[i]]
+            return M
+        else:
+            return NotImplemented
+    
+    def __setitem__(self, ij, val): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i,int) and isinstance(j,int):
+            assert isinstance(val, (int, float, complex))
+            self.rows[i][j] = val
+        elif isinstance(i,slice) and isinstance(j,slice):
+            assert isinstance(val, Matrix)
+            n,m = val.dim()
+            s_rows = self.rows[i]
+            assert len(s_rows) == n and len(s_rows[0][j]) == m
+            for s_row, v_row in zip(s_rows,val.rows):
+                s_row[j] = v_row
+        else:
+            return NotImplemented
+
+    def __eq__(self, other):
+        assert isinstance(other, Matrix)
+        if self.dim() != other.dim():
+            return False
+        n,m = self.dim()
+        for i in range(n):
+            for j in range(m):
+                if self[i,j] != other[i,j]:
+                    return False
+        return True
+    
+    def __add__(self, other):
+        return self._entrywise_op(other, lambda x,y: x + y)
+    
+    def __sub__(self, other):
+        return self._entrywise_op(other, lambda x,y: x - y)
+    
+    def __neg__(self):
+        n,m = self.dim()
+        return Matrix(n, m, 0) - self
+    
+    def _entrywise_op(self, other, op):
+        assert isinstance(other, Matrix)
+        assert self.dim() == other.dim()
+        n,m = self.dim()
+        M = Matrix(n, m)
+        for i in range(n):
+            for j in range(m):
+                M[i,j] = op(self[i,j], other[i,j])
+        return M
+    
+    def __mul__(self, other):
+        '''multilpy by scalar or another matrix'''
+        if isinstance(other, (int,float,complex)):
+            n,m = self.dim()
+            M = Matrix(n, m, other)
+            return self._entrywise_op(M, lambda x,y: x * y)
+        elif isinstance(other, Matrix):
+            n1,m1 = self.dim()
+            n2,m2 = other.dim()
+            assert m1 == n2
+            M = Matrix(n1,m2)
+            for i in range(n1):
+                for j in range(m2):
+                    M[i,j] = sum([self[i,k] * other[k,j] for k in range(m1)])
+            return M
+        else:
+            return NotImplemented
+    
+    __rmul__ = __mul__
+    
+    def prettyprint(self):
+        return str.join('\\n',[str(row) for row in self.rows])
+    
+    def save(self, filename):
+        '''save to file'''
+        with open(filename, "w") as fout:
+            fout.write(self.prettyprint())
+    
+    @staticmethod
+    def load(filename):
+        '''load from file'''
+        rows = []
+        with open(filename, 'r') as fin:
+            for line in fin:
+                line = line.strip()
+                row = eval(line)
+                rows.append(row)
+        M = Matrix(1,1)
+        M.rows = rows
+        return M""" .
+
+repr:Cell28Execution0Output0 rdf:value """[-1.5, -1.5, -1.5]
+[-1.5, -1.5, -1.5]
+[-1.5, -1.5, -1.5]
+True
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell28Execution0Source rdf:value """A = Matrix(3,3,1)
+B = Matrix(3,3,1) * 2.5
+C = A - B
+D = A + B
+print(C.prettyprint())
+D.save("tmp")
+print(D == Matrix.load("tmp"))""" .
+
+repr:Cell28Execution1Source rdf:value """A = Matrix(3,3,1)
+B = Matrix(3,3,1) * 2.5
+C = A - B
+D = A + B
+print(C.prettyprint())
+D.save("tmp")
+print(D == Matrix.load("tmp"))""" .
+
+repr:Cell28Execution2Source rdf:value """A = Matrix(3,3,1)
+B = Matrix(3,3,1) * 2.5
+C = A - B
+D = A + B
+print(C.prettyprint())
+D.save("tmp")
+print(D == Matrix.load("tmp"))""" .
+
+repr:Cell29 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source29 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 29 .
+
+repr:Cell29Execution0Source rdf:value """## Fin
+This notebook is part of the [Extended introduction to computer science](http://tau-cs1001-py.wikidot.com/) course at Tel-Aviv University.
+
+The notebook was written using Python 3.2 and IPython 0.13.1.
+
+The code is available at <https://raw.github.com/yoavram/CS1001.py/master/recitation7.ipynb>.
+
+The notebook can be viewed online at <http://nbviewer.ipython.org/urls/raw.github.com/yoavram/CS1001.py/master/recitation7.ipynb>.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).""" .
+
+repr:Cell2Execution0Output0 repr:hasSubOutput repr:Cell2Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell2Execution0Source rdf:value "(lambda x: x + 2)(6)" .
+
+repr:Cell2Execution0Suboutput0 rdf:value "8" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell2Execution1Output0 repr:hasSubOutput repr:Cell2Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell2Execution1Source rdf:value "(lambda x: x + 2)(6)" .
+
+repr:Cell2Execution1Suboutput0 rdf:value "8" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell2Execution2Output0 repr:hasSubOutput repr:Cell2Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell2Execution2Source rdf:value "(lambda x: x + 2)(6)" .
+
+repr:Cell2Execution2Suboutput0 rdf:value "8" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell3Execution0Output0 repr:hasSubOutput repr:Cell3Execution0Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell3Execution0Source rdf:value "type(lambda x: x + 2)" .
+
+repr:Cell3Execution0Suboutput0 rdf:value "builtins.function" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell3Execution1Output0 repr:hasSubOutput repr:Cell3Execution1Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell3Execution1Source rdf:value "type(lambda x: x + 2)" .
+
+repr:Cell3Execution1Suboutput0 rdf:value "function" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell3Execution2Output0 repr:hasSubOutput repr:Cell3Execution2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Cell3Execution2Source rdf:value "type(lambda x: x + 2)" .
+
+repr:Cell3Execution2Suboutput0 rdf:value "function" ;
+    repr:hasDataType "text/plain" .
+
+repr:Cell4Execution0Output0 rdf:value """8
+<class 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution0Source rdf:value """f = lambda x: x + 2
+print(f(6))
+print(type(f))""" .
+
+repr:Cell4Execution1Output0 rdf:value """8
+<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution1Source rdf:value """f = lambda x: x + 2
+print(f(6))
+print(type(f))""" .
+
+repr:Cell4Execution2Output0 rdf:value """8
+<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell4Execution2Source rdf:value """f = lambda x: x + 2
+print(f(6))
+print(type(f))""" .
+
+repr:Cell5 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source5 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 5 .
+
+repr:Cell5Execution0Source rdf:value """## `make_pow` - a function that creates and returns a function
+
+Without `lambda`:""" .
+
+repr:Cell6Execution0Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell6Execution0Source rdf:value """def make_pow(n):
+    def pow_n(x):
+        return x ** n
+    return pow_n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell6Execution1Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell6Execution1Source rdf:value """def make_pow(n):
+    def pow_n(x):
+        return x ** n
+    return pow_n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell6Execution2Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell6Execution2Source rdf:value """def make_pow(n):
+    def pow_n(x):
+        return x ** n
+    return pow_n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell7 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source7 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "markdown" ;
+    repr:hasIndex 7 .
+
+repr:Cell7Execution0Source rdf:value "With `lambda`:" .
+
+repr:Cell8Execution0Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution0Source rdf:value """def make_pow(n):
+    return lambda x: x ** n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell8Execution1Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution1Source rdf:value """def make_pow(n):
+    return lambda x: x ** n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell8Execution2Output0 rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell8Execution2Source rdf:value """def make_pow(n):
+    return lambda x: x ** n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Cell9Execution0Output0 rdf:value """<class 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell9Execution0Source rdf:value "print(type(square))" .
+
+repr:Cell9Execution1Output0 rdf:value """<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell9Execution1Source rdf:value "print(type(square))" .
+
+repr:Cell9Execution2Output0 rdf:value """<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Cell9Execution2Source rdf:value "print(type(square))" .
+
+repr:Output11 a p-plan:Variable ;
+    repr:hasExecutionCount 7 ;
+    repr:hasSubOutput repr:Output11Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output11Suboutput0 rdf:value "['Amir', 'Amiram', 'Haim', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output13 a p-plan:Variable ;
+    repr:hasExecutionCount 8 ;
+    repr:hasSubOutput repr:Output13Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output13Suboutput0 rdf:value "['Yoav', 'Amir', 'Haim', 'Amiram']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output15 a p-plan:Variable ;
+    repr:hasExecutionCount 9 ;
+    repr:hasSubOutput repr:Output15Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output15Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output16 a p-plan:Variable ;
+    repr:hasExecutionCount 10 ;
+    repr:hasSubOutput repr:Output16Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output16Suboutput0 rdf:value "'vaoY'" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output18 a p-plan:Variable ;
+    repr:hasExecutionCount 11 ;
+    repr:hasSubOutput repr:Output18Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output18Suboutput0 rdf:value "['Amiram', 'Haim', 'Amir', 'Yoav']" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output2 a p-plan:Variable ;
+    repr:hasExecutionCount 1 ;
+    repr:hasSubOutput repr:Output2Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output21 a p-plan:Variable ;
+    rdf:value "name 'sqrt' is not defined" ;
+    repr:hasErrorName "NameError" ;
+    repr:hasErrorTraceback "[u'\\x1b[0;31m---------------------------------------------------------------------------\\x1b[0m', u'\\x1b[0;31mNameError\\x1b[0m                                 Traceback (most recent call last)', u'\\x1b[0;32m<ipython-input-13-5634c05cf6d2>\\x1b[0m in \\x1b[0;36m<module>\\x1b[0;34m()\\x1b[0m\\n\\x1b[0;32m----> 1\\x1b[0;31m \\x1b[0mabsolute\\x1b[0m \\x1b[0;34m=\\x1b[0m \\x1b[0mcompose\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0;32mlambda\\x1b[0m \\x1b[0mx\\x1b[0m\\x1b[0;34m:\\x1b[0m \\x1b[0mx\\x1b[0m \\x1b[0;34m**\\x1b[0m \\x1b[0;36m2\\x1b[0m\\x1b[0;34m,\\x1b[0m \\x1b[0msqrt\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[0m\\x1b[1;32m      2\\x1b[0m \\x1b[0;32mprint\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0mabsolute\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0;36m5\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n\\x1b[1;32m      3\\x1b[0m \\x1b[0;32mprint\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0mabsolute\\x1b[0m\\x1b[0;34m(\\x1b[0m\\x1b[0;34m-\\x1b[0m\\x1b[0;36m5\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m)\\x1b[0m\\x1b[0;34m\\x1b[0m\\x1b[0m\\n', u\"\\x1b[0;31mNameError\\x1b[0m: name 'sqrt' is not defined\"]" ;
+    repr:hasType "error" .
+
+repr:Output2Suboutput0 rdf:value "8" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output3 a p-plan:Variable ;
+    repr:hasExecutionCount 2 ;
+    repr:hasSubOutput repr:Output3Suboutput0 ;
+    repr:hasType "execute_result" .
+
+repr:Output3Suboutput0 rdf:value "function" ;
+    repr:hasDataType "text/plain" .
+
+repr:Output4 a p-plan:Variable ;
+    rdf:value """8
+<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Output6 a p-plan:Variable ;
+    rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Output8 a p-plan:Variable ;
+    rdf:value """100
+1000
+10.0
+""" ;
+    repr:hasType "stream" .
+
+repr:Output9 a p-plan:Variable ;
+    rdf:value """<type 'function'>
+""" ;
+    repr:hasType "stream" .
+
+repr:Source0 a p-plan:Variable ;
+    rdf:value """# CS1001.py
+
+## Extended Introduction to Computer Science with Python, Tel-Aviv University, Spring 2013
+
+# Recitation 7 - 25-29.4.2013
+
+## Last update: 29.4.2013""" .
+
+repr:Source1 a p-plan:Variable ;
+    rdf:value """# Lambda expressions and high-order functions
+
+Lambda expressions are a way to define a function *inline* in runtime without a `def` statement.
+
+For example, lets use a lambda expression to define a simple function:""" .
+
+repr:Source10 a p-plan:Variable ;
+    rdf:value """## `sorted` - a function that recieves and uses a function
+The sorting buiktin function `sorted` can recieve a function as an argument and use it to sort a collection.
+
+Regular `str` sorting - lexicographical orer:""" .
+
+repr:Source11 a p-plan:Variable ;
+    rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"])" .
+
+repr:Source12 a p-plan:Variable ;
+    rdf:value "Sort by length - give `len` as the `key` argument to `sorted`:" .
+
+repr:Source13 a p-plan:Variable ;
+    rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=len)" .
+
+repr:Source14 a p-plan:Variable ;
+    rdf:value "Sort by reverse lexicographical order - note this does not change the list elements, only the order of the elements:" .
+
+repr:Source15 a p-plan:Variable ;
+    rdf:value "sorted([\"Yoav\", \"Amir\", \"Amiram\", \"Haim\"], key=lambda x: x[::-1])" .
+
+repr:Source16 a p-plan:Variable ;
+    rdf:value "\"Yoav\"[::-1]" .
+
+repr:Source17 a p-plan:Variable ;
+    rdf:value "For a complex sorting function we can define a function instead of using `lambda`:" .
+
+repr:Source18 a p-plan:Variable ;
+    rdf:value """def comparator(x):
+    return x[::-1]
+sorted(["Yoav", "Amir", "Amiram", "Haim"], key=comparator)""" .
+
+repr:Source19 a p-plan:Variable ;
+    rdf:value """## `compose` - a function that recieves two function and creates a third
+
+`compose` does function composition.""" .
+
+repr:Source2 a p-plan:Variable ;
+    rdf:value "(lambda x: x + 2)(6)" .
+
+repr:Source20 a p-plan:Variable ;
+    rdf:value """def compose(f1,f2):
+    def composed(x):
+        return f2(f1(x))
+    return composed""" .
+
+repr:Source21 a p-plan:Variable ;
+    rdf:value """absolute = compose(lambda x: x ** 2, sqrt)
+print(absolute(5))
+print(absolute(-5))""" .
+
+repr:Source22 a p-plan:Variable ;
+    rdf:value "A different example:" .
+
+repr:Source23 a p-plan:Variable ;
+    rdf:value """def compose(f1,f2):
+    return lambda x: f2(f1(x))""" .
+
+repr:Source24 a p-plan:Variable ;
+    rdf:value """vector_product = lambda x,y: [x[i] * y[i] for i in range(len(x))]
+vector_product([1,2,3],[3,2,1])""" .
+
+repr:Source25 a p-plan:Variable ;
+    rdf:value """norm = compose(compose(lambda x: vector_product(x,x), sum), sqrt)
+norm([1,2,3])""" .
+
+repr:Source26 a p-plan:Variable ;
+    rdf:value """# `Matrix` class
+
+We will now write a class for matrices.
+
+We will try to include several methods that will make working with matrices easy.""" .
+
+repr:Source27 a p-plan:Variable ;
+    rdf:value """class Matrix:
+    
+    def __init__(self, n_rows, m_cols, default_value=0):
+        assert n_rows > 0
+        assert m_cols > 0
+        assert isinstance(default_value, (int, float, complex))
+        self.rows = [[default_value ] * m_cols for i in range(n_rows)]      
+    
+    def dim(self):
+        '''return tuple -> num of rows, num of cols'''
+        return (len(self.rows), len(self.rows[0]))
+    
+    def __repr__(self):
+        return 'Matrix: %d rows, %d cols\\n' % self.dim() + str(self.rows[0])
+   
+    def __getitem__(self, ij): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i, int) and isinstance(j, int):
+            return self.rows[i][j]
+        elif isinstance(i, slice) and isinstance(j, slice):
+            M = Matrix(1,1) # to be overwritten
+            M.rows = [row[j] for row in self.rows[i]]
+            return M
+        else:
+            return NotImplemented
+    
+    def __setitem__(self, ij, val): 
+        '''ij is a tuple (i,j). Allows m[i,j] instead m[i][j]'''
+        i,j = ij
+        if isinstance(i,int) and isinstance(j,int):
+            assert isinstance(val, (int, float, complex))
+            self.rows[i][j] = val
+        elif isinstance(i,slice) and isinstance(j,slice):
+            assert isinstance(val, Matrix)
+            n,m = val.dim()
+            s_rows = self.rows[i]
+            assert len(s_rows) == n and len(s_rows[0][j]) == m
+            for s_row, v_row in zip(s_rows,val.rows):
+                s_row[j] = v_row
+        else:
+            return NotImplemented
+
+    def __eq__(self, other):
+        assert isinstance(other, Matrix)
+        if self.dim() != other.dim():
+            return False
+        n,m = self.dim()
+        for i in range(n):
+            for j in range(m):
+                if self[i,j] != other[i,j]:
+                    return False
+        return True
+    
+    def __add__(self, other):
+        return self._entrywise_op(other, lambda x,y: x + y)
+    
+    def __sub__(self, other):
+        return self._entrywise_op(other, lambda x,y: x - y)
+    
+    def __neg__(self):
+        n,m = self.dim()
+        return Matrix(n, m, 0) - self
+    
+    def _entrywise_op(self, other, op):
+        assert isinstance(other, Matrix)
+        assert self.dim() == other.dim()
+        n,m = self.dim()
+        M = Matrix(n, m)
+        for i in range(n):
+            for j in range(m):
+                M[i,j] = op(self[i,j], other[i,j])
+        return M
+    
+    def __mul__(self, other):
+        '''multilpy by scalar or another matrix'''
+        if isinstance(other, (int,float,complex)):
+            n,m = self.dim()
+            M = Matrix(n, m, other)
+            return self._entrywise_op(M, lambda x,y: x * y)
+        elif isinstance(other, Matrix):
+            n1,m1 = self.dim()
+            n2,m2 = other.dim()
+            assert m1 == n2
+            M = Matrix(n1,m2)
+            for i in range(n1):
+                for j in range(m2):
+                    M[i,j] = sum([self[i,k] * other[k,j] for k in range(m1)])
+            return M
+        else:
+            return NotImplemented
+    
+    __rmul__ = __mul__
+    
+    def prettyprint(self):
+        return str.join('\\n',[str(row) for row in self.rows])
+    
+    def save(self, filename):
+        '''save to file'''
+        with open(filename, "w") as fout:
+            fout.write(self.prettyprint())
+    
+    @staticmethod
+    def load(filename):
+        '''load from file'''
+        rows = []
+        with open(filename, 'r') as fin:
+            for line in fin:
+                line = line.strip()
+                row = eval(line)
+                rows.append(row)
+        M = Matrix(1,1)
+        M.rows = rows
+        return M""" .
+
+repr:Source28 a p-plan:Variable ;
+    rdf:value """A = Matrix(3,3,1)
+B = Matrix(3,3,1) * 2.5
+C = A - B
+D = A + B
+print(C.prettyprint())
+D.save("tmp")
+print(D == Matrix.load("tmp"))""" .
+
+repr:Source29 a p-plan:Variable ;
+    rdf:value """## Fin
+This notebook is part of the [Extended introduction to computer science](http://tau-cs1001-py.wikidot.com/) course at Tel-Aviv University.
+
+The notebook was written using Python 3.2 and IPython 0.13.1.
+
+The code is available at <https://raw.github.com/yoavram/CS1001.py/master/recitation7.ipynb>.
+
+The notebook can be viewed online at <http://nbviewer.ipython.org/urls/raw.github.com/yoavram/CS1001.py/master/recitation7.ipynb>.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).""" .
+
+repr:Source3 a p-plan:Variable ;
+    rdf:value "type(lambda x: x + 2)" .
+
+repr:Source4 a p-plan:Variable ;
+    rdf:value """f = lambda x: x + 2
+print(f(6))
+print(type(f))""" .
+
+repr:Source5 a p-plan:Variable ;
+    rdf:value """## `make_pow` - a function that creates and returns a function
+
+Without `lambda`:""" .
+
+repr:Source6 a p-plan:Variable ;
+    rdf:value """def make_pow(n):
+    def pow_n(x):
+        return x ** n
+    return pow_n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Source7 a p-plan:Variable ;
+    rdf:value "With `lambda`:" .
+
+repr:Source8 a p-plan:Variable ;
+    rdf:value """def make_pow(n):
+    return lambda x: x ** n
+
+square = make_pow(2)
+print(square(10))
+cube = make_pow(3)
+print(cube(10))
+print(make_pow(0.5)(100))""" .
+
+repr:Source9 a p-plan:Variable ;
+    rdf:value "print(type(square))" .
+
+repr:Cell21 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source21 ;
+    p-plan:hasOutputVar repr:Output21 ;
+    p-plan:isPreceededBy repr:Cell20 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 13 ;
+    repr:hasIndex 21 .
+
+repr:Cell23 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source23 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 23 .
+
+repr:Cell24 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source24 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 24 .
+
+repr:Cell25 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source25 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 25 .
+
+repr:Cell27 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source27 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 27 .
+
+repr:Cell28 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source28 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasIndex 28 .
+
+repr:Cell11 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source11 ;
+    p-plan:hasOutputVar repr:Output11 ;
+    p-plan:isPreceededBy repr:Cell9 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 7 ;
+    repr:hasIndex 11 .
+
+repr:Cell13 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source13 ;
+    p-plan:hasOutputVar repr:Output13 ;
+    p-plan:isPreceededBy repr:Cell11 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 8 ;
+    repr:hasIndex 13 .
+
+repr:Cell15 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source15 ;
+    p-plan:hasOutputVar repr:Output15 ;
+    p-plan:isPreceededBy repr:Cell13 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 9 ;
+    repr:hasIndex 15 .
+
+repr:Cell16 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source16 ;
+    p-plan:hasOutputVar repr:Output16 ;
+    p-plan:isPreceededBy repr:Cell15 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 10 ;
+    repr:hasIndex 16 .
+
+repr:Cell18 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source18 ;
+    p-plan:hasOutputVar repr:Output18 ;
+    p-plan:isPreceededBy repr:Cell16 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 11 ;
+    repr:hasIndex 18 .
+
+repr:Cell2 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source2 ;
+    p-plan:hasOutputVar repr:Output2 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 1 ;
+    repr:hasIndex 2 .
+
+repr:Cell20 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source20 ;
+    p-plan:isPreceededBy repr:Cell18 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 12 ;
+    repr:hasIndex 20 .
+
+repr:Cell3 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source3 ;
+    p-plan:hasOutputVar repr:Output3 ;
+    p-plan:isPreceededBy repr:Cell2 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 2 ;
+    repr:hasIndex 3 .
+
+repr:Cell4 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source4 ;
+    p-plan:hasOutputVar repr:Output4 ;
+    p-plan:isPreceededBy repr:Cell3 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 3 ;
+    repr:hasIndex 4 .
+
+repr:Cell6 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source6 ;
+    p-plan:hasOutputVar repr:Output6 ;
+    p-plan:isPreceededBy repr:Cell4 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 4 ;
+    repr:hasIndex 6 .
+
+repr:Cell8 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source8 ;
+    p-plan:hasOutputVar repr:Output8 ;
+    p-plan:isPreceededBy repr:Cell6 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 5 ;
+    repr:hasIndex 8 .
+
+repr:Cell9 a p-plan:Step ;
+    p-plan:hasInputVar repr:Source9 ;
+    p-plan:hasOutputVar repr:Output9 ;
+    p-plan:isPreceededBy repr:Cell8 ;
+    p-plan:isStepOfPlan repr:recitation7 ;
+    repr:hasCellType "code" ;
+    repr:hasExecutionCount 6 ;
+    repr:hasIndex 9 .
+
+repr:recitation7 a repr:Notebook ;
+    repr:hasKernelDisplayName "Python 2" ;
+    repr:hasKernelName "python2" ;
+    repr:hasProgrammingLanguage "python" ;
+    repr:hasProgrammingLanguageExtension ".py" ;
+    repr:hasProgrammingLanguageVersion "2.7.15rc1" .
+
