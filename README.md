@@ -2,7 +2,7 @@
 Materials used for the development and evaluation of [CAESAR](https://github.com/CaesarReceptorLight) (CollAborative Environment for
 Scientific Analysis with Reproducibility).
 
-The repository contains two folders:  
+The repository contains three folders:  
   * ProvBook  
     *  The folder contains the Jupyter notebooks used in the evaluation of [ProvBook](https://github.com/Sheeba-Samuel/ProvBook). Each notebook are shared with the provenance information of the execution of Jupyter Notebook. Each notebook with its provenance is also shared in RDF (Resource Description Framework) in the turtle format. The provenance information stored in the notebook help users to compare the results of the original execution of the notebook with our execution.
   * REPRODUCE-MEOntolgy  
@@ -21,6 +21,10 @@ The repository contains two folders:
     * ExperimentDatasets: The folder contains the metadata from [IDR](https://github.com/IDR/idr-metadata) used for the evaluation of CAESAR. The metadata from IDR is expressed in RDF. The example data converted to RDF are from the experiments IDR 2, 20, 32, and 38.
     
   * UserEvaluation: The folder contains the CAESAREvaluation file which contains the results from the user evaluation study of CAESAR. The study is conducted with 6 users. The file contains the raw data responses.
+  
+  
+The survey done for collecting requirements for developing CAESAR and REPRODUCE-ME ontology is available here:
+ *  [Survey on Understanding Experiments and Research Practices for Reproducibility](https://peerj.com/articles/11140/): Material and Results: https://github.com/fusion-jena/ReproducibilitySurvey
 
 Detailed information on each resource used in the evaluation is available here: https://w3id.org/reproduceme/
 
