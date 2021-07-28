@@ -1,6 +1,6 @@
 # Evaluation of CAESAR
 Materials used for the development and evaluation of [CAESAR](https://github.com/CaesarReceptorLight) (CollAborative Environment for
-Scientific Analysis with Reproducibility).
+Scientific Analysis with Reproducibility). CAESAR is a collaborative scientific data management platform for the end-to-end provenance management of scientific experiments.
 
 The repository contains three folders:  
   * ProvBook  
