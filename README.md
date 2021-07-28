@@ -4,7 +4,7 @@ Scientific Analysis with Reproducibility).
 
 The repository contains two folders:  
   * ProvBook  
-    *  The folder contains the Jupyter notebooks used in the evaluation of [ProvBook](https://github.com/Sheeba-Samuel/ProvBook). Each notebook are shared with the provenance information of the execution of Jupyter Notebook. Each notebook with its provenance is also shared in RDF (Resource Description Framework) in the turtle format.
+    *  The folder contains the Jupyter notebooks used in the evaluation of [ProvBook](https://github.com/Sheeba-Samuel/ProvBook). Each notebook are shared with the provenance information of the execution of Jupyter Notebook. Each notebook with its provenance is also shared in RDF (Resource Description Framework) in the turtle format. The provenance information stored in the notebook help users to compare the results of the original execution of the notebook with our execution.
   * REPRODUCE-MEOntolgy  
     * CompetencyQuestionResults: The folder contains 10 sample competency questions and their answers used in the evaluation of [REPRODUCE-ME ontolgy](https://w3id.org/reproduceme/) with the data stored in CAESAR. 
     The sample competency questions are:
@@ -20,7 +20,7 @@ The repository contains two folders:
       * List all the experiments which uses growth protocol (EFO_0003789) and studies on "Homo sapiens" and resulted in phenotype "shorter prophase" which passed the quality control.    
     * ExperimentDatasets: The folder contains the metadata from [IDR](https://github.com/IDR/idr-metadata) used for the evaluation of CAESAR. The metadata from IDR is expressed in RDF. The example data converted to RDF are from the experiments IDR 2, 20, 32, and 38.
     
-    * CAESAREvaluation.ods: The file contains the results from the user evaluation study of CAESAR. The study is conducted with 6 users. The file contains the raw data responses.
+  * UserEvaluation: The folder contains the CAESAREvaluation file which contains the results from the user evaluation study of CAESAR. The study is conducted with 6 users. The file contains the raw data responses.
 
 Detailed information on each resource used in the evaluation is available here: https://w3id.org/reproduceme/
 
